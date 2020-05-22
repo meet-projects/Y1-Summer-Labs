@@ -77,7 +77,7 @@ print(five*3)
 3. Call an Instructor/TA to check your completed task before moving on to the next part!
 
 ---
-##### Great job on completing your first Turtle Lab!
+## Great job on completing your first Turtle Lab!
 ##### Call an Instructor/TA to check your completed tasks
  
 
