@@ -41,7 +41,7 @@ b = a
 
 5. Come up with a solution that fixes this issue, and switches the `a` and `b` values correctly!
 
----
+
 ### 2) Strings : 
 1. In the **python editor**, define **a variable** with the following code:  
 ```python
@@ -65,7 +65,7 @@ print(five*3)
 
 5. Talk with a partner, and discuss why is this code's **output** *not* equal to `15`? 
    
----
+
 ### 3) Debugging Practice: 
 1. Our goal is to make the picture below, using **two turtles**.
 ![Image of Copy Cat outcome](https://lh4.googleusercontent.com/ykhbjCdVwh8eHFxlphI9prJbFpNiLn9luPZicTQwI7NBs9b7baNsj9sPBFdihEFmyZPqpqS6RDS7a84yrISyCCSNcnWA7_j_OtO26bLVqBhg7qnGCYOeJCdY19CAFIGhNcYt1E8)
