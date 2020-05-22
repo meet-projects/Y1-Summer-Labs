@@ -1,7 +1,7 @@
 # Intro to CS - Linux Lab
 
-### Objective: 
-In this lab, you will learn how to use basic `Linux` commands. These will help you organize your work for this year and for the rest of your journey at MEET!
+> ### Objective: 
+> In this lab, you will learn how to use basic `Linux` commands. These will help you organize your work for this year and for the rest of your journey at MEET!
 
 
 
@@ -13,7 +13,7 @@ In this lab, you will learn how to use basic `Linux` commands. These will help y
 
 
 
-### Instructions:
+>### Instructions:
 1. Open a **Linux** `terminal` by double-clicking on this icon:
     1. You should see something like this pop up:
 
@@ -36,7 +36,7 @@ In this lab, you will learn how to use basic `Linux` commands. These will help y
 
 
 1. Click on the **Day1** folder in your **Desktop** to see if **newFolder** is there. (You probably already know how to explore folders this way.)
-    1. In your **Day1** folder, Right-click and click Create Folder to make a new folder.
+    1. In your **Day1** folder, *Right-click* and click **Create Folder** to make a new folder.
     1. Name it **anotherFolder**.
 
 1. In the **Linux terminal**, type `ls` to confirm that **anotherFolder** is now in the **Day1** folder.
@@ -62,7 +62,7 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 
 
 
-### Bonus Problems:
+> ### Bonus Problems:
 
 1. In the Linux terminal **Day1** folder, type: `idle3 newFile.py &`. 
     1. This makes a *new Python* file called **newFile**.
@@ -77,7 +77,7 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 1. Type `cd ..` (where you include two period points after `cd`)
     1. This allows us to change directories to the *parent* folder **Day 1**. This means you move *back* out of **newFolder** up to the **Day1** folder.
 
-1. Make **anotherFile.py** using the **idle3 ___ &** command as shown in **#10**.
+1. Make **anotherFile.py** using the **idle3 ___ &** command as shown in **Bonus Problems #1**.
     1. Type `ls` to see if it’s there.
 
 1. Now move **anotherFile.py** to **anotherFolder** by typing: `mv anotherFile.py anotherFolder` 
