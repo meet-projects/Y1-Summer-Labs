@@ -63,7 +63,7 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 
 
 
-### Bonus Problems:
+## Bonus Problems:
 
 1. In the Linux terminal **Day1** folder, type: `idle3 newFile.py &`. 
     1. This makes a *new Python* file called **newFile**.
