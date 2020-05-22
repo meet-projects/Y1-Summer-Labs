@@ -1,6 +1,6 @@
 # Turtle Lab
 
-> ### Objective: 
+## Objective: 
 In this lab, you will learn how to setup your **Repl.it** environment, you'll learn how to use **Turtle** commands, and show visual representation of your code!
 
 
@@ -11,8 +11,8 @@ In this lab, you will learn how to setup your **Repl.it** environment, you'll le
 
 
 
----
->### Setup:
+
+## Setup:
 * First, we'll need to set up our **Repl.it** environment:
     1. **Account Creation:**
         1. Go to https://Repl.it/ and click on **Sign Up** (Top-right).
@@ -33,10 +33,10 @@ In this lab, you will learn how to setup your **Repl.it** environment, you'll le
         1. We'll teach you how to submit your work later on :)
 
 
----
+
 **Now we're done with setting up our programming environment, let's get to Turtle!**
 
->### Instructions:
+## Instructions:
 
 ### 1) Shape of the Turtle: 
 1. Turtle has a `shape()` function that allows us to change the **shape** of the turtle from an *arrow* to something else. 
@@ -125,7 +125,7 @@ turtle.goto(-100,-100)
     - **E** (Feel free to do it normally, or in reverse, just like the original MEET logo!)
     - **T**
 
----
+
 ##### Great job on completing your first Turtle Lab!
 ##### Call an Instructor/TA to check your completed tasks
  
@@ -134,13 +134,12 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 If not, make sure your code is saved in **Repl.it**!
 
 
-> [![](https://www.vivaxsolutions.com/images/turtle-11.gif)]()
+[![](https://www.vivaxsolutions.com/images/turtle-11.gif)]()
 
 
 
 
----
-> ### Bonus Problems:
+## Bonus Problems:
 
 1. Use Turtle to spell your name!
 
