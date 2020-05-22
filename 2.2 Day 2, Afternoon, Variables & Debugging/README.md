@@ -78,9 +78,8 @@ print(five*3)
 
 ---
 ## Great job on completing your first Turtle Lab!
-##### Call an Instructor/TA to check your completed tasks
+**Call an Instructor/TA to check your completed tasks**
  
-
 If you have extra time, continue to the **Bonus Problems** *below*.  
 If not, make sure your code is saved in **Repl.it**!
 
@@ -88,16 +87,14 @@ If not, make sure your code is saved in **Repl.it**!
 > [![](https://www.vivaxsolutions.com/images/turtle-11.gif)]()
 
 
-
-
 ---
-> ### Bonus Problems:
+### Bonus Problems:
 
 1. Use Turtle to spell your name!
 
-1. Spell your friend's name!
+2. Spell your friend's name!
 
-1. Remember this image from the lecture? 
+3. Remember this image from the lecture? 
 [![](https://lh4.googleusercontent.com/GPfF_OuZ4soVCwKDxBTBP5gX-m3-fKVxA31TcyGcSu_3M9fzFFLoGmoznudFVHM74VyVP6GT-Cb2gNXa9_V24hu2alIci1_TtamKgEQiZ8gm-tsa1vpgMHKRGyP657m8el4wQhACMw)]()
     - There are many different programming languages, **Python** is one of the most powerful ones!
     - This code (in the image) is written in **Javascript**; We haven't learned Javascript already, but try to understand the lines of code and using python, come up with the same image!
