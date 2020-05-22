@@ -1,6 +1,6 @@
 # Variables & Debugging Lab
 
-### Objective: 
+> ### Objective: 
 In this lab, you will learn how to assign *values* to **variables**, how to change the *values* of a **variable**, and how to *recognize* **errors** in code!
 
 
@@ -15,7 +15,7 @@ In this lab, you will learn how to assign *values* to **variables**, how to chan
 
 ---
 
-## Instructions:
+>### Instructions:
 
 ### 1) Variables Switch: 
 1. In the **python editor**, define **two variables** with the following code:  
@@ -41,7 +41,7 @@ b = a
 
 5. Come up with a solution that fixes this issue, and switches the `a` and `b` values correctly!
 
-
+---
 ### 2) Strings : 
 1. In the **python editor**, define **a variable** with the following code:  
 ```python
@@ -65,40 +65,55 @@ print(five*3)
 
 5. Talk with a partner, and discuss why is this code's **output** *not* equal to `15`? 
    
-
+---
 ### 3) Debugging Practice: 
-1. Our goal is to make the picture below, using **two turtles**.
-![Image of Copy Cat outcome](https://lh4.googleusercontent.com/ykhbjCdVwh8eHFxlphI9prJbFpNiLn9luPZicTQwI7NBs9b7baNsj9sPBFdihEFmyZPqpqS6RDS7a84yrISyCCSNcnWA7_j_OtO26bLVqBhg7qnGCYOeJCdY19CAFIGhNcYt1E8)
+Below, you can find 3 mini programs that are written incorrectly.  
+We will provide what each program's intention is, and your job is to copy-paste it to your **Repl.it** and fix it!  
 
-2. Note that the **short lines** are `75 pixels` long, and the **long lines** are `150 pixels`. You can name your turtles however you'd like!
+1. Intention: Print out `"My name is student"`
+```python
+my_name = "student"
+print("My name is ' + 'my_name")
+```  
 
-> Hint: What do color(), pensize(), and shape() do?
+2. Intention: Print out `"I am 15 years old"`  
+```python
+my_age = 15
+print('I am ' + my_age + 'years old')
+```  
+
+3. Intention: Print out the **total score**
+```python
+score = 4
+count = "5"
+total = score * count
+
+print(total)
+```
 
 3. Call an Instructor/TA to check your completed task before moving on to the next part!
 
 ---
-## Great job on completing your first Turtle Lab!
-**Call an Instructor/TA to check your completed tasks**
+##### Great job on completing the Lab!
+##### Call an Instructor/TA to check your completed tasks
  
+
 If you have extra time, continue to the **Bonus Problems** *below*.  
 If not, make sure your code is saved in **Repl.it**!
 
 
-> [![](https://www.vivaxsolutions.com/images/turtle-11.gif)]()
+> [![](https://i.pinimg.com/originals/d4/20/4d/d4204d385da2a67b114644def349713d.gif)]()
+
+
 
 
 ---
-### Bonus Problems:
+> ### Bonus Problems:
 
-1. Use Turtle to spell your name!
+1. If you finish early, go back and complete **all the previous labs** if you have not finished them.
 
-2. Spell your friend's name!
+1. Make a cool design with **Turtle**!
 
-3. Remember this image from the lecture? 
-[![](https://lh4.googleusercontent.com/GPfF_OuZ4soVCwKDxBTBP5gX-m3-fKVxA31TcyGcSu_3M9fzFFLoGmoznudFVHM74VyVP6GT-Cb2gNXa9_V24hu2alIci1_TtamKgEQiZ8gm-tsa1vpgMHKRGyP657m8el4wQhACMw)]()
-    - There are many different programming languages, **Python** is one of the most powerful ones!
-    - This code (in the image) is written in **Javascript**; We haven't learned Javascript already, but try to understand the lines of code and using python, come up with the same image!
-    - **NOTE:** No need to make the eye animations, but if you can, it's a huge bonus!
 
 ##### Great job on completing the bonus problems section!  
 ###### Make sure your code is saved in Repl.it
