@@ -1,6 +1,6 @@
 # Intro to CS - Linux Lab
 
-> ### Objective: 
+## Objective: 
  In this lab, you will learn how to use basic `Linux` commands. These will help you organize your work for this year and for the rest of your journey at MEET!
 
 
@@ -11,7 +11,7 @@
 
 
 ---
->### Instructions:
+## Instructions:
 
 1. Open a **Linux** `terminal` by double-clicking on this icon:
     1. [![](https://lh3.googleusercontent.com/proxy/cHRNI6pM0BqLsW-a3wmXRTTl58d1Jy6bik0vhEV4lGW5bZxfQPpDmhOhNTq5sndTHG9gilISn-xfUOjcI7Q0wVVTFglYnZFYlSdc2epg7GoA7a4ym5X9)]()
