@@ -1,6 +1,6 @@
 # Variables & Debugging Lab
 
-### Objective: 
+## Objective: 
 In this lab, you will learn how to assign *values* to **variables**, how to change the *values* of a **variable**, and how to *recognize* **errors** in code!
 
 
@@ -13,7 +13,7 @@ In this lab, you will learn how to assign *values* to **variables**, how to chan
 > Before we start, make sure to create a new file (in **Repl.it**) and call it **"VariablesLab"**.  
 > Make sure it's saved in the same folder you created earlier today - **"Day 2"**.
 
----
+
 
 ## Instructions:
 
@@ -93,7 +93,7 @@ print(total)
 
 3. Call an Instructor/TA to check your completed task before moving on to the next part!
 
----
+
 ### Great job on completing the Lab!
 **Call an Instructor/TA to check your completed tasks**
  
@@ -107,8 +107,8 @@ If not, make sure your code is saved in **Repl.it**!
 
 
 
----
-> ### Bonus Problems:
+
+## Bonus Problems:
 
 1. If you finish early, go back and complete **all the previous labs** if you have not finished them.
 
