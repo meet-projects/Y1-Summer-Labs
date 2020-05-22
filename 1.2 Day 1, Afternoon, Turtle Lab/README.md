@@ -1,7 +1,7 @@
 # Turtle Lab
 
 > ### Objective: 
-In this lab, you will learn how to setup your Repl.it environment, you'll learn how to use **Turtle** commands, and show visual representation of your code!
+In this lab, you will learn how to setup your **Repl.it** environment, you'll learn how to use **Turtle** commands, and show visual representation of your code!
 
 
 
@@ -12,8 +12,8 @@ In this lab, you will learn how to setup your Repl.it environment, you'll learn 
 
 
 ---
->### Instructions:
-* First, we'll need to set up our Repl.it environment:
+>### Setup:
+* First, we'll need to set up our **Repl.it** environment:
     1. **Account Creation:**
         1. Go to https://Repl.it/ and click on **Sign Up** (Top-right).
         1. Fill in your username, email, and password... make sure your email is valid and accessible.
@@ -36,7 +36,9 @@ In this lab, you will learn how to setup your Repl.it environment, you'll learn 
 ---
 **Now we're done with setting up our programming environment, let's get to Turtle!**
 
-### Shape of the Turtle: 
+>### Instructions:
+
+### 1) Shape of the Turtle: 
 1. Turtle has a `shape()` function that allows us to change the **shape** of the turtle from an *arrow* to something else. 
 1. Type this code (you don’t need to include the comments):
 ```python
@@ -67,7 +69,7 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 - These are the **shapes** you can use:  
 ![Image of Turtle Shapes](https://github.com/meet-projects/Y1-Summer-Labs/blob/master/TurtleShapes.png)
 ---
-### Copy Cat: 
+### 2) Copy Cat: 
 1. Our goal is to make the picture below, using **two turtles**.
 ![Image of Copy Cat outcome](https://lh4.googleusercontent.com/ykhbjCdVwh8eHFxlphI9prJbFpNiLn9luPZicTQwI7NBs9b7baNsj9sPBFdihEFmyZPqpqS6RDS7a84yrISyCCSNcnWA7_j_OtO26bLVqBhg7qnGCYOeJCdY19CAFIGhNcYt1E8)
 
@@ -79,7 +81,7 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 
 ---
 
-### Spell MEET with Turtle: 
+### 3) Spell MEET with Turtle: 
 1. Our goal is to make the picture below by the end of this part.
 ![Image of MEET spelled with Turtle](https://lh6.googleusercontent.com/FNxs9tykGwRH9nRERleBnkIXmXCCdTGkNxju2yebYvrtArkfjmLCQaXsJ7bcj9z4bGSjmC_abCzcrSInYjrj3b8tVzZyuqk3ftgGpk8D1hc03ia7J16ojcxd1M2zcDyHa9yEGYE)
 
@@ -121,7 +123,7 @@ turtle.goto(-100,-100)
 4. Get the idea? Great! Now complete the rest of the letters:
     - **E**
     - **E** (Feel free to do it normally, or in reverse, just like the original MEET logo!)
-    - **T*
+    - **T**
 
 ---
 ##### Great job on completing your first Turtle Lab!
