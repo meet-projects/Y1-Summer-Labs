@@ -89,4 +89,4 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 
 
 
-> [![](https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif)]()
+![](https://cdn.dribbble.com/users/94656/screenshots/1141726/terminal2.gif = 100x20)
