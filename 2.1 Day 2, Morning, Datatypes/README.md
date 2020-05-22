@@ -1,6 +1,6 @@
 # Datatypes Lab
 
-> ### Objective: 
+## Objective: 
 In this lab, you will learn about different data types, including `int`, `float`, `str`, and `bool`, and how to use `type()` to determine what data type a variable is, using **Python**. 
 
 
@@ -15,8 +15,8 @@ In this lab, you will learn about different data types, including `int`, `float`
 > Before we start, make sure to create a new folder in **Repl.it** and call it **"Day 2"**!  
 > In **"Day 2"**, create a new python file and call it **"DatatypesLab"**
 
----
->### Instructions:
+
+## Instructions:
 
 1. Pair up with a partner, and take a look at this table:
     - First row is done as an example!  
@@ -43,7 +43,7 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 
 
----
+
 ##### Great job!
 ##### Call an Instructor/TA to check your completed tasks
  
@@ -52,13 +52,13 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 If not, make sure your code is saved in **Repl.it**!
 
 
-> [![](https://programmer.group/images/article/1a680890c223e534389f27858b5bf33a.jpg)]()
+[![](https://programmer.group/images/article/1a680890c223e534389f27858b5bf33a.jpg)]()
 
 
 
 
----
-> ### Bonus Problems: 
+
+## Bonus Problems: 
 1. Think about why you got the errors with some lines. How can you change the line to get no error? Discuss with you teammate next to you.  Test your guess in the **Repl.it** file! 
 
 2. Now type all of the lines again without the word `type` at the beginning. What do you get?
