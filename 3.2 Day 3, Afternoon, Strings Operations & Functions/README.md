@@ -4,16 +4,13 @@
 In this lab, you will learn how to use **strings FUNctions**, as well as make sure you grasp the idea of **Input/Output** a bit more!
 
 
+<img src='https://img.buzzfeed.com/buzzfeed-static/static/2015-02/6/11/enhanced/webdr12/anigif_enhanced-21489-1423241457-4.gif'>
 
-
-[![](https://i.gifer.com/AAqe.gif)]()
 
 
 
 > Before we start, make sure to create a new file (in **Repl.it**) and call it **"Strings2Lab"**.  
 > And save it in **"Day 3"** folder!
-
----
 
 ## Instructions:
 
@@ -62,11 +59,12 @@ user = input("Say something! ")
 
 
 7. Test that your code works for **ANY** name by trying a few *different* names.
-    - You can even ask a neighbor to write out name suggestions to help you in testing!
+    - You can even ask a neighbor to write out name suggestions to help you in testing!  
 
+  
+  
 
-
-
+  
 ### Great job on completing the Lab!
 **Call an Instructor/TA to check your completed tasks**
  
