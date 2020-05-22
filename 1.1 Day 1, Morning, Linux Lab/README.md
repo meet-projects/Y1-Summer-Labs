@@ -1,7 +1,7 @@
 # Intro to CS - Linux Lab
 
 ## Objective: 
- In this lab, you will learn how to use basic `Linux` commands. These will help you organize your work for this year and for the rest of your journey at MEET!
+In this lab, you will learn how to use basic `Linux` commands. These will help you organize your work for this year and for the rest of your journey at MEET!
 
 
 
