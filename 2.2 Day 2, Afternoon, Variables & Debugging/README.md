@@ -1,6 +1,6 @@
 # Variables & Debugging Lab
 
-> ### Objective: 
+### Objective: 
 In this lab, you will learn how to assign *values* to **variables**, how to change the *values* of a **variable**, and how to *recognize* **errors** in code!
 
 
@@ -15,7 +15,7 @@ In this lab, you will learn how to assign *values* to **variables**, how to chan
 
 ---
 
->### Instructions:
+## Instructions:
 
 ### 1) Variables Switch: 
 1. In the **python editor**, define **two variables** with the following code:  
@@ -94,8 +94,8 @@ print(total)
 3. Call an Instructor/TA to check your completed task before moving on to the next part!
 
 ---
-##### Great job on completing the Lab!
-##### Call an Instructor/TA to check your completed tasks
+### Great job on completing the Lab!
+**Call an Instructor/TA to check your completed tasks**
  
 
 If you have extra time, continue to the **Bonus Problems** *below*.  
