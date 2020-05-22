@@ -1,19 +1,19 @@
 # Intro to CS - Linux Lab
 
 > ### Objective: 
-> In this lab, you will learn how to use basic `Linux` commands. These will help you organize your work for this year and for the rest of your journey at MEET!
+ In this lab, you will learn how to use basic `Linux` commands. These will help you organize your work for this year and for the rest of your journey at MEET!
+
+
+
+[![](https://chemnitzer.linux-tage.de/2017/static/img/box/tuxel.gif)]()
 
 
 
 
 
-
-
-
-
-
-
+---
 >### Instructions:
+
 1. Open a **Linux** `terminal` by double-clicking on this icon:
     1. You should see something like this pop up:
 
@@ -42,11 +42,13 @@
 1. In the **Linux terminal**, type `ls` to confirm that **anotherFolder** is now in the **Day1** folder.
 
 1. Figure out how to open *Firefox* using the **Linux terminal**!
+---
 
-##### Great job on completing your first Lab!
-##### Call an Instructor/TA to check your completed tasks
+>##### Great job on completing your first Lab!
+>##### Call an Instructor/TA to check your completed tasks
  
-If you have extra time, continue to the **Bonus Problems** *below*.
+
+>If you have extra time, continue to the **Bonus Problems** *below*.
 
 
 
@@ -61,7 +63,7 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 
 
 
-
+---
 > ### Bonus Problems:
 
 1. In the Linux terminal **Day1** folder, type: `idle3 newFile.py &`. 
