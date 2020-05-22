@@ -1,6 +1,6 @@
 # Strings Lab
 
-### Objective: 
+## Objective: 
 In this lab, you will learn how to use **strings**, as well as make sure you grasp the idea of **Input/Output**!
 
 
@@ -52,8 +52,17 @@ sentence1 = input("Say something! ")
 ---
 ### 3) Operators: 
 
+1. Copy paste this code into your **Repl.it** editor:
+```python
+s1 = " together until we "
+s2 = " all the same."
+s3 = "Let's all be unique "
+s4 = " realise we are " 
+```
 
----
+2. Using the string operations, put these sentences together to complete the meaning!
+
+
 ### Great job on completing the Lab!
 **Call an Instructor/TA to check your completed tasks**
  
@@ -62,13 +71,13 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 If not, make sure your code is saved in **Repl.it**!
 
 
-> [![](https://i.pinimg.com/originals/82/6a/e7/826ae74c5c26e916dca8e1dd13808b22.gif)]()
+ [![](https://i.pinimg.com/originals/82/6a/e7/826ae74c5c26e916dca8e1dd13808b22.gif)]()
 
 
 
 
----
-> ### Bonus Problems:
+
+## Bonus Problems:
 
 1. If you finish early, go back and complete **all the previous labs** if you have not finished them.
 
