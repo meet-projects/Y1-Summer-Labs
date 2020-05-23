@@ -86,7 +86,7 @@ Write the following functions according to each one's description:
 
 3. Friendly Parrot - This parrot greets people by returning their name and age (don't forget to pass that information in as arguments).
 
-4. Favorites Parrot - Tell this parrot about your three favorite things and he will return "I love too!" for each of them.
+4. Favorites Parrot - Tell this parrot about your three favorite things and it will return "I love too!" for each of them.
 ```python
 #Example: If you write this line
 favorites_parrot("bikes","cars","carrots")
@@ -99,7 +99,7 @@ favorites_parrot("bikes","cars","carrots")
 
 5. Now let's pretend you are a wizard and you want to place a spell on each of the parrots so that they speak with letter cases swapped. How would you do that? 
 
-6.The spell has been broken and everyone is speaking normally again. The parrots are really excited about it though - make them shout in all caps!
+6. The spell has been broken and everyone is speaking normally again. The parrots are really excited about it though - make them shout in all caps!
 
 
 ##### Great job on completing the bonus problems section!  
