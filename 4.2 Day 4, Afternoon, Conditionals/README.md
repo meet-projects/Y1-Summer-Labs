@@ -1,7 +1,7 @@
 # Conditionals Lab
 
 ## Objective: 
-In this lab, you will learn how to start writing **conditions** using **conditionals** and make programs that decides decisions!
+In this lab, you will learn how to start writing **conditions** using **conditionals** and make programs that can take decisions!
 
 
 
@@ -22,20 +22,31 @@ In this lab, you will learn how to start writing **conditions** using **conditio
     - If the **number of donuts** is *greater* than **zero**, then this function should **print** `"Get back on your diet!"` 
     - Otherwise it should **print** `"Good job, Homer!"`
     
-Homer's diet has been going well and we're going to cut him some slack. 
+    Homer's diet has been going well and we're going to cut him some slack. 
 2. Write a new function called `less_donuts` that takes in a **number of donuts** as an argument
     - The function should tell Homer `"good job"` when he eats **less than *3 donuts***
     - And to `"slow down"` if he's eaten **exactly 3 donuts** 
     - And "`get back on your diet"` if he eats **more than 3 donuts**.
 
-We've decided to give Homer a little more control over his diet.  
+    We've decided to give Homer a little more control over his diet.  
 3. Write a function called `some_donuts` that takes in **two arguments**, the **number of donuts** he has eaten, and a **maximum donut intake**. 
     - This method should tell Homer `"good job"` if he eats **less than half his maximum intake**
     - And `"get back on your diet"` when he **exceeds his maximum intake**.
 
 
-### 2) GO HOME!, Unless...
+### 2) GO HOME!, Unless...  
 
+Remember the **"GO HOME"** function from before?
+1. Write a new function called `goHome_unless`, it should take 1 argument - `name`.
+
+2. Make it so the function prints `"[name], Go home!"`, unless the name is `"homer"`, he is allowed to stay!
+
+3. Does it work if you put in these strings as the `name` argument?
+    - `"homer"`
+    - `"Homer"`
+    - `"hoMEr"`
+    
+4. If it doesn't take the previous strings, update and fix your function so it accepts the name `"homer"` in any way written! 
 
 
 ### 3) Daily Routine
