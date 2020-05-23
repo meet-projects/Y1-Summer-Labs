@@ -94,7 +94,7 @@ If not, make sure your code is saved in **Repl.it**!
 
 ## Bonus Problems:
 
-## Leap Years*
+#### Leap Years*
 <img src="https://s3.amazonaws.com/after-school-assets/leap.gif" align="right" hspace="10">
 
 1. Write a new function that takes in **two arguments** for a `starting year` and an `ending year`, and then `print` all of the **leap years** *between them* (including the starting and ending years, if they are also leap years). 
