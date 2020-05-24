@@ -25,7 +25,7 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
     whole milk | 1 cup     
     shredded cheddar cheese | 3 cups    
 
-  **All of the ingredients should be symbols and the amounts should be strings.**
+  **All of the ingredients and amounts should be strings.**
 
 2. Write a function that **returns** (not print) your `mac_and_cheese_recipe` dictionary
 
@@ -41,10 +41,9 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 7. Return the number of ingredients in the `mac_and_cheese_recipe` dictionary.
     - Create a function called `number_ingredients`, that handles this.
     
-### 2) GO HOME!, Unless...  
 ### 2) Dictionaries in Dictionaries (Nested dictionaries)
 ```python
-city_info = {"new_york" : { "mayor" : "Bill DeBlasio",
+city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
 							"population" : 8337000,
 							"website" : "http://www.nyc.gov"
 							},
@@ -63,19 +62,20 @@ city_info = {"new_york" : { "mayor" : "Bill DeBlasio",
 		    }
 ```
 1. The `city_info` dictionary above is a series of nested dictionaries. What do I get returned if I ask for:
-    + `city_info["los_angeles"]` ?
-    + `city_info["chicago"]["mayor"]` ?
+    - `city_info["los_angeles"]` ?
+    - `city_info["chicago"]["mayor"]` ?
 
 2. What code should I write to return each of these?:
-    + The population of New York
-    + The website for Miami city government
-    + The mayor of Los Angeles
-    + A dictionary with all information on Chicago
+    - The population of New York
+    - The website for Miami city government
+    - The mayor of Los Angeles
+    - A dictionary with all information on Chicago
 
 ### 3) Instagram Post
 
 Your an engineer at **Instagram**, the **App development manager** asks you to create better organized Instagram *post* data structure!
 The manager thinks it's really messy and un-organized, and he wants the post data stored in **dictionaries**!
+
 
 1. *Define* a new dictionary, call it `instagram_post`, It should have the following keys:
     **Key** | **Value**          
@@ -85,6 +85,7 @@ The manager thinks it's really messy and un-organized, and he wants the post dat
     Likes | should be a `list` of names (strings) of the likers.     
     Comments | should be a `list` of strings of the comments.
     - Fill the content as you wish :)
+<img src="https://gifimage.net/wp-content/uploads/2018/11/instagram-post-gif.gif" width="300" align="right">
     
 2. *Define* a new function, call it `like_post`, It should have 1 argument - `name` (the name of the liker)
     - The function should add `name` to `Likes` in `instagram_post` dictionary.
@@ -99,8 +100,6 @@ The manager thinks it's really messy and un-organized, and he wants the post dat
     - Also `print`: `"Caption has been updated."`
 
 
-
-[![](https://gifimage.net/wp-content/uploads/2018/11/instagram-post-gif.gif)]()
 
 
 
@@ -120,15 +119,7 @@ If not, make sure your code is saved in **Repl.it**!
 
 ## Bonus Problems:
 
-#### Leap Years*
-<img src="https://s3.amazonaws.com/after-school-assets/leap.gif" align="right" hspace="10">
-
-1. Write a new function that takes in **two arguments** for a `starting year` and an `ending year`, and then `print` all of the **leap years** *between them* (including the starting and ending years, if they are also leap years). 
-
-    - Hint: Leap years are years **divisible by four** (like 1984 and 2004). However, years divisible by 100 are _not_ leap years (such as 1800 and 1900) unless they are ALSO divisible by 400 (like 1600 and 2000). 
-
-Yes, it's all pretty confusing, but not as confusing as having July in the middle of the winter, which is what would eventually happen if we didn't have leap years!
-
+1. Complete the previous incomplete labs (if any).
 
 
 ##### Great job on completing the bonus problems section!  
