@@ -17,11 +17,13 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
 ### 1) Recipes Book!
 
-1. Create a **dictionary** called `mac_and_cheese_recipe` that has the following data:
-    - elbow pasta : 2 cups
-    - butter : 1/2 stick
-    - whole milk : 1 cup
-    - shredded cheddar cheese : 3 cups
+1. Create a **dictionary** called `mac_and_cheese_recipe` that has the following data:  
+    **Key** | **Value**          
+    --- | ---   
+    elbow pasta | 2 cups         
+    butter | 1/2 stick      
+    whole milk | 1 cup     
+    shredded cheddar cheese | 3 cups    
 
   **All of the ingredients should be symbols and the amounts should be strings.**
 
@@ -40,33 +42,65 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
     - Create a function called `number_ingredients`, that handles this.
     
 ### 2) GO HOME!, Unless...  
+### 2) Dictionaries in Dictionaries (Nested dictionaries)
+```python
+city_info = {"new_york" : { "mayor" : "Bill DeBlasio",
+							"population" : 8337000,
+							"website" : "http://www.nyc.gov"
+							},
+			 "los_angeles" : { "mayor" : "Eric Garcetti",
+							   "population" : 3884307,
+							   "website" : "http://www.lacity.org"
+							},
+			 "miami" : { "mayor" : "Tomás Regalado",
+					     "population" : 419777,
+						 "website" : "http://www.miamigov.com"
+					    },
+			 "chicago" : { "mayor" : "Rahm Emanuel",
+						   "population" : 2695598,
+						   "website" : "http://www.cityofchicago.org/"
+						}
+		    }
+```
+1. The `city_info` dictionary above is a series of nested dictionaries. What do I get returned if I ask for:
+    + `city_info["los_angeles"]` ?
+    + `city_info["chicago"]["mayor"]` ?
 
-### 3) Daily Routine Function
+2. What code should I write to return each of these?:
+    + The population of New York
+    + The website for Miami city government
+    + The mayor of Los Angeles
+    + A dictionary with all information on Chicago
 
-Homer's daily routine is:
-- 8-9 Wake up
-- 9-10 Brush teeth, then eat 10 donuts.
-- 10-12 Run to the store and make sure you have enough donuts for lunch.
-- 12-13 Donuts Lunch
-- 13-15 Go to the park
-- 15-19 TV Time!
-- 19-20 Donuts Dinner!
-- 20-24 Fall asleep while watching TV and eating donuts.
+### 3) Instagram Post
 
-1. Write a new function called `whatToDo`, that takes 1 argument called `time`, it represents the hour.
+Your an engineer at **Instagram**, the **App development manager** asks you to create better organized Instagram *post* data structure!
+The manager thinks it's really messy and un-organized, and he wants the post data stored in **dictionaries**!
 
-2. Plan the function and make it so when you put in `time` while calling the function `whatToDo`, it would print Homer's task according to the daily routine plan of his!
-    - For example: `whatToDo(12)` would return as an output: `Donuts Lunch`
+1. *Define* a new dictionary, call it `instagram_post`, It should have the following keys:
+    **Key** | **Value**          
+    --- | ---   
+    image_link | A link to the image (`string`).         
+    caption | I bet you know what a caption at Instagram means!      
+    Likes | should be a `list` of names (strings) of the likers.     
+    Comments | should be a `list` of strings of the comments.
+    - Fill the content as you wish :)
     
-3. Does it work properly? Test it out!
- 
- 
-4. Now, ask a neighbor to write down his/her daily routine, and write a new function that does the same, but for the new routine!
-    - Let your neighbor try it out!
+2. *Define* a new function, call it `like_post`, It should have 1 argument - `name` (the name of the liker)
+    - The function should add `name` to `Likes` in `instagram_post` dictionary.
+    - Also `print`: `"[name] has liked your post."
+
+3. *Define* a new function, call it `comment_post`, It should have 1 argument - `comment` (the string of a comment)
+    - The function should add `comment` to `Comments` in `instagram_post` dictionary.
+    - Also `print`: `"A follower has commented: [comment]"`
+    
+4. *Define* a new function, call it `edit_caption`, It should have 1 argument - `new_caption` (the string of a new caption)
+    - The function should update `caption` accordingly in `instagram_post` dictionary.
+    - Also `print`: `"Caption has been updated."`
 
 
 
-[![](https://media.tenor.com/images/a1a7f2e6a0a7e99a019a8937af3935e7/tenor.gif)]()
+[![](https://gifimage.net/wp-content/uploads/2018/11/instagram-post-gif.gif)]()
 
 
 
