@@ -40,7 +40,7 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
 7. Return the number of ingredients in the `mac_and_cheese_recipe` dictionary.
     - Create a function called `number_ingredients`, that handles this.
-    
+     
 ### 2) Dictionaries in Dictionaries (Nested dictionaries)
 ```python
 city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
