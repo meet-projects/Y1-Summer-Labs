@@ -22,7 +22,7 @@
 ## Go Crazy: *(Extra)*
 1. Full Functional Graphics! (Turtle)
 
-<img src="https://lh3.googleusercontent.com/proxy/LKwWoEEo1YTwRZgcNdXChKn8KT-Apc40uh21QB5Gf0bEjUTO4lBx8EOeMdFufdPFjRL5UulSrD6ZGk9xHVMxIskGZ3lBSLSRJHcoz4MllmmLXLMwOuR05JE34d8-FBdQqkE" align="right" width=300>
+<img src="https://lh3.googleusercontent.com/proxy/LKwWoEEo1YTwRZgcNdXChKn8KT-Apc40uh21QB5Gf0bEjUTO4lBx8EOeMdFufdPFjRL5UulSrD6ZGk9xHVMxIskGZ3lBSLSRJHcoz4MllmmLXLMwOuR05JE34d8-FBdQqkE" width=450>
 
 
 ## Submissions:
