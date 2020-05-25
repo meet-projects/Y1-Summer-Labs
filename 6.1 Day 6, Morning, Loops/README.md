@@ -85,7 +85,7 @@ If not, make sure your code is saved in **Repl.it**!
 
 ## Bonus Problems:
 
-1. Complete previous incomplete labs *(if any)*.
+1. Complete previous incomplete labs. *(if any)*
 
 
 ##### Great job on completing the bonus problems section!  
