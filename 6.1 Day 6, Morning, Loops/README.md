@@ -85,7 +85,36 @@ If not, make sure your code is saved in **Repl.it**!
 
 ## Bonus Problems:
 
-1. Complete previous incomplete labs. *(if any)*
+1. Write a `get_to_know_your_partner` function that takes 1 argument - `partner_dict`.
+    - `partner_dict` should be a dictionary of questions and answers about your partner.
+    - The function should keep running until the user gets all answers right!
+    - Hint: use `input()` and a `while` loop.
+    - Ask your partner to make a dictionary containing questions and answers about him/herself and play the game!
+    - Example of how it should look like:
+    ```python
+    loai = {"When did loai graduate from meet?" : "Summer 2017", "How old is loai?" : 20}
+    
+    get_to_know_your_partner(loai)
+    
+    ### The terminal should look like:
+    Question: When did loai graduate from meet?
+    Answer: Summer 2016 # User input
+    Wrong Answer!
+    
+    Question: When did loai graduate from meet?
+    Answer: Summer 2017 # User input
+    Correct Answer!
+    
+    Question: How old is loai?
+    Answer: 20
+    Correct Answer!
+    You win!
+    
+    ```
+
+2. Add text to `get_to_know_your_partner` function that prints how many questions we have in total, and print the number of the question with every question answered correctly!
+
+3. Complete previous incomplete labs. *(if any)*
 
 
 ##### Great job on completing the bonus problems section!  
