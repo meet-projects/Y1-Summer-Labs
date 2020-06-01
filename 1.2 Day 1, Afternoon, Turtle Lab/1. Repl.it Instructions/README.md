@@ -20,4 +20,4 @@
 
 
 
-**Now we're done with setting up our programming environment, let's get to Turtle!**
+**Now we're done with setting up our programming environment, let's get to [Turtle](https://github.com/meet-projects/Y1-Summer-Labs/tree/master/1.2%20Day%201%2C%20Afternoon%2C%20Turtle%20Lab/2.%20Lab)!**
