@@ -92,7 +92,7 @@ turtle.goto(-100,-100)
 ##### Call an Instructor/TA to check your completed tasks
  
 
-If you have extra time, continue to the **Bonus Problems** *below*.  
+If you have extra time, continue to the **Bonus Problems** [here](https://github.com/meet-projects/Y1-Summer-Labs/tree/master/1.2%20Day%201%2C%20Afternoon%2C%20Turtle%20Lab/3.%20Bonus).  
 If not, make sure your code is saved in **Repl.it**!
 
 
