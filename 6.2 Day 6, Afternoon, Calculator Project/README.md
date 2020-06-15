@@ -13,6 +13,9 @@
     - The calculator has to return the value of the given equation 
 2. Exponents 
 3. Error Handling 
+4. Menu 
+5. Run Continuously
+
 
 ## Challenges: *(Extra)*
 1. Take more than one number!
