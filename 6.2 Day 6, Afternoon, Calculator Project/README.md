@@ -20,7 +20,8 @@
 ## Challenges: *(Extra)*
 1. Take more than one number!
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
-3. Show the calculator results using turtle! 
+3. Add a history of operations list/dictionary!
+4. Show the calculator results using turtle! 
 
 ## Go Crazy: *(Extra)*
 1. Full Functional Graphics! (Turtle)
