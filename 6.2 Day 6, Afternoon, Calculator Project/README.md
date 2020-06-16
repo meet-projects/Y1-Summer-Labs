@@ -6,6 +6,18 @@
 
 <img src="https://art.pixilart.com/2241c06cc44adc2.gif" align="right" width=300>
 
+## Motivation:
+- The purpose of this project is to combine and use all concepts we have learned in CS so far in Y1 Summer!  
+- It is also your **first opportunity** to build an **application** using the **Input/Output** concept!
+
+## User Experience (UI)
+- User experience is as important as writing your code!
+    - Is your app enjoyable/intuitive/easy to use?
+    - Why should users choose your calculator over any other calculator application?
+    - What about your application that makes it extra useful/enjoyable and adds value to it?
+
+- To build a great application requires **empathy**... put yourself in the shoes of the user while building it!
+
 ## Objectives:
 1. The Basic 4: 
     - Create a calculator that has at least the basic 4 symbols (Addition(+), Subtraction(-), Multiplication(*), and Division(/)) 
@@ -13,8 +25,10 @@
     - The calculator has to return the value of the given equation 
 2. Exponents 
 3. Error Handling 
-4. Menu 
-5. Run Continuously
+4. Menu:
+    - Include a menu of operations/actions options that is displayed when your application starts running.
+5. Run Continuously:
+    - The program must run **continuously** until the user decides to stop/exit the application.
 
 
 ## Challenges: *(Extra)*
