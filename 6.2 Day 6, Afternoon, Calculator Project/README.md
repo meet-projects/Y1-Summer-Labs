@@ -1,7 +1,6 @@
 # Calculator Project - Y1 Summer 
 
- > Create a new file in **"Repl.it"** and call it **"CalcProject"**.  
- > Save it in **"Day 6"** folder.
+ > Create a new **"Repl.it"** and call it **"Calculator Project"**.  
 
 
 <img src="https://art.pixilart.com/2241c06cc44adc2.gif" align="right" width=300>
@@ -35,7 +34,9 @@
 1. Take more than two number!
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
 3. Add a history of operations list/dictionary!
-4. Show the calculator results using turtle! 
+4. Show the calculator results using turtle!  
+    - Something that looks like this:
+    <img src="https://github.com/meet-projects/Y1-Summer-Labs/blob/master/TurtleResult.png" width="150">
 
 ## Go Crazy: *(Extra)*
 1. Full Functional Graphics! (Turtle)
