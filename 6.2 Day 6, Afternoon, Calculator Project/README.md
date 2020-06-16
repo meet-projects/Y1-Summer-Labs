@@ -32,15 +32,15 @@
 
 
 ## Challenges: *(Extra)*
-1. Take more than one number!
+1. Take more than two number!
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
 3. Add a history of operations list/dictionary!
 4. Show the calculator results using turtle! 
 
 ## Go Crazy: *(Extra)*
 1. Full Functional Graphics! (Turtle)
-
-<img src="https://lh3.googleusercontent.com/proxy/LKwWoEEo1YTwRZgcNdXChKn8KT-Apc40uh21QB5Gf0bEjUTO4lBx8EOeMdFufdPFjRL5UulSrD6ZGk9xHVMxIskGZ3lBSLSRJHcoz4MllmmLXLMwOuR05JE34d8-FBdQqkE" width=450>
+    - Something that looks like this:
+    <img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-774.png" width=450>
 
 
 ## Submissions:
