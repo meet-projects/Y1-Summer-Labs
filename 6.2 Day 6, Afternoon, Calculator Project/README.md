@@ -1,6 +1,7 @@
 # Calculator Project - Y1 Summer 
 
- > Create a new **"Repl.it"** and call it **"Calculator Project"**.  
+ > Create a new file in **"Repl.it"** and call it **"CalcProject"**.  
+ > Save it in **"Day 6"** folder.
 
 
 <img src="https://art.pixilart.com/2241c06cc44adc2.gif" align="right" width=300>
@@ -10,6 +11,7 @@
 - It is also your **first opportunity** to build an **application** using the **Input/Output** concept!
 
 ## User Experience (UI)
+- This is your first experience in UI design! It's critical and very important you think about user experience.
 - User experience is as important as writing your code!
     - Is your app enjoyable/intuitive/easy to use?
     - Why should users choose your calculator over any other calculator application?
@@ -19,24 +21,34 @@
 
 ## Objectives:
 1. The Basic 4: 
-    - Create a calculator that has at least the basic 4 symbols (Addition(+), Subtraction(-), Multiplication(*), and Division(/)) 
-    - The calculator has to take at least 2 numbers and 1 of the symbols in order to create an equation 
-    - The calculator has to return the value of the given equation 
-2. Exponents 
-3. Error Handling 
+    - Create a calculator that processes at least the basic 4 symbols (Addition(+), Subtraction(-), Multiplication(*), and Division(/)) 
+    - The calculator has to take as an **input** at least 2 numbers and 1 of the symbols in order to create an equation. 
+    - The calculator has to return the **value** of the **given equation**.
+2. Exponents:
+    - An exponent refers to the **number of times** a number is **multiplied** by *itself*.
+        - For example, 2 to the 3rd (written like this: 2^3) means: 2 x 2 x 2 = 8.
+    - The calculator has to process exponents as well.
+        - For example, if the user writes `2**3`, it should return `8` as the result.
+3. Error Handling:
+    - What happens when you write:
+        - An invalid equation. (For example: `3 - 4 + `)
+        - A random string. (For example: `Potato` or `New York City`)
+        - An unsupported symbol. (For example `,` or `@`)
+    - Handle all of these resulting errors.
+    - Make sure to cover all similar gaps in your application, to make sure it's as **user friendly** as possible!
 4. Menu:
     - Include a menu of operations/actions options that is displayed when your application starts running.
+    - This menu should serve as instructions to the user, to know how to use your application!
 5. Run Continuously:
     - The program must run **continuously** until the user decides to stop/exit the application.
+    - Think about a **user friendly** way how this can be implemented. 
 
 
 ## Challenges: *(Extra)*
-1. Take more than two number!
+1. Take more than two numbers!
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
 3. Add a history of operations list/dictionary!
-4. Show the calculator results using turtle!  
-    - Something that looks like this:
-    <img src="https://github.com/meet-projects/Y1-Summer-Labs/blob/master/TurtleResult.png" width="150">
+4. Show the calculator results using turtle! 
 
 ## Go Crazy: *(Extra)*
 1. Full Functional Graphics! (Turtle)
