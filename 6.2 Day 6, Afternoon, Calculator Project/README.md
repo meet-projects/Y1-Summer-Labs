@@ -10,8 +10,8 @@
 - The purpose of this project is to combine and use all concepts we have learned in CS so far in Y1 Summer!  
 - It is also your **first opportunity** to build an **application** using the **Input/Output** concept!
 
-## User Experience (UI)
-- This is your first experience in UI design! It's critical and very important you think about user experience.
+## User Experience (UX)
+- This is your first experience in UX design! It's critical and very important you think about user experience.
 - User experience is as important as writing your code!
     - Is your app enjoyable/intuitive/easy to use?
     - Why should users choose your calculator over any other calculator application?
