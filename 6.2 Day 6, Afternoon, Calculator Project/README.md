@@ -48,6 +48,8 @@
 1. Take more than two numbers!
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
 3. Add a history of operations list/dictionary!
+
+> Turtle is a Python library that enables users to create pictures and shapes by providing them with a virtual canvas. Here's MEET's [Introduction to Turtle](https://docs.google.com/presentation/d/12hUghofRqPTL3jsDazqqUrrr8-GfMe68-IFim9XTEDI/edit?usp=sharing) Lecture. You will need to learn Turtle for the rest of the challenges.
 4. Show the calculator results using turtle! 
     - Something that looks like this:
     <img src="https://github.com/meet-projects/Y1-Summer-Labs/blob/master/TurtleResult.png" width=150>
