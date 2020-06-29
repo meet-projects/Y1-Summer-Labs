@@ -45,6 +45,8 @@
 
 
 ## Challenges: *(Extra)*
+*You can pick any/all of these if you like!* In other words, you don't have to do them in order.  
+
 1. Take more than two numbers!
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
 3. Add a history of operations list/dictionary!
