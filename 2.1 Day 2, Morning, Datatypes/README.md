@@ -7,7 +7,7 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 
 
-[![](https://miro.medium.com/max/1000/1*aNMBIivJppLy2fMRVUSgHA.gif)]()
+<img src="https://miro.medium.com/max/1000/1*aNMBIivJppLy2fMRVUSgHA.gif" width=250>
 
 
 
