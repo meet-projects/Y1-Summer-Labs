@@ -1,4 +1,4 @@
-# Strings & Conditionals Lab
+# Strings Lab
 
 ## Objective: 
 In this lab, you will learn how to use **strings**, as well as make sure you grasp the idea of **Input/Output**!
@@ -62,24 +62,6 @@ s4 = " realise we are "
 
 2. Using the string operations, put these sentences together to complete the meaning!
 
-### 4) Homer Diet
-<img src="https://s3.amazonaws.com/after-school-assets/homer.gif" width="300px" align="right" hspace="10"> Homer Simpson has decided to go on a diet and he needs your help to stay on track. You are going to make the tests pass and help him control his donut intake.   
-
-1. *Define* a new variable called `number_of_donuts` and set it to whatever `integer` you want. Write a program that does the following: 
-    - If the **number of donuts** is *greater* than **zero**, then this program should **print** `"Get back on your diet!"` 
-    - Otherwise it should **print** `"Good job, Homer!"`
-    
-- Homer's diet has been going well and we're going to cut him some slack. 
-2. Using our variable from before (`number_of_donuts`). Write another program the does the following:
-    - The function should tell Homer `"good job"` when he eats **less than *3 donuts***
-    - And to `"slow down"` if he's eaten **exactly 3 donuts** 
-    - And `"get back on your diet"` if he eats **more than 3 donuts**.
-
-- We've decided to give Homer a little more control over his diet.  
-3. *Define* a new variable called `maximum_donuts`. While still using our variable from before (`number_of_donuts`), Write another program the does the following: 
-    - Tell Homer `"good job"` if he eats **less than half his maximum donuts**
-    - And `"get back on your diet"` when he **exceeds his maximum donuts**.
-        - Meaning: If homer has eaten more donuts than his `maximum_donuts`.
 
 ### Great job on completing the Lab!
 **Call an Instructor/TA to check your completed tasks**
@@ -97,31 +79,11 @@ If not, make sure your code is saved in **Repl.it**!
 
 ## Bonus Problems:
 
-### Daily Routine Program
+1. Complete all previous labs if you haven't yet.
 
-Homer's daily routine is:
-- 8-9 Wake up
-- 9-10 Brush teeth, then eat 10 donuts.
-- 10-12 Run to the store and make sure you have enough donuts for lunch.
-- 12-13 Donuts Lunch
-- 13-15 Go to the park
-- 15-19 TV Time!
-- 19-20 Donuts Dinner!
-- 20-24 Fall asleep while watching TV and eating donuts.
-
-1. Write a program that takes 1 `input` from the user called `time`, it represents the hour.
-    - You can do this by typing: `time = input("What time is it? ")`
-
-2. Plan the program and make it so when the users puts in `time`, it would print Homer's task according to the daily routine plan of his!
-    - For example: `What time is it? 13` would return as an output: `Donuts Lunch`
-    
-3. Does it work properly? Test it out!
- 
-4. Now, ask your parent/sibling to write down his/her daily routine, and write a new program that does the same, but for the new routine!
-    - Let your parent/sibling try it out!
+1. Make a cool design using `turtle`!
 
 
 
 ##### Great job on completing the bonus problems section!  
 ###### Make sure your code is saved in Repl.it
-<img src="https://thumbs.gfycat.com/QualifiedAdolescentHind-size_restricted.gif">
