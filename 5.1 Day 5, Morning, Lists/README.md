@@ -7,7 +7,7 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 
 
 
-<img src="https://mikeanthony.me/wp-content/uploads/2021/09/Grocery-list-1.jpg">
+<img src="https://mikeanthony.me/wp-content/uploads/2021/09/Grocery-list-1.jpg" width="400">
 
 
 
