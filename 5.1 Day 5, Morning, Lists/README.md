@@ -7,7 +7,7 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 
 
 
-<img src="https://media3.giphy.com/media/msr7xTmnlZ79K/giphy.gif">
+<img src="https://giphy.com/embed/B7o99rIuystY4">
 
 
 
