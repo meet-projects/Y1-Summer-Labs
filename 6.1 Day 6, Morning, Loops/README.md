@@ -31,7 +31,7 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 
 4. Grandma really doesn't want you to leave! When you shout BYE, she pretends not to hear you. 
     - Change your program so that you have to shout BYE three times in a row before the program will end. 
-    - Make sure to test your program: if you shout BYE three times, but not in a row, you should still be talking the function go o
+    - Make sure to test your program: if you shout BYE three times, but not in a row, you should still be talking to the grandma.
 ### 2) Item Finder
 
 Remember the **"Socks finder"** function from before? We'll make a similar function that finds items, but with loops!
