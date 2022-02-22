@@ -12,7 +12,7 @@ In this lab, you will learn how to use basic `Linux` commands. These will help y
 ## Instructions:
 
 1. Open a **Linux** `terminal` by double-clicking on this icon:
-    1. [![](https://lh3.googleusercontent.com/proxy/cHRNI6pM0BqLsW-a3wmXRTTl58d1Jy6bik0vhEV4lGW5bZxfQPpDmhOhNTq5sndTHG9gilISn-xfUOjcI7Q0wVVTFglYnZFYlSdc2epg7GoA7a4ym5X9)]()
+    1. [![](https://simplecodetips.com/wp-content/uploads/2017/01/Linux-Terminal-icon.png)]()
     1. You should see something like this pop up:
     1. [![](https://www.howtogeek.com/thumbcache/2/200/f5f162d5614c29a6e114429a33dd6088/wp-content/uploads/2013/03/linux-terminal-on-ubuntu.png)]()
 
