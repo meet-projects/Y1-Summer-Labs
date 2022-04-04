@@ -44,7 +44,7 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 ---
 
 ### 3) Spell MEET with Turtle: 
-1. Our goal is to make the picture below by the end of this part.
+1. Our goal is to make the picture below by the end of this part.  <br>
 ![Image of MEET spelled with Turtle](https://lh6.googleusercontent.com/FNxs9tykGwRH9nRERleBnkIXmXCCdTGkNxju2yebYvrtArkfjmLCQaXsJ7bcj9z4bGSjmC_abCzcrSInYjrj3b8tVzZyuqk3ftgGpk8D1hc03ia7J16ojcxd1M2zcDyHa9yEGYE)
 
 2. Copy the code below to **Repl.it**, if you feel like it's running too slow, feel free to use **idle3**, but make sure by the end of the lab to copy all of your code and save it into **Repl.it**!
