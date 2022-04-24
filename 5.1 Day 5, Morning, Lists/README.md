@@ -56,11 +56,11 @@ We're going to use lists to manipulate our own movie Queue.
 
 
 1. *Define* a function `first_movie` that returns the first movie in the queue. 
-    - This function should accept a list as an argument (the `movie queue`).
+    - This function should accept a list as an argument (the `movie_queue`).
 
 
 2. *Define* a function `watch_movie` that deletes the first movie in the list and returns the updated list.
-    - This function should accept a list as an argument (the `movie queue`).
+    - This function should accept a list as an argument (the `movie_queue`).
 
 3. *Define* a function `update_queue` that returns the updated list. 
     - This function takes **two** arguments:
