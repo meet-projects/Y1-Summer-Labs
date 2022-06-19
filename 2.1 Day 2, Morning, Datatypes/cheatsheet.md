@@ -23,6 +23,8 @@
 |`10 / 5`|`2.0`|Division between two `int`s. This becomes `2.0`--a `float`, not an `int`.|
 |`4.2 + 2.5`|`7.7`|Addition between two `float`s. This becomes `7.7` (another `float`). All the examples above also work with `float`s!|
 |`3.33 * 10`|`33.3`|Multiplication between a `float` and an `int`. This becomes `33.3`, a `float`. Whenever you add, subtract, multiply, or divide with an `int` and a `float`, the result is always a `float`.|
+|`10.5 // 5`|`2`|Integer division between a `float` and an `int`. This means we throw away any decimal part to make the result an `int`.|
+|`10 % 3`|`1`|Modulo between two `int`s. This is the remainder after dividing the first number by the second number. This becomes `1`, because `3` goes into `10` `3` times, and leaves `1` left over.|
 |`4 ** 2`|`16`|Exponentiation between two `int`s. This is saying "4 multiplied by itself, 2 times, so it becomes `16`.|
 |`5 == 5`|`True`|An equalitly comparison. This becomes `True` (a `bool`) because 5 equals 5. Don't worry too much about this, we'll explore comparisons more later.|
 |`1 > 2`|`False`|A greater-than comparison. This becomes `False` (a `bool`) because 1 _isn't_ greater than 2. Don't worry too much about this, we'll explore comparisons more later.|
