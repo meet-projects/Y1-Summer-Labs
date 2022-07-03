@@ -1,0 +1,31 @@
+h1. Variables and Debugging Cheatsheet
+
+h2. New Terms
+
+|_.New Term|_.Definition|_.Example|
+|Variable|A "box" that stores data that can be used later.|@foo = 42@ (@foo@ is now a variable that stores the @int@ @42@)|
+|TypeError|An error python gives you when you ask it to do something impossible with types, like combining two types that can't be combined.|@"bananas" + 100@ (this would cause a `TypeError`!)|
+|NameError|An error python gives you when you try to use a variable you never defined.|@print(my_name)@ (if you never defined `my_name`, this would cause a `NameError`!); `my_bool = false` (If `False` isn't capitalized, python doesn't know what it is!)|
+|Infinite Loop|Code that runs forever.|```while True:
+  print("help!")``` (We never break out of the loop, so it never stops running!)|
+|Rubber Ducking|Explaining your code to someone else (or a rubber duck!) to understand it better.||
+|Keywords|Special words that you can't use for variable names because python is already using them.|@False@, @True@, @None@, @and@, @as@, @assert@, @break@, @class@, @continue@, @def@, @del@, @elif@, @else@, @except@, @finally@, @for@, @from@, @global@, @if@, @import@, @in@, @is@, @lambda@, @nonlocal@, @not@, @or@, @pass@, @raise@, @return@, @try@, @while@, @with@, @yield@|
+
+
+h2. Code Examples
+
+|_.Code Example|_.Result|_.Description|
+|```my_int = 42
+print(my_int)```|@42@|Storing an @int@ in a variable, then printing it out.|
+|```my_str = "hello!"
+type(my_str)```|@str@|Storing a @str@ in a variable, then getting its type (@str@).|
+|```"bananas" + 100```|@TypeError@|Trying to add a @str@ and a @int@ together causes a TypeError.|
+|```while True:
+  print("help!")```|Infinite Loop|We never break out of the loop, so it never stops running.|
+|```foo = "hello"
+bar = "goodbye"
+tmp = foo
+foo = bar
+bar = tmp
+print(foo, bar)``` |```"goodbye"
+"hello"```|Here we use a temporary variable (called @tmp@) to help us swap the values of @foo@ and @bar@ without losing any of our data.|
