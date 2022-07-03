@@ -1,0 +1,24 @@
+h1. Strings
+
+h2. New Terms
+
+|_.New Term|_.Definition|_.Example|
+|Input|Information a user gives to a program.|If a website asks you what day you were born, your birthday is the input.|
+|Output|Information a program gives back to a user.|After you give the website your birthday, if it tells you "You're an adult!", `"You're an adult!"` is the output.|
+
+
+h2. Code Examples
+
+|_.Code Example|_.Result|_.Description|
+|```opinion = "Pineapple on pizza is delicious!"
+print(opinion)```|@"Pineapple on pizza is delicious!"@|Storing an @string@ in a variable, then printing it out.|
+|```name = input("What is your name?")
+greeting = "Hello " + name
+print(greeting)```|@"Hello Will"@|The first line asks the user for input, and we give it the input @"Will"@. In the second line it adds @"Hello "@ to that string and stores it in a variable called @greeting@. In the last line we print out the greeting @"Hello Will"@.|
+|```very = "very "
+very_very_very = very * 3
+my_sentence = "Strings are " + very_very_very + "fun!"
+print(my_sentence)```|@"Strings are very very very fun!"@|We create a string called @very@, then we multiply it by 3 and store that in a variable called @very_very_very@. We add that into a sentence called @my_sentence@, and then print it out. Notice how our original string has a space at the end! If it didn't when we multiply it by 3 we would get @"veryveryvery"@ with no spaces.|
+|```bad_opinion = "pineapple on pizza is bad"
+good_opinion = bad_opinion.replace("bad", "good")
+print(good_opinion)```|@"pineapple on pizza is good"@|We start with the sentence @"pineapple on pizza is bad"@, then replace the word @"bad"@ with @"good"@, then print out the result. We fixed it :)|
