@@ -1,0 +1,44 @@
+h1. String Operations & Functions Cheatsheet
+
+h2. New Terms
+
+|_.New Term|_.Definition|_.Example|
+|Boolean Expression|A condition that evaluates to @True@ or @False@. Often this is a comparison between to values.|@7 > 2@, @4 == 5@ (the first expression becomes @True@, and the second expression becomes @False@.|
+|Boolean Operators|Special characters that let us compare two values.|@==@ (equal), @!=@ (not equal), @<@ (less than), @>@ (greater than), @<=@ (less than or equal), @>=@ (greater than or equal)|
+|@if@ statement|A block of code that only runs if a condition is @True@|```if number > 10:
+  print("I can't count that high with my fingers!")```|
+|@elif@ statement|A block of code that follows an @if@ (or another @elif@) statement, that only runs if the previous conditions weren't met, and it's own condition is.|```if weather == "sunny":
+  print("Let's go to the beach!")
+elif weather == "snowy":
+  print("Let's go skiing!")```|
+|@else@ statement|A block of code that follows an @if@ or @elif@ statement, that only runs if the previous conditions weren't met.|```if weather == "sunny":
+  print("Let's go to the beach!")
+elif weather == "snowy":
+  print("Let's go skiing!")
+else:
+  print("Let's stay inside.")```|
+|@or@|A boolean operator that is @True@ if _either_ of the booleans around it are @True@.|@"a" == "a" or "b" == "x"@ is @True@ because the first part (@"a" == "a"@) is @True@. On the other hand, @"a" == "b" or "x" == "y"@ is @False@, because neither expression is @True@.|
+|@and@|A boolean operator that is @True@ if _both_ of the booleans around it are @True@.|@"a" == "a" or "b" == "x"@ is @False@ because the second part (@"b" == "x"@) is @False@. On the other hand, @"a" == "a" and "b" == "b"@ is @True@, because both expressions are @True@.|
+|@not@|A boolean operator that switches @True@ to @False@ and @False@ to @True@.|@not "a" == "b"@ is @True@, because @"a" == "b"@ is @False@, and the @not@ switches it to @True@|
+
+h2. Code Examples
+
+|_.Code Example|_.Result|_.Description|
+|@4 == 6@|@False@|Checking if two numbers are equal. In this case, they aren't, so it evaluates to @False@|
+|@52 > 4@|@True@|Checking if @52@ is greater than @4@. It is, so it evaluates to @True@|
+|@6 < 6@|@False@|Checking if @6@ is less than @6@. It isn't, so it evaluates to @False@|
+|@6 >= 6@|@True@|Checking if @6@ is greater that _or_ equal to @6@. It is, so it evaluates to @True@|
+|@5 <= 4@|@False@|Checking if @5@ is less than _or_ equal to @4@. It isn't, so it evaluates to @False@|
+|```feeling = "tired"
+if feeling == "tired":
+  print("You should go to sleep!")```|@"You should go to sleep!"@|An @if@ statement that checks to see if the variable @feeling@ is equal to the string @"tired"@. Because it is, the @if@ statement code block runs, and @"You should go to sleep!"@ is printed.|
+|```we_have_ice_cream = True
+we_have_milk = False
+if we_have_ice_cream and we_have_milk:
+  print("Let's make milkshakes!")
+ elif we_have_ice_cream:
+   print("Let's eat ice cream!")
+ else:
+   print("Let's go buy some ice cream!")```|@"Let's eat ice cream!"@|An @if@/@elif@/@else@ statement. Because @we_have_milk@ is @False@, the first condition fails, but because @we_have_ice_cream@ is @True@ the second condition passes, and @"Let's eat ice cream!"@ is printed. Because that block runs, the @else@ statement isn't executed.|
+   
+  
