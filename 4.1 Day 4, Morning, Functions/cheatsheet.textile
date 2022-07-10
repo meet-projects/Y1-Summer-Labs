@@ -1,0 +1,29 @@
+h1. String Operations & Functions Cheatsheet
+
+h2. New Terms
+
+|_.New Term|_.Definition|_.Example|
+|Function|A piece of code that we give a name so we can reuse it. We define a function using the @def@ keyword. A function can accept input, and can return output.|```def double_number(number):
+  double = number * 2
+  return double``` This function accepts a number as input, and returns double that number as output.|
+|Arguments|Variables you give to functions as input. We know their value when using a function. We don’t know their value when writing a function.|In the @double_number@ function above, @number@ is an argument.|
+|Return Value|The variable a function gives back whenever it is called. We return a value by using the @return@ keyword, and the name of the variable we want to return.|In the @double_number@ function above, @double@ is the return value.|
+|D.R.Y.|An acronym for "Don't Repeat Yourself"||
+|PseudoCode|A step by step description of what your code does. Sometimes it even looks like code, but it's easier to understand.|```while you are hungry:
+  eat food
+  if food gets stuck in your teeth:
+    floss your teeth```|
+
+h2. Code Examples
+
+|_.Code Example|_.Result|_.Description|
+|```def double_number(number):
+  double = number * 2
+  return double
+print(double_number(4))```|@8@|Defines a funciton that multiplies its input by @2@ and returns it, then calls that function on @8@, and prints the output (@8@)|
+|```def greet_student(student_name):
+  greeting = f"Welcome to class, {student_name}!"
+  print(greeting)
+ greet_student("Will")```|@"Welcome to class, Will!"@|An example of a function that accepts an input, but doesn't return anything. Instead, it prints a greeting.|
+|```import turtle
+turtle.goto(1, 1)```|Turtle moves to position @1, 1@ (there is no direct output from this code)|An example of using a function from a library. We import the library using the @import@ keyword, then we call a function from it by using the libarary name, followed by a @.@ and the name of the function we want to call.|
