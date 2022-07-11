@@ -1,0 +1,47 @@
+h1. Lists Cheatsheet
+
+h2. New Terms
+
+|_.New Term|_.Definition|_.Example|
+|List|A collection of data that is ordered and changeable.|@shopping_list = ["carrots", "potatoes", "milk"]@|
+|Element|Any "thing" inside a list.|In the list called @shopping_list@ above, @"carrots"@, @"potatoes"@ and @"milk"@ are all elements.|
+|Concatenation|Combining two lists (or strings) together end-to-end.|If we concatenate @[1, 2]@ and @[3, 4]@, we end up with @[1, 2, 3, 4]@|
+
+h2. Code Examples
+
+|_.Code Example|_.Result|_.Description|
+|```desserts = []
+desserts.append("ice cream")
+desserts.append("cookies")
+desserts.append("lollipop")
+desserts```|@["ice cream", "cookies", "lollipop"]@|Making all the letters in a string upper case.|
+|```favorite_letters= ["T","O","F","U"]
+favorite_letters[0]```|@"T"@|Printing the element at index @0@|
+|```favorite_letters = ["T","O","F","U"]
+favorite_letters[-1]```|@"U"@|Printing the element at index @-1@ (the element @1@ from the end).|
+|```favorite_letters = ["M","E","A","T"]
+favorite_letters[2] = "E"
+favorite_letters```|@["M", "E", "E", "T"]@|Updating the element at index @2@ to @"E"@.|
+|```amazing_dancers = [“Laura”, “Abby”, “Sophie”]
+"Laura" in amazing_dancers```|@True@|@"Laura"@ _is_ an element in @amazing_dancers@, so @"Laura" in amazing_dancers@ is @True@|
+|```list1 = [1,2,3]
+list2 = [4,5,6]
+list1 + list2```|@[1, 2, 3, 4, 5, 6]@|Concatenating @list1@ and @list2@.|
+|```list1 = [1,2,3]
+len(list1)```|@3@|@len(list1)@ gives us the length of @list1@, which is @3@ in this case.|
+|```list1 = [1,2,3]
+list1.remove(2)
+list1```|@[1, 3]@|@list1.remove(2)@ removes the value @2@. Remember, @remove()@ takes a value as an argument, and doesn't return anything.|
+|```list1 = [1,2,3]
+print(list1.pop(0))
+print(list1)```|```1
+[2, 3]```|@list1.pop(0)@ removes the element at index @0@, which is @1@ in this case. Remember, @pop()@ takes an index as an argument, and returns the value that got deleted.|
+|```list1 = [1,2,3]
+print(list1.pop())
+print(list1)```|```3
+[1, 2]```|When you don't pass an index to @pop()@ it defaults to the last value in the list.|
+|```my_letters = ['c','d','a','f','e','b']
+my_letters.sort()
+my_letters```|@['a', 'b', 'c', 'd', 'e', 'f']@|@sort()@ sorts the list it's called on. If you call @sort@ on a list it should have only numbers, or only strings.|
+
+
