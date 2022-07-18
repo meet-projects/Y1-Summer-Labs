@@ -24,7 +24,7 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 
 2. Add your name to the list, using the `append()` function!
 
-3. Let a neighbor make sure it's correct!
+3. Check with a neighbor to make sure your list is correct!
 
 
 ### 2) Parking Valet!
