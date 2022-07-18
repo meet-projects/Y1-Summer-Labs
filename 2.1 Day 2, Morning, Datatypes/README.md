@@ -12,8 +12,7 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 
 
-> Before we start, make sure to create a new folder in **Repl.it** and call it **"Day 2"**!  
-> In **"Day 2"**, create a new python file and call it **"DatatypesLab"**
+> Before we start, in your "Y1-Labs-Submissions22" labs folder: Create a new python file in the 2.1 Datatypes folder. 
 
 
 ## Instructions:
