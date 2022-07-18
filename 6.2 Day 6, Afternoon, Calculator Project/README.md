@@ -34,6 +34,7 @@
         - An invalid equation. (For example: `3 - 4 + `)
         - A random string. (For example: `Potato` or `New York City`)
         - An unsupported symbol. (For example `,` or `@`)
+        - Dividing by 0 (For example `5 / 0`)
     - Handle all of these resulting errors.
     - Make sure to cover all similar gaps in your application, to make sure it's as **user friendly** as possible!
 4. Menu:
@@ -47,7 +48,7 @@
 ## Challenges: *(Extra)*
 *You can pick any/all of these if you like!* In other words, you don't have to do them in order.  
 
-1. Take more than two numbers!
+1. Add the option to take more than two numbers! For example, computing an expression like 3 + 4 / 2 with three numbers, or being able to make an expression such as 3 + 4 with only two numbers. 
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
 3. Add a history of operations list/dictionary!
 
