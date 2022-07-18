@@ -29,6 +29,7 @@
         - For example, 2 to the 3rd (written like this: 2^3) means: 2 x 2 x 2 = 8.
     - The calculator has to process exponents as well.
         - For example, if the user writes `2**3`, it should return `8` as the result.
+        - Remember that `2**3` means 2 to the power of 3 or 2^3.
 3. Error Handling:
     - What happens when you write:
         - An invalid equation. (For example: `3 - 4 + `)
