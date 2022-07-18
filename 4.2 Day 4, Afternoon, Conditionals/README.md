@@ -1,7 +1,7 @@
 # Conditionals Lab
 
 ## Objective: 
-In this lab, you will learn how to start writing **conditions** using **conditionals** and make programs that can take decisions!
+In this lab, you will learn how to start writing **conditions** using **conditionals** and make programs that can make decisions!
 
 
 
