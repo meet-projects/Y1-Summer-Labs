@@ -34,7 +34,7 @@ In this lab, you will learn about different data types, including `int`, `float`
     `type('color'*4)` |  | 
 
 1. Go over each line with your partner, and try to guess what each line returns as an **output**... discuss what your guesses are!
-    - If you don't think **Python** can do something, write `Error`.  
+    - If you don't think **Python** can do something, write `TypeError`.  
 
 1. Now, after you're done guessing and discussing, let's put your theories to the test!
     - Try each line in **Repl.it** and understand why it is what it is.
