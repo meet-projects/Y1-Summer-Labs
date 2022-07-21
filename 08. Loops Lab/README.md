@@ -34,13 +34,13 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
     - Make sure to test your program: if you shout BYE three times, but not in a row, you should still be talking to the grandma.
 ### 2) Item Finder
 
-We'll now make a function that finds items with loops!
+We'll now write code that finds items with loops!
 
 1. *Define* a new variable, `item`, using `input()`, which represents an item you are looking for. Also *define* a variable `items_list`, which represents the list of all the items you have (you do not have to use `input()` for this, but you may if you like!)
 
 
 2. Write code to go over each item in `items_list` until it finds the `item` you are searching for!
-    - For example: if you wanted to find your old book from the messy closet, use `item_finder("old book",["laptop","teddy bear", "old clothes", "old book", "sunglasses", "guitar", "cookies"])`, and the function should find `"old book"`!
+    - For example: if you wanted to find your old book from the messy closet, use `item_finder("old book",["laptop","teddy bear", "old clothes", "old book", "sunglasses", "guitar", "cookies"])`, and the code should find `"old book"`!
     - If the item is there, print `[item] is here`.
     - If it's not there, your code should print `[item] is not here`.
 
@@ -56,7 +56,7 @@ We'll now make a function that finds items with loops!
     - For example:
     ```python
     dict1 = {"Name":"Loai","Age":20,Year:17}
-    # The function should print:
+    # The code should print:
     Name    Loai
     Age     20
     Year    17

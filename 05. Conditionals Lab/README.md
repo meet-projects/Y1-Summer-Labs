@@ -55,7 +55,7 @@ We will now use conditionals to see who get's to go home!
     - `"homer"`
     - `"Homer"`
     - `"hoMEr"`
-    - If it doesn't take the previous strings, update and fix your function so it accepts the name `"homer"` in any way written! 
+    - If it doesn't take the previous strings, update and fix your code so it accepts the name `"homer"` in any way written! 
         - **Hint:** Look up `string.lower()`, `string.upper()`, etc...
 
 
