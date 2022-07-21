@@ -10,8 +10,7 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
 
 
-> Before we start, make sure to create a new file in **Repl.it** and call it **"DictLab"**!  
-> And make sure to save it in **"Day 5"** Folder.  
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab! 
 
 ## Instructions:
 
@@ -27,19 +26,15 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
   **All of the ingredients and amounts should be strings.**
 
-2. Write a function that **returns** (not print) your `mac_and_cheese_recipe` dictionary
+2. Use `print` to print out the **amount of cheese** from `mac_and_cheese_recipe` that is needed!
 
+3. Use `print` to print out every ingredient and amount in the dictionary!
 
-3. Write function called `amount_of_cheese` that returns the **amount of cheese** from `mac_and_cheese_recipe` that is needed!
+4. Now use `print` to print out just the ingredients without the amounts.
 
-4. Use `print` to print out every ingredient and amount in the dictionary!
+5. Next use `print` to print out just the amounts without the ingredients. 
 
-5. Now use `print` to print out just the ingredients without the amounts.
-
-6. Next use `print` to print out just the amounts without the ingredients. 
-
-7. Return the number of ingredients in the `mac_and_cheese_recipe` dictionary.
-    - Create a function called `number_ingredients`, that handles this.
+6. Print the number of ingredients in the `mac_and_cheese_recipe` dictionary.
      
 ### 2) Dictionaries in Dictionaries (Nested dictionaries)
 ```python
@@ -61,15 +56,19 @@ city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
 						}
 		    }
 ```
-1. The `city_info` dictionary above is a series of nested dictionaries. What do I get returned if I ask for:
+1. The `city_info` dictionary above is a series of nested dictionaries. What do you think you get if you printed::
     - `city_info["los_angeles"]` ?
     - `city_info["chicago"]["mayor"]` ?
 
-2. What code should I write to return each of these?:
+    **Print these lines of code to see if you're right!**
+
+2. Write code to print each of these:
     - The population of New York
     - The website for Miami city government
     - The mayor of Los Angeles
     - A dictionary with all information on Chicago
+
+
 
 ### 3) Instagram Post
 
@@ -87,34 +86,30 @@ The manager thinks it's really messy and un-organized, and he wants the post dat
     - Fill the content as you wish :)
 <img src="https://gifimage.net/wp-content/uploads/2018/11/instagram-post-gif.gif" width="300" align="right">
     
-2. *Define* a new function, call it `like_post`, It should have 1 argument - `name` (the name of the liker)
-    - The function should add `name` to `Likes` in `instagram_post` dictionary.
-    - Also `print`: `"[name] has liked your post."
+2. *Define* a new variable called `name`, which represents the name of the liker, using an **input**.
+    - Write code to add `name` to `Likes` in `instagram_post` dictionary.
+    - Also print `"[name] has liked your post."`
 
-3. *Define* a new function, call it `comment_post`, It should have 1 argument - `comment` (the string of a comment)
-    - The function should add `comment` to `Comments` in `instagram_post` dictionary.
-    - Also `print`: `"A follower has commented: [comment]"`
+3. *Define* a new variable, `comment`, which uses an **input** to allow you to enter a comment.
+    - Write code to add `comment` to `Comments` in the `instagram_post` dictionary.
+    - Also print `"A follower has commented: [comment]"`
     
-4. *Define* a new function, call it `edit_caption`, It should have 1 argument - `new_caption` (the string of a new caption)
-    - The function should update `caption` accordingly in `instagram_post` dictionary.
+4. *Define* a new variable, `new_caption`, using an  **input**.
+    - Write code to update `caption` accordingly in the `instagram_post` dictionary.
     - Also `print`: `"Caption has been updated."`
 
 
-
-
-
-
 ##### Great job!
-##### Call an Instructor/TA to check your completed tasks
- 
 
-If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+## Wrapping up:
 
-
-
-
-
+Run the test.
+- If it passes:
+    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
+- If it fails:
+    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
+    - If you have questions, ask a classmate, or call over an Instructor or TA!
 
 
 ## Bonus Problems:
