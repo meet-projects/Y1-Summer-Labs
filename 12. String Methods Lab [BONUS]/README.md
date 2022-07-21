@@ -8,8 +8,8 @@ In this lab, you will learn how to use **strings FUNctions**, as well as make su
 
 
 
-> Before we start, make sure to create a new file (in **Repl.it**) and call it **"Strings2Lab"**.  
-> And save it in **"Day 3"** folder!
+
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!  
 
 ## Instructions:
 
@@ -59,17 +59,19 @@ user = input("Say something! ")
 
 7. Test that your code works for **ANY** name by trying a few *different* names.
     - You can even ask a neighbor to write out name suggestions to help you in testing!  
-
-  
   
 
   
 ### Great job on completing the Lab!
-**Call an Instructor/TA to check your completed tasks**
- 
+## Wrapping up:
 
-If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+Run the test.
+- If it passes:
+    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
+- If it fails:
+    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
+    - If you have questions, ask a classmate, or call over an Instructor or TA!
 
 
  [![](https://media1.giphy.com/media/fCU3cWbXgU79KBuEO7/giphy.gif)]()
