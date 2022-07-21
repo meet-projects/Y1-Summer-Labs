@@ -60,17 +60,13 @@ Sometimes it's hard to keep up with your **Netflix *movie queue***. Sometimes, a
 We're going to use lists to manipulate our own movie Queue.
 
 
-1. *Define* a function `first_movie` that returns the first movie in the queue. 
-    - This function should accept a list as an argument (the `movie_queue`).
+1. Write a new list variable called `movie_queue` - that includes your favourite movies and/or tv shows!
+    - For example: `movie_queue = ["Minions", "Fast & Furious 1", "Harry Potter"]`
 
 
-2. *Define* a function `watch_movie` that deletes the first movie in the list and returns the updated list.
-    - This function should accept a list as an argument (the `movie_queue`).
+2. Write code that prints the first movie in the list.
 
-3. *Define* a function `update_queue` that returns the updated list. 
-    - This function takes **two** arguments:
-        1. `movie_queue` - the list of movies.
-        2. `movie` - the movie you want to add to the queue.
+3. Let's say you watched the first movie - Write code that deletes the first movie and returns/prints the updated list. 
 
 
 ##### Great job!
