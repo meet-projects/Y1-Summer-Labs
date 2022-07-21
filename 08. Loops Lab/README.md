@@ -7,9 +7,8 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 
 
 
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
 
-> Before we start, make sure to create a new folder in **Repl.it** and call it **"Day 6"**!  
-> And create a new file and call it **"LoopsLab"**.  
 
 ## Instructions:
 
@@ -18,12 +17,13 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 
 ***This is a group/pair lab. Write out pseudo-code first!***
 
-1. Write a `speak_to_grandma` function that accepts one argument:`text` -> what you want to say to her. 
+1. We will now try to speak to grandma! *Define* a variable `text`, which uses **input()** to allow us to speak!
     - Whatever you say to grandma (whatever you type in), she should respond with `HUH?!  SPEAK UP, SONNY!`
     - Unless you shout it (type in all capitals). If you shout, she can hear you (or at least she thinks so) and yells back, `NO, NOT SINCE 1938!`.
+        - **Hint:** Look up string methods to help you check for capitalization!
 
 
-2. Too easy? To make your program really believable, have grandma shout a different year each time you run the program; maybe any year at random between 1930 and 1950. (Hint: There is a Python function that will generate random numbers.) 
+2. Too easy? To make your program really believable, have grandma shout a different year each time you run the program; maybe any year at random between 1930 and 1950. (**Hint**: There is a Python function that will generate random numbers.) 
 
 
 3. Grandma decided she wants to keep talking to you and won't let you leave. Change your program so that it keeps running until you shout BYE. (Hint: You will probably want to use a `while loop` to keep the program running.)
@@ -34,26 +34,25 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
     - Make sure to test your program: if you shout BYE three times, but not in a row, you should still be talking to the grandma.
 ### 2) Item Finder
 
-Remember the **"Socks finder"** function from before? We'll make a similar function that finds items, but with loops!
-1. Write a new function called `item_finder`, it should take 2 arguments:
-    1. `item`
-    2. `items_list`
+We'll now make a function that finds items with loops!
 
-2. Make the function go over each item in `items_list` until it finds the `item` you are searching for!
+1. *Define* a new variable, `item`, using `input()`, which represents an item you are looking for. Also *define* a variable `items_list`, which represents the list of all the items you have (you do not have to use `input()` for this, but you may if you like!)
+
+
+2. Write code to go over each item in `items_list` until it finds the `item` you are searching for!
     - For example: if you wanted to find your old book from the messy closet, use `item_finder("old book",["laptop","teddy bear", "old clothes", "old book", "sunglasses", "guitar", "cookies"])`, and the function should find `"old book"`!
-    - If it's not there, it should print `"Item not here"`
+    - If the item is there, print `[item] is here`.
+    - If it's not there, your code should print `[item] is not here`.
 
 3. Let's squeeze in the runtime of our program and make it faster to finish running!
     - use `break` when finding the `item` and stop the loop.
     
 4. Ask your partner to write 3 different **items lists** and asks you to find 1 `item`.
-    - Write a function called `where_is_the_item`, that takes 3 `item lists` and an `item`, and it should tell you in which `item list` is the `item` located.
-    - For example: If you wirte `where_is_the_item(kitchen,bedroom,diningroom,"cellphone")` it would print something like: `"The cellphone is in bedroom."`
+    - Write code that looks at the 3 `item lists` and an `item`, and it should tell you in which `item list` is the `item` located.
 
 ### 3) Dictionary Printer!
 
-1. *Define* a new function called `print_dict`, it should take 1 argument - `dict1`
-    - It should print the keys and the values next to each other
+1. *Define* a new dictionary, `dict1`, in your code. Write code to print the keys and the values next to each other
     - For example:
     ```python
     dict1 = {"Name":"Loai","Age":20,Year:17}
@@ -67,17 +66,17 @@ Remember the **"Socks finder"** function from before? We'll make a similar funct
 
 [![](https://i.gifer.com/7tB1.gif)]()
 
-
-
-
 ##### Great job!
-##### Call an Instructor/TA to check your completed tasks
- 
 
-If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+## Wrapping up:
 
-
+Run the test.
+- If it passes:
+    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
+- If it fails:
+    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
+    - If you have questions, ask a classmate, or call over an Instructor or TA!
 
 
 
@@ -85,17 +84,13 @@ If not, make sure your code is saved in **Repl.it**!
 
 ## Bonus Problems:
 
-1. Write a `get_to_know_your_partner` function that takes 1 argument - `partner_dict`.
+1. *Define* a variable called `partner_dict`.
     - `partner_dict` should be a dictionary of questions and answers about your partner.
-    - The function should keep running until the user gets all answers right!
-    - Hint: use `input()` and a `while` loop.
-    - Ask your partner to make a dictionary containing questions and answers about him/herself and play the game!
+    - Using `input()` and `while` loops, write code that prints out each question, and asks the reader for an answer. The code should keep running until the reader gets all of the answers right!
     - Example of how it should look like:
     ```python
     loai = {"When did loai graduate from meet?" : "Summer 2017", "How old is loai?" : 20}
-    
-    get_to_know_your_partner(loai)
-    
+        
     ### The terminal should look like:
     Question: When did loai graduate from meet?
     Answer: Summer 2016 # User input
@@ -112,7 +107,7 @@ If not, make sure your code is saved in **Repl.it**!
     
     ```
 
-2. Add text to `get_to_know_your_partner` function that prints how many questions we have in total, and print the number of the question with every question answered correctly!
+2. Write code that prints how many questions we have in total, and print the number of the question with every question answered correctly!
 
 3. Complete previous incomplete labs. *(if any)*
 
