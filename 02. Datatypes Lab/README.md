@@ -43,7 +43,7 @@ Run the test.
 - If it passes:
     - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
     - When you're done, make sure to submit the lab with the `Submit` button on the top right.
-- If it failse:
+- If it fails:
     - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
     - If you have questions, ask a classmate, or call over an Instructor or TA!
 
