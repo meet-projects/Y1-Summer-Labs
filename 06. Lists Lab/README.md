@@ -36,14 +36,19 @@ You're working as a valet tonight at the **"Magic Palace"**! But, since you're a
 1. *Define* a new list and call it `parked_cars`.
     - It should start as an empty list!
 
-2. *Define* a new function called `park`, it should take 1 argument - `car`
+2. *Define* a new variable `car`, which uses `Input()` to take a string as the name of the car.
+// *Define* a new function called `park`, it should take 1 argument - `car`
 
-3. `park` function should add the `car` to the `parked_cars` list!
+3. Write code to add the `car` to the `parked_cars` list!
     - And print `"Parked [car] in the garage!"`
     
-4. *Define* a new function called `getMyCar`, it should take 1 argument - `car`
-    - The function should remove the `car` from `parked_cars` list!
+4. Repeat this process as much as you'd like to add cars to your list.
+
+Bonus:
+1. *Define* a new variable called `car_to_remove` using the `Input()` function.
+    - Your code should remove the `car_to_remove` from `parked_cars` list!
     - And print `"[car] is out of the garage and ready for use!"`
+    - In case your chosen car is not there: You should reply with `"Your car is not in the garage!"`
 
 
 ### 3) Netflix!
