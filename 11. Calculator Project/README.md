@@ -1,6 +1,7 @@
 # Calculator Project - Y1 Summer 
 
- > Create a new **"Repl.it"** and call it **"Calculator Project"**.  
+
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!  
 
 
 
@@ -64,10 +65,7 @@
     <img src="https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-774.png" width=450>
 
 
-## Submissions:
-In order to submit all of your labs (and this project included):
-1. Go to **"MEET Y1 Summer"** *Repl.it*.
-2. Click on **"Share"** (Top-right).
-3. A new window should pop-up, Click on **"Copy repl link"** (Bottom-left).
-4. Paste the link in this form. (Include link to Y1 submissions google form)
-5. Congratulations! You just submitted your project along with all of your labs!!
+## Submission
+When you're done, make sure to submit the lab with the `Submit` button on the top right. 
+
+Congrats on finishing your calculator!
