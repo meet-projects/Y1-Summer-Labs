@@ -4,15 +4,10 @@
 In this lab, you will learn about different data types, including `int`, `float`, `str`, and `bool`, and how to use `type()` to determine what data type a variable is, using **Python**. 
 
 
-
-
-
 <img src="https://miro.medium.com/max/1000/1*aNMBIivJppLy2fMRVUSgHA.gif" width=250>
 
 
-
-
-> Before we start, in your "Y1-Labs-Submissions22" labs folder: Create a new python file in the 2.1 Datatypes folder. 
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
 
 
 ## Instructions:
@@ -22,50 +17,46 @@ In this lab, you will learn about different data types, including `int`, `float`
     
     **Expression** | **Your Guess** | **Output**
     --- | --- | ---
-    `type(259+33)` | Integer | `int`
-    `type(259-33.0)` |  | 
-    `type(4)` |  | 
-    `type('4')` |  | 
-    `type('four')` |  | 
-    `type(5/2.0)` |  |
-    `type(12 > 2*5)` |  | 
-    `type(color + 3)` |  |
-    `type('color'*4)` |  | 
+    `print(type(259+33))` | Integer | `int`
+    `print(type(259-33.0))` |  | 
+    `print(type(4))` |  | 
+    `print(type('4'))` |  | 
+    `print(type('four'))` |  | 
+    `print(type(5/2.0))` |  |
+    `print(type(12 > 2*5))` |  | 
+    `print(type('color'*4))` |  | 
+    
+    - Remember, we use the `print` statement to see what's happening inside python.
 
 1. Go over each line with your partner, and try to guess what each line returns as an **output**... discuss what your guesses are!
     - If you don't think **Python** can do something, write `Error`.  
 
 1. Now, after you're done guessing and discussing, let's put your theories to the test!
-    - Try each line in **Repl.it** and understand why it is what it is.
+    - Write each line in the Repl.it **editor**, then press the `Run` button and understand why it is what it is.
     - If you don't understand something specific, try and ask your partner first :)
 
-
-
-
-
 ##### Great job!
-##### Call an Instructor/TA to check your completed tasks
- 
 
-If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+## Wrapping up:
 
+Run the test.
+- If it passes:
+    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
+- If it fails:
+    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
+    - If you have questions, ask a classmate, or call over an Instructor or TA!
 
 [![](https://programmer.group/images/article/1a680890c223e534389f27858b5bf33a.jpg)]()
 
-
-
-
-
 ## Bonus Problems: 
-1. Think about why you got the errors with some lines. How can you change the line to get no error? Discuss with you teammate next to you.  Test your guess in the **Repl.it** file! 
+1. Try typing all of the lines again without the word `type` at the beginning. First guess what the code will do, then run it. What do you get?
 
-2. Now type all of the lines again without the word `type` at the beginning. First guess what the code will do, then run it. What do you get?
-
-3. If you have extra time, complete yesterday's lab(s) if you haven't OR create your *own design* using **turtle**!
+2. If you have extra time, complete yesterday's lab(s).
 
 
 ##### Great job on completing the bonus problems section!  
-###### Make sure your code is saved in Repl.it
+
+###### Make sure the test passes, and that you submit the lab.
 
 
