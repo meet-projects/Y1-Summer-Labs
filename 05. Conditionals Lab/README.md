@@ -10,46 +10,56 @@ In this lab, you will learn how to start writing **conditions** using **conditio
 
 
 
-> Before we start, make sure to create a new file in **Repl.it** and call it **"ConditionsLab"**!  
-> And make sure to save it in **"Day 4"** Folder.  
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab! 
 
 ## Instructions:
 
 ### 1) Homer Diet
 <img src="https://s3.amazonaws.com/after-school-assets/homer.gif" width="300px" align="right" hspace="10"> Homer Simpson has decided to go on a diet and he needs your help to stay on track. You are going to make the tests pass and help him control his donut intake.   
 
-1. *Define* a new function called `no_donuts` that takes in a **number of donuts** as an argument. 
-    - If the **number of donuts** is *greater* than **zero**, then this function should **print** `"Get back on your diet!"` 
-    - Otherwise it should **print** `"Good job, Homer!"`
-    
+1. *Define* a new variable called `num_donuts` that takes in the number of donuts as an **input**. 
+
+```python
+num_donuts = input('Enter number of donuts here: ')
+```
+
+2. Now write a few conditional statements that meet the following criteria:
+    - If the **number of donuts** is *greater* than **zero**, then your code should **print** `"Get back on your diet!"` 
+    - Otherwise it should **print** `"Good job, Homer!"`   
+
+    - **Hint**: If your code is not working, think about this. What datatype is `num_donuts`? What datatype do you need it to be?
+
 - Homer's diet has been going well and we're going to cut him some slack. 
-2. Write a new function called `less_donuts` that takes in a **number of donuts** as an argument
-    - The function should tell Homer `"good job"` when he eats **less than *3 donuts***
+
+3. Write a new set of conditionals that reward him for this, using `num_donuts`.
+    - Your code should print `"good job"` when Homer eats **less than *3 donuts***
     - And to `"slow down"` if he's eaten **exactly 3 donuts** 
     - And "`get back on your diet"` if he eats **more than 3 donuts**.
 
-- We've decided to give Homer a little more control over his diet.  
-3. Write a function called `some_donuts` that takes in **two arguments**, the **number of donuts** he has eaten, and a **maximum donut intake**. 
-    - This method should tell Homer `"good job"` if he eats **less than half his maximum intake**
+- We've decided to give Homer a little more control over his diet. *Define* a new variable, `max_donut_intake`, that takes in the maximum number of donuts Homer can eat, as an **input**.
+
+4. Write a new set of conditional statements, using `num_donuts` and `max_donut_intake`.
+    - Your code should tell Homer `"good job"` if he eats **less than half his maximum intake**
     - And `"get back on your diet"` when he **exceeds his maximum intake**.
 
 
 ### 2) GO HOME!, Unless...  
 
-Remember the **"GO HOME"** function from before?
-1. Write a new function called `goHome_unless`, it should take 1 argument - `name`.
+We will now use conditionals to see who get's to go home!
 
-2. Make it so the function prints `"[name], Go home!"`, unless the name is `"homer"`, he is allowed to stay!
+1. *Define* a new variable, `name`, that takes a person's name as an **input**.
 
-3. Does it work if you put in these strings as the `name` argument?
+2. Write conditional statements so your code prints `"[name], Go home!"`, unless the `name` is `"homer"`, as he is allowed to stay!
+
+3. [BONUS] Does it work if you put in these strings as the `name` argument?
     - `"homer"`
     - `"Homer"`
     - `"hoMEr"`
-    
-4. If it doesn't take the previous strings, update and fix your function so it accepts the name `"homer"` in any way written! 
+    - If it doesn't take the previous strings, update and fix your function so it accepts the name `"homer"` in any way written! 
+        - **Hint:** Look up `string.lower()`, `string.upper()`, etc...
 
 
-### 3) Daily Routine Function
+### 3) Daily Routine
 
 Homer's daily routine is:
 - 8-9 Wake up
@@ -61,15 +71,14 @@ Homer's daily routine is:
 - 19-20 Donuts Dinner!
 - 20-24 Fall asleep while watching TV and eating donuts.
 
-1. Write a new function called `whatToDo`, that takes 1 argument called `time`, it represents the hour.
+1. *Define* a new variable, `time`, which takes the time of the day as an **input**.
 
-2. Plan the function and make it so when you put in `time` while calling the function `whatToDo`, it would print Homer's task according to the daily routine plan of his!
-    - For example: `whatToDo(12)` would return as an output: `Donuts Lunch`
+2. Plan your set of conditionals so that your code print's Homer's task according to the daily routine plan of his!
+    - For example: if `time=12:30`, your code would print `Donuts Lunch`
     
 3. Does it work properly? Test it out!
  
- 
-4. Now, ask a neighbor to write down his/her daily routine, and write a new function that does the same, but for the new routine!
+4. Now, ask a neighbor to write down his/her daily routine, and write a new set of conditionals that does the same, but for the new routine!
     - Let your neighbor try it out!
 
 
@@ -97,7 +106,7 @@ If not, make sure your code is saved in **Repl.it**!
 #### Leap Years*
 <img src="https://s3.amazonaws.com/after-school-assets/leap.gif" align="right" hspace="10">
 
-1. Write a new function that takes in **two arguments** for a `starting year` and an `ending year`, and then `print` all of the **leap years** *between them* (including the starting and ending years, if they are also leap years). 
+1. Write a new set of conditionals that uses in **two inputs** for a `starting year` and an `ending year`, and then `print` all of the **leap years** *between them* (including the starting and ending years, if they are also leap years). 
 
     - Hint: Leap years are years **divisible by four** (like 1984 and 2004). However, years divisible by 100 are _not_ leap years (such as 1800 and 1900) unless they are ALSO divisible by 400 (like 1600 and 2000). 
 
