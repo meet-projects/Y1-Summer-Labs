@@ -34,7 +34,7 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
     - Make sure to test your program: if you shout BYE three times, but not in a row, you should still be talking to the grandma.
 ### 2) Item Finder
 
-We'll now write a code that finds items with loops!
+We'll now write code that finds items with loops!
 
 1. *Define* a new variable, `item`, using `input()`, which represents an item you are looking for. Also *define* a variable `items_list`, which represents the list of all the items you have (you do not have to use `input()` for this, but you may if you like!)
 

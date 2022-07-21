@@ -1,4 +1,9 @@
-## Lab Instructions:
+
+## Turtle Lab:
+
+
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
+
 
 ### 1) Shape of the Turtle: 
 1. Turtle has a `shape()` function that allows us to change the **shape** of the turtle from an *arrow* to something else. 
@@ -88,15 +93,16 @@ turtle.goto(-100,-100)
     - **T**
 
 
-##### Great job on completing your first Turtle Lab!
-##### Call an Instructor/TA to check your completed tasks
- 
+## Great job on completing your first Turtle Lab!
 
-If you have extra time, continue to the **Bonus Problems** [here](https://github.com/meet-projects/Y1-Summer-Labs/tree/master/1.2%20Day%201%2C%20Afternoon%2C%20Turtle%20Lab/3.%20Bonus).  
-If not, make sure your code is saved in **Repl.it**!
+## Wrapping up:
 
-
-[![](https://www.vivaxsolutions.com/images/turtle-11.gif)]()
-
+Run the test.
+- If it passes:
+    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
+- If it fails:
+    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
+    - If you have questions, ask a classmate, or call over an Instructor or TA!
 
 
