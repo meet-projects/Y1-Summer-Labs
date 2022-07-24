@@ -10,8 +10,7 @@ Also, you will learn how to start writing conditions using conditionals and make
 
 
 
-> Before we start, make sure to create a **Repl.it** and call it **"Day 3"**.  
-> And write your code in `main.py` file.
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
 
 ---
 
@@ -21,14 +20,14 @@ Also, you will learn how to start writing conditions using conditionals and make
 1. In the python editor, type `print('Hello World')` and hit **run**.  
     - What do you see?
     
-2. Now type `print("Hello World")` and hit **run** again.
+2. Now on a new line type `print("Hello World")` and hit **run** again.
     - Did anything change?
     
-3. Print "Hello" to your partner by including **their name**.
+3. Print "Hello" to your partner by including **their name** on a new line.
     - For example `"Hello Claire"`. 
     - Show it to them!
 
-4. Now type `#print("Hello World")` and hit **run**.
+4. Now on a new line type `#print("Hello World")` and hit **run**.
     - What happens when you run the code? 
     - **Answer:** You have just made a **comment**. Python does not read anything after the `#` symbol (but people looking at your code do).
     - Comments are useful for explaining your code so that when you or someone else goes back to review the code they know how a piece of code works and what it does!
@@ -61,30 +60,17 @@ s3 = "Let's all be unique "
 s4 = " realise we are " 
 ```
 
-2. Using the string operations, put these sentences together to complete the meaning!
+2. Using the string operations, combine these strings to complete the meaning, then print it out.
 
 
-### Great job on completing the Lab!
-**Call an Instructor/TA to check your completed tasks**
- 
+### Wrapping up:
+Run the test.
 
-If you have extra time, continue to the **Bonus Problems** *below*.  
-If not, make sure your code is saved in **Repl.it**!
+- If it passes:
+    - When you're done, make sure to submit the lab with the Submit button on the top right.
+- If it fails:
+    - Review the lab to see if you missed any steps. You need to follow the steps exactly to pass.
+    - If you have questions, ask a classmate, or call over an Instructor or TA!
 
 
  <img src="https://i.pinimg.com/originals/82/6a/e7/826ae74c5c26e916dca8e1dd13808b22.gif" width=300>
-
-
-
-
-
-## Bonus Problems:
-
-1. Complete all previous labs if you haven't yet.
-
-1. Make a cool design using `turtle`!
-
-
-
-##### Great job on completing the bonus problems section!  
-###### Make sure your code is saved in Repl.it
