@@ -12,28 +12,25 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 ## Instructions:
 
-1. Pair up with a partner, and take a look at this table:
-    - First row is done as an example!  
+1. Working with other classmates, take a look at the following python snippets:
+    - `print(type(259+33))`
+    - `print(type(259-33.0))`
+    - `print(type(4))`
+    - `print(type('4'))`
+    - `print(type('four'))`
+    - `print(type(5/2.0))`
+    - `print(type(12 > 2*5))`
+    - `print(type('color'*4))`
     
-    **Expression** | **Your Guess** | **Output**
-    --- | --- | ---
-    `print(type(259+33))` | Integer | `int`
-    `print(type(259-33.0))` |  | 
-    `print(type(4))` |  | 
-    `print(type('4'))` |  | 
-    `print(type('four'))` |  | 
-    `print(type(5/2.0))` |  |
-    `print(type(12 > 2*5))` |  | 
-    `print(type('color'*4))` |  | 
-    
-    - Remember, we use the `print` statement to see what's happening inside python.
+    > Remember, we use the `print` statement to see what's happening inside python.
 
 1. Go over each line with your partner, and try to guess what each line returns as an **output**... discuss what your guesses are!
-    - If you don't think **Python** can do something, write `Error`.  
 
 1. Now, after you're done guessing and discussing, let's put your theories to the test!
     - Write each line in the Repl.it **editor**, then press the `Run` button and understand why it is what it is.
     - If you don't understand something specific, try and ask your partner first :)
+
+> Tip: You need to include _all_ the print statements above for your test to pass.
 
 ##### Great job!
 
