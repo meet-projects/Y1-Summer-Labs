@@ -31,7 +31,7 @@ b = a
 [![](https://lh3.googleusercontent.com/GPGDnk2B09wllDTMf5kxDmxqNaI-oyYYtVeCNRQI93bNaUXrkZYSJVlMN_gqKZgtfQy-9EGZ6Y4Nl_Z7Zb4TLsFnRi6Fkn82WIhQc_3HNV527AQ3o8-6sgQqJiGeDLFdIAbphqM)]()
 
 3. What are the new values of `a` and `b`? 
-    - Find out by printing the values!
+    - Find out by printing the values using `print(a, b)`!
     
 4. What happened? why didn't it work?
     - When we set `a = b`, the value in `a` changed to `10`. So both variables `a` and `b` have the value of `10`. Then, when we set `b = a`, the value of `a` was `10` so the value of `b` **did not change**.
