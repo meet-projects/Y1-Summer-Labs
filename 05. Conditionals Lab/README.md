@@ -25,7 +25,8 @@ num_donuts = input('Enter number of donuts here: ')
     - If the **number of donuts** is *greater* than **zero**, then your code should **print** `"Get back on your diet!"` 
     - Otherwise it should **print** `"Good job, Homer!"`   
 
-    - **Hint**: If your code is not working, think about this. What datatype is `num_donuts`? What datatype do you need it to be?
+    - **Hint 1**: If your code is not working, think about this. What datatype is `num_donuts`? What datatype do you need it to be?
+    - **Hint 2**: To change a string to an integer datatype, try using int(), and put the variable name inside the parentheses.
 
 - Homer's diet has been going well and we're going to cut him some slack. 
 
