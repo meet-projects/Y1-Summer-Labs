@@ -28,13 +28,13 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
 2. Use `print` to print out the **amount of cheese** from `mac_and_cheese_recipe` that is needed!
 
-3. Use `print` to print out every ingredient and amount in the dictionary!
+3. Use `print` to print out the whole dictionary dictionary!
 
 4. Now use `print` to print out just the ingredients without the amounts.
 
 5. Next use `print` to print out just the amounts without the ingredients. 
 
-6. Print the number of ingredients in the `mac_and_cheese_recipe` dictionary.
+> At this point your first 4 tests should pass!
      
 ### 2) Dictionaries in Dictionaries (Nested dictionaries)
 ```python
@@ -68,35 +68,33 @@ city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
     - The mayor of Los Angeles
     - A dictionary with all information on Chicago
 
-
+> At this point your first 7 tests should pass!
 
 ### 3) Instagram Post
 
-Your an engineer at **Instagram**, the **App development manager** asks you to create better organized Instagram *post* data structure!
-The manager thinks it's really messy and un-organized, and he wants the post data stored in **dictionaries**!
-
+You are an engineer at **Instagram**, and your job is to organize the instagram post structure. We want to store them in a dictionary!
 
 1. *Define* a new dictionary, call it `instagram_post`, It should have the following keys:
     **Key** | **Value**          
     --- | ---   
     image_link | A link to the image (`string`).         
     caption | I bet you know what a caption at Instagram means!      
-    Likes | should be a `list` of names (strings) of the likers.     
-    Comments | should be a `list` of strings of the comments.
-    - Fill the content as you wish :)
+    likes | should be an integer, counting the number of people who liked the post. You can set it to `0` to begin with.   
+    comments | should be a `list` of strings of the comments.
+
 <img src="https://gifimage.net/wp-content/uploads/2018/11/instagram-post-gif.gif" width="300" align="right">
     
-2. *Define* a new variable called `name`, which represents the name of the liker, using an **input**.
-    - Write code to add `name` to `Likes` in `instagram_post` dictionary.
-    - Also print `"[name] has liked your post."`
+2. Our post is super popular! Write code to add 1 like to our post.
 
-3. *Define* a new variable, `comment`, which uses an **input** to allow you to enter a comment.
-    - Write code to add `comment` to `Comments` in the `instagram_post` dictionary.
-    - Also print `"A follower has commented: [comment]"`
-    
-4. *Define* a new variable, `new_caption`, using an  **input**.
+3. Define a new variable, `comment`, which uses `input()` to get a comment from the user.
+    - Write code to add `comment` to the `comments` list in the `instagram_post` dictionary.
+
+4. *Define* a new variable, `new_caption`, which uses `input()` to get a comment from the user.
     - Write code to update `caption` accordingly in the `instagram_post` dictionary.
-    - Also `print`: `"Caption has been updated."`
+    
+5. Print out your updated `instagram_post` dictionary!
+
+> All the test should pass at this point!
 
 
 ##### Great job!
@@ -105,18 +103,9 @@ The manager thinks it's really messy and un-organized, and he wants the post dat
 
 Run the test.
 - If it passes:
-    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+    - You can go on to try the challenges problems. Be sure you don't change any of the code you already wrote!
     - When you're done, make sure to submit the lab with the `Submit` button on the top right.
 - If it fails:
     - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
     - If you have questions, ask a classmate, or call over an Instructor or TA!
-
-
-## Bonus Problems:
-
-1. Complete the previous incomplete labs (if any).
-
-
-##### Great job on completing the bonus problems section!  
-###### Make sure your code is saved in Repl.it
 
