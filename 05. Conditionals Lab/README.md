@@ -74,7 +74,7 @@ Homer's daily routine is:
 1. *Define* a new variable, `time`, which takes the time of the day as an **input**.
 
 2. Plan your set of conditionals so that your code print's Homer's task according to the daily routine plan of his!
-    - For example: if `time=12`, your code would print `Donuts Lunch`
+    - For example: if `time=12`, your code would print `Donuts Lunch in the park.`
     
 3. Does it work properly? Test it out!
 
