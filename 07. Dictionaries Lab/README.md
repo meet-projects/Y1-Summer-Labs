@@ -28,7 +28,7 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
 2. Use `print` to print out the **amount of cheese** from `mac_and_cheese_recipe` that is needed!
 
-3. Use `print` to print out the whole dictionary dictionary!
+3. Use `print` to print out the whole dictionary!
 
 4. Now use `print` to print out just the ingredients without the amounts.
 
