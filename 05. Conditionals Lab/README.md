@@ -61,7 +61,23 @@ We will now use conditionals to see who get's to go home!
     - If it doesn't take the previous strings, update and fix your code so it accepts the name `"homer"` in any way written! 
         - **Hint:** Look up `string.lower()`, `string.upper()`, etc...
 
-### 3) Daily Routine
+> At this point all your tests should pass! If they don't, go back over the instructions to see if you missed something.
+
+[![](https://media.tenor.com/images/a1a7f2e6a0a7e99a019a8937af3935e7/tenor.gif)]()
+
+## Wrapping up:
+Run the test.
+- If it passes:
+    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
+- If it fails:
+    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
+    - If you have questions, ask a classmate, or call over an Instructor or TA!
+
+
+## Bonus Problems:
+
+### Daily Routine
 
 Homer's daily routine is:
 - 8-10 Wake up, brush teeth, then eat 10 donuts.
@@ -73,27 +89,11 @@ Homer's daily routine is:
 
 1. *Define* a new variable, `time`, which takes the time of the day as an **input**.
 
-2. Plan your set of conditionals so that your code print's Homer's task according to the daily routine plan of his!
+2. Plan a new set of conditionals so that your code print's Homer's task according to the daily routine plan of his!
     - For example: if `time=12`, your code would print `Donuts Lunch in the park.`
     
 3. Does it work properly? Test it out!
 
-> At this point all your tests should pass! If they don't, go back over the instructions to see if you missed something.
-
-[![](https://media.tenor.com/images/a1a7f2e6a0a7e99a019a8937af3935e7/tenor.gif)]()
-
-## Wrapping up:
-
-Run the test.
-- If it passes:
-    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
-    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
-- If it fails:
-    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
-    - If you have questions, ask a classmate, or call over an Instructor or TA!
-
-
-## Bonus Problems:
 
 #### Leap Years*
 <img src="https://s3.amazonaws.com/after-school-assets/leap.gif" align="right" hspace="10">
