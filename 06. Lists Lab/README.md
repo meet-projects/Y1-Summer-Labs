@@ -12,7 +12,7 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 
 ### 1) Warm Up!
 1. *Create* a new list and call it `classmates`, and include all of the classmates you see around you in that list!
-    - Example: `classmates = ["Loai", "Ahmad", "Celina", "Lyel", "Malak", "Shir"]`
+    - Example: `classmates = ["Loai", "Celina", "Lyel"]`
 
 2. Add your name to the list, using the `append()` function, then print out the list!
 
@@ -30,15 +30,15 @@ You're working as a valet tonight at the **"Magic Palace"**! But, since you're a
 
 2. *Define* a new variable `car`, which uses `input()` to take a string as the name of the car.
 
-3. Write code to add the `car` to the `parked_cars` list!
+3. Write code to append the `car` to the `parked_cars` list!
     - And print `"Parked [car] in the garage!"`
 
 4. Repeat this process 2 more times so you end up with 3 cars in your list.
 
 5. *Define* a new variable called `car_to_remove` using the `input()` function.
     - Your code should remove the `car_to_remove` from `parked_cars` list!
-    - And print `"[car] is out of the garage and ready for use!"`
-    - In case your chosen car is not there: You should reply with `"Your car is not in the garage!"`
+    - And print `"[car_to_remove] is out of the garage and ready for use!"`
+6. In your code, you should check to see if the car_to_remove is in the garage. In case your chosen car is not there: You should reply with `"Your car is not in the garage!"`
 
 
 ### 3) Netflix!
@@ -47,7 +47,7 @@ You're working as a valet tonight at the **"Magic Palace"**! But, since you're a
 
 Sometimes it's hard to keep up with your **Netflix *movie queue***. Sometimes, all you need is a Friday night to binge watch Friends.
 
-We're going to use lists to manipulate our own movie Queue.
+We're going to use lists to manipulate our own movie queue.
 
 1. Write a new list variable called `movie_queue` - that includes your favourite movies and/or tv shows!
     - For example: `movie_queue = ["Minions", "Fast & Furious 1", "Harry Potter"]`
