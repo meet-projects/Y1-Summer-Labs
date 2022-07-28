@@ -93,16 +93,3 @@ Homer's daily routine is:
     - For example: if `time=12`, your code would print `Donuts Lunch in the park.`
     
 3. Does it work properly? Test it out!
-
-
-#### Leap Years*
-<img src="https://s3.amazonaws.com/after-school-assets/leap.gif" align="right" hspace="10">
-
-1. Ask a neighbor to write down his/her daily routine, and write a new set of conditionals that does the same thing as `3) Daily Routine`, but for the new routine!
-    - Let your neighbor try it out!
-
-2. Write a new set of conditionals that uses in **two inputs** for a `starting year` and an `ending year`, and then `print` all of the **leap years** *between them* (including the starting and ending years, if they are also leap years). 
-
-    - Hint: Leap years are years **divisible by four** (like 1984 and 2004). However, years divisible by 100 are _not_ leap years (such as 1800 and 1900) unless they are ALSO divisible by 400 (like 1600 and 2000). 
-
-Yes, it's all pretty confusing, but not as confusing as having July in the middle of the winter, which is what would eventually happen if we didn't have leap years!
