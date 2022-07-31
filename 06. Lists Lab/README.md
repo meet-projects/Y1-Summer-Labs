@@ -36,9 +36,12 @@ You're working as a valet tonight at the **"Magic Palace"**! But, since you're a
 4. Repeat this process 2 more times so you end up with 3 cars in your list.
 
 5. *Define* a new variable called `car_to_remove` using the `input()` function.
-    - Your code should remove the `car_to_remove` from `parked_cars` list!
+
+6. In your code, you should check to see **if** the car_to_remove is in the garage. In case your chosen car is not there: You should reply with `"Your car is not in the garage!"`
+
+7. Then, your code should remove the `car_to_remove` from `parked_cars` list!
     - And print `"[car_to_remove] is out of the garage and ready for use!"`
-6. In your code, you should check to see if the car_to_remove is in the garage. In case your chosen car is not there: You should reply with `"Your car is not in the garage!"`
+
 
 
 ### 3) Netflix!
