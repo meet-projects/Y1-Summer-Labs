@@ -103,7 +103,7 @@ Run the test.
     - Using `input()` and `while` loops, write code that prints out each question, and asks the reader for an answer. The code should keep running until the reader gets all of the answers right!
     - Example of how it should look like:
     ```python
-    loai = {"When did loai graduate from meet?" : "Summer 2017", "How old is loai?" : 20}
+    loai = {"When did loai graduate from meet?" : "Summer 2017", "How old is loai?" : 25}
         
     ### The terminal should look like:
     Question: When did loai graduate from meet?
@@ -115,7 +115,7 @@ Run the test.
     Correct Answer!
     
     Question: How old is loai?
-    Answer: 20
+    Answer: 25
     Correct Answer!
     You win!
     ```
