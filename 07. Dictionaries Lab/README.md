@@ -59,7 +59,8 @@ city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
 1. The `city_info` dictionary above is a series of nested dictionaries. What do you think you get if you printed::
     - `city_info["los_angeles"]` ?
     - `city_info["chicago"]["mayor"]` ?
-
+	
+    Copy and paste the nested dictionaries into your Repl.it.
     **Print these lines of code to see if you're right!**
 
 2. Write code to print each of these:
