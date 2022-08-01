@@ -87,10 +87,12 @@ You are an engineer at **Instagram**, and your job is to organize the instagram 
     
 2. Our post is super popular! Write code to add 1 like to our post.
 
-3. Define a new variable, `comment`, which uses `input()` to get a comment from the user.
+3. Define a new variable, `comment`, containing a new comment to add to your dictionary.
+    - It should look like `comment = "My new comment!"`
     - Write code to add `comment` to the `comments` list in the `instagram_post` dictionary.
 
-4. *Define* a new variable, `new_caption`, which uses `input()` to get a comment from the user.
+4. *Define* a new variable, `new_caption`, containing a new caption for you post.
+    - It should look like `new_caption = "My new caption!"`
     - Write code to update `caption` accordingly in the `instagram_post` dictionary.
     
 5. Print out your updated `instagram_post` dictionary!
