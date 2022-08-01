@@ -14,9 +14,9 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 <img src="https://s3.amazonaws.com/after-school-assets/deaf_grandma.jpg" width="400">
 
 1. Today we're spending time with our grandma. *Define* a variable `text`, which gets input from the user (with `input()`) that allows us to speak.
-    - Whatever you say to grandma (whatever you type in), she should respond with `HUH?!  SPEAK UP, SONNY!`
-    - Unless you shout it (type in all capitals). If you shout, she can hear you (or at least she thinks so) and yells back, `NO, NOT SINCE 1938!`.
+    - If you shout something to grandma (type in all capitals), she can hear you (or at least she thinks so) and yells back, `NO, NOT SINCE 1938!`.
         - _Hint_: Look up the string method `isupper()` to help you check for capitalization!
+    - Otherwise, whatever you say to grandma (whatever you type in), she should respond with `HUH?!  SPEAK UP, SONNY!`
 
 2. Grandma decided she wants to keep talking to you and won't let you leave. Change your program so that it keeps running until you shout `"BYE"`.
     - _Hint_: You will probably want to use a `while` loop to keep the program running.
