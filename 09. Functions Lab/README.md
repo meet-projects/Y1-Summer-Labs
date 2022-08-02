@@ -51,7 +51,7 @@ Remember the **Go Home!** example we gave in the lecture?
     - `people` - the number of people at your table.
 
 2. The function should print how much you should tip!
-    - For example, if the bill was `250`, and you want to tip `10%`, you could call `tip_calc(250, 10, 5)`, and the output should be `Tip: 25`.
+    - For example, if the bill was `250`, and you want to tip `10%`, you could call `tip_calc(250, 10, 5)`, and you should print `Tip: 25`.
     
 3. Add another print statement in your function that prints the total amount you need to pay.
     - The total is the tip, plus the original bill.
