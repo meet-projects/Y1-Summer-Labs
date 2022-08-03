@@ -97,12 +97,10 @@ turtle.goto(-100,-100)
 
 ## Wrapping up:
 
-Run the test.
-- If it passes:
-    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
-    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
-- If it fails:
-    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
-    - If you have questions, ask a classmate, or call over an Instructor or TA!
+- Get a TA/Instructor to check your lab. 
 
+---
 
+### Bonus:
+1. Roni, Ayoub, and Uri have won a competition of Kahoot! To honour that, let's draw them a *Crown* in turtle and go present it to them.
+![Image of Turtle Crown](https://us.123rf.com/450wm/aditii16/aditii162106/aditii16210600011/170518370-cute-king-turtle-mascot-character-holding-staff-cartoon-vector-icon-illustration-design-isolated-on-.jpg?ver=6)
