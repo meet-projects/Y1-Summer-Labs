@@ -37,14 +37,16 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 ![Image of Turtle Shapes](https://github.com/meet-projects/Y1-Summer-Labs/blob/master/TurtleShapes.png)
 ---
 ### 2) Copy Cat: 
-1. Our goal is to make the picture below, using **two turtles**.
+1. Comment out your code for Part 1 so that Part 2 can run uninterrupted! To comment out code, you can place a hashtag symbol `#` in front of every line of code, or highlight all the code you want to comment out and use a keyboard shortcut to comment out your code.
+
+2. Our goal is to make the picture below, using **two turtles**.
 ![Image of Copy Cat outcome](https://lh4.googleusercontent.com/ykhbjCdVwh8eHFxlphI9prJbFpNiLn9luPZicTQwI7NBs9b7baNsj9sPBFdihEFmyZPqpqS6RDS7a84yrISyCCSNcnWA7_j_OtO26bLVqBhg7qnGCYOeJCdY19CAFIGhNcYt1E8)
 
-2. Note that the **short lines** are `75 pixels` long, and the **long lines** are `150 pixels`. You can name your turtles however you'd like!
+3. Note that the **short lines** are `75 pixels` long, and the **long lines** are `150 pixels`. You can name your turtles however you'd like!
 
 > Hint: What do color(), pensize(), and shape() do?
 
-3. Call an Instructor/TA to check your completed task before moving on to the next part!
+4. Call an Instructor/TA to check your completed task before moving on to the next part!
 
 ---
 
