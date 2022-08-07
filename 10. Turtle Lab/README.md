@@ -48,7 +48,17 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 
 ---
 
-### 3) Spell MEET with Turtle: 
+## Great job on completing your Turtle Lab!
+
+## Wrapping up:
+
+- Get a TA/Instructor to check your lab. 
+
+---
+
+### Bonus:
+
+### Spell MEET with Turtle: 
 1. Our goal is to make the picture below by the end of this part.  <br>
 ![Image of MEET spelled with Turtle](https://lh6.googleusercontent.com/FNxs9tykGwRH9nRERleBnkIXmXCCdTGkNxju2yebYvrtArkfjmLCQaXsJ7bcj9z4bGSjmC_abCzcrSInYjrj3b8tVzZyuqk3ftgGpk8D1hc03ia7J16ojcxd1M2zcDyHa9yEGYE)
 
@@ -92,15 +102,6 @@ turtle.goto(-100,-100)
     - **E** (Feel free to do it normally, or in reverse, just like the original MEET logo!)
     - **T**
 
-
-## Great job on completing your first Turtle Lab!
-
-## Wrapping up:
-
-- Get a TA/Instructor to check your lab. 
-
----
-
-### Bonus:
+### Part 2
 1. Roni, Ayoub, and Uri have won a competition of Kahoot! To honour that, let's draw them a *Crown* in turtle and go present it to them.
 ![Image of Turtle Crown](https://us.123rf.com/450wm/aditii16/aditii162106/aditii16210600011/170518370-cute-king-turtle-mascot-character-holding-staff-cartoon-vector-icon-illustration-design-isolated-on-.jpg?ver=6)
