@@ -5,14 +5,13 @@
 
 
 
-<img src="https://art.pixilart.com/2241c06cc44adc2.gif" align="right" width=300>
+<img src="https://opensource.com/sites/default/files/lead-images/python2-header.png" align="right" width=300>
 
 ## Motivation:
 - The purpose of this project is to combine and use all concepts we have learned in CS so far in Y1 Summer **in a group setting!**  
 - It is also your **first opportunity** to build an **visual program/game** using the **Turtle**!
 - Lastly and most importantly, you will learn how to **work in groups**, how to **collaborate**, and **elevate each other**.
 
-## 
 
 
 ## Objectives / Minimum Requirements:
@@ -28,15 +27,17 @@
 
 ## What We (CS Team) Care About
 Things we are looking for:
-    - Creativity
-    - Code quality
-    - Theme
-    - Teamwork
-    - Fun!
+- Creativity
+- Code quality
+- Theme
+- Teamwork
+- Fun!
   
 
 Your team can invent an entirely unique project/game, or make a new version of a familiar project/game - for example using your MiniProject or the instructor examples to get started.  There must be something that makes your project original, different, and connected to the theme.
 
+
+<img src="https://academy.zenva.com/wp-content/uploads/2018/05/Phaser-Crossy-Game.png" width = 300>
 
 
 ## Challenges: *(Extra)*
@@ -48,11 +49,14 @@ Your team can invent an entirely unique project/game, or make a new version of a
 4. Creating multiple levels
 
 
-<img src="https://github.com/meet-projects/Y1-Summer-Labs/blob/master/TurtleResult.png" width=150>
+<img src="https://view.vzaar.com/21707746/image" width=450>
 
 
 
 ## Submission
 When you're done, make sure to submit the project with the `Submit` button on the top right. 
 
-Congrats on finishing your first ever journey at MEET! This is only the beginning; embrace yourselves for the skills and aspects you will grow at, in the coming years at MEET.
+Congrats on finishing your first ever journey at MEET! This is only the beginning; embrace yourselves for the skills and aspects you will grow at, in the coming years at MEET.  
+
+Yours truly,  
+The Y1 CS Team.
