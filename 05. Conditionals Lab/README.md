@@ -65,6 +65,12 @@ We will now use conditionals to see who get's to go home!
 
 [![](https://media.tenor.com/images/a1a7f2e6a0a7e99a019a8937af3935e7/tenor.gif)]()
 
+### Wrapping up:
+- Please show your work to an Instructor or TA!
+- When you're done, make sure to submit the lab with the Submit button on the top right.
+
+<!-- 
+
 ## Wrapping up:
 Run the test.
 - If it passes:
@@ -74,7 +80,7 @@ Run the test.
     - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
     - If you have questions, ask a classmate, or call over an Instructor or TA!
 
-
+-->
 ## Bonus Problems:
 
 ### Daily Routine
