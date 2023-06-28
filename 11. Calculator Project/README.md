@@ -18,7 +18,7 @@
     - Why should users choose your calculator over any other calculator application?
     - What about your application that makes it extra useful/enjoyable and adds value to it?
 
-- To build a great application requires **empathy**... put yourself in the shoes of the user while building it!
+- Building a great application requires **empathy**... put yourself in the shoes of the user while building it!
 
 ## Objectives:
 1. The Basic 4: 
