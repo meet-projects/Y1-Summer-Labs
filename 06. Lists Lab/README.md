@@ -60,7 +60,11 @@ We're going to use lists to manipulate our own movie queue.
 3. Let's say you watched the first movie - Write code that deletes the first movie and prints the updated list. 
 
 
-## Wrapping up:
+### Wrapping up:
+- Please show your work to an Instructor or TA!
+- When you're done, make sure to submit the lab with the Submit button on the top right.
+
+<!-- 
 
 Run the test.
 - If it passes:
@@ -68,7 +72,7 @@ Run the test.
 - If it fails:
     - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
     - If you have questions, ask a classmate, or call over an Instructor or TA!
-
+-->
 [![](https://camo.githubusercontent.com/2f9feb41e6febba197c32171bba0924fe0b0123a/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d4844492d58694c697264382f546f614a736568535930492f414141414141414142736f2f5848584f555f71444b336b2f73313630302f506172726f742b46756e6e792b50696374757265735f312e6a7067)]()
 
 
