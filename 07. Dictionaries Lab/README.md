@@ -102,6 +102,12 @@ You are an engineer at **Instagram**, and your job is to organize the instagram 
 
 ##### Great job!
 
+### Wrapping up:
+- Please show your work to an Instructor or TA!
+- When you're done, make sure to submit the lab with the Submit button on the top right.
+
+<!-- 
+
 ## Wrapping up:
 
 Run the test.
@@ -112,3 +118,4 @@ Run the test.
     - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
     - If you have questions, ask a classmate, or call over an Instructor or TA!
 
+-->
