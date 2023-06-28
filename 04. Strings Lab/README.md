@@ -62,8 +62,12 @@ s4 = " realise we are "
 
 2. Using the string operations, combine these strings to complete the meaning, then print it out.
 
-
 ### Wrapping up:
+- Please show your work to an Instructor or TA!
+- When you're done, make sure to submit the lab with the Submit button on the top right.
+
+<! -- 
+
 Run the test.
 
 - If it passes:
@@ -71,6 +75,8 @@ Run the test.
 - If it fails:
     - Review the lab to see if you missed any steps. You need to follow the steps exactly to pass.
     - If you have questions, ask a classmate, or call over an Instructor or TA!
+ 
+  --> 
 
 
  <img src="https://i.pinimg.com/originals/82/6a/e7/826ae74c5c26e916dca8e1dd13808b22.gif" width=300>
