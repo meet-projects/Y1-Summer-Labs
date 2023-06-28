@@ -52,9 +52,17 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 
 ## Great job on completing your Turtle Lab!
 
+### Wrapping up:
+- Please show your work to an Instructor or TA!
+- When you're done, make sure to submit the lab with the Submit button on the top right.
+
+<!-- 
+
 ## Wrapping up:
 
 - Get a TA/Instructor to check your lab. 
+
+-->
 
 ---
 
