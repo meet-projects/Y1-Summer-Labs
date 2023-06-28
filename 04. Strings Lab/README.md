@@ -66,7 +66,7 @@ s4 = " realise we are "
 - Please show your work to an Instructor or TA!
 - When you're done, make sure to submit the lab with the Submit button on the top right.
 
-<! -- 
+<!-- 
 
 Run the test.
 
