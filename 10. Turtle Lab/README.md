@@ -37,7 +37,7 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 ![Image of Turtle Shapes](https://github.com/meet-projects/Y1-Summer-Labs/blob/master/TurtleShapes.png)
 ---
 ### 2) Copy Cat: 
-1. Comment out your code for Part 1 so that Part 2 can run uninterrupted! To comment out code, you can place a hashtag symbol `#` in front of every line of code, or highlight all the code you want to comment out and use a keyboard shortcut to comment out your code.
+1. Comment out your code for Part 1 so that Part 2 can run uninterrupted! To comment out code, you can place a hashtag symbol `#` in front of every line of code, or add ''' before and after your code: ''' YOUR CODE '''.
 
 2. Our goal is to make the picture below, using **two turtles**.
 ![Image of Copy Cat outcome](https://lh4.googleusercontent.com/ykhbjCdVwh8eHFxlphI9prJbFpNiLn9luPZicTQwI7NBs9b7baNsj9sPBFdihEFmyZPqpqS6RDS7a84yrISyCCSNcnWA7_j_OtO26bLVqBhg7qnGCYOeJCdY19CAFIGhNcYt1E8)
