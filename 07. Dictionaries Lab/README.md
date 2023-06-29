@@ -34,7 +34,6 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
 5. Next use `print` to print out just the amounts without the ingredients. 
 
-> At this point your first 4 tests should pass!
      
 ### 2) Dictionaries in Dictionaries (Nested dictionaries)
 ```python
