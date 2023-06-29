@@ -3,7 +3,7 @@
 ## Objective: 
 In this lab, you will learn how to start writing AND using **lists**, to start and get a sense on where and when to use them!
 
-<img src="lists.gif" align="right" hspace="10" width="400">
+<img src="lists.gif" width="400">
 
 
 > Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
