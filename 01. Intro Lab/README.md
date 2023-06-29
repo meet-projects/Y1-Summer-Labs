@@ -12,7 +12,7 @@ In this lab, you will learn how to us `Repl.it`. These will help you organize yo
 2. Once you've created an account, find the `Teams` tab on the left.
     1. From here you should be able to find your group. Click on it!
     
-![Finding the teams tab](https://gcdnb.pbrd.co/images/XdZvfEj7D38N.png)
+![Finding the teams tab](https://drive.google.com/file/d/1i7BNv6X5RCiqY7GZcmWz1M86fnDraKX7/view?usp=sharing)
 
 3. On the group page, you can see all your current labs.
     1. You should see one called `01 - Intro to CS`--click to start the lab.
