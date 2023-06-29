@@ -1,6 +1,8 @@
 
 ## Turtle Lab:
 
+## Objective: 
+In this lab, you will learn how to use **turtle** and explore its built-in **SUPERPOWERS!**
 
 > Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
 
