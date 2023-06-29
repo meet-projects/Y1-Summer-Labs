@@ -12,6 +12,8 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 ## Instructions:
 
+## Part 1 - DataTypes:
+
 1. Working with other classmates, take a look at the following python snippets:
     - `print(type(259+33))`
     - `print(type(259-33.0))`
@@ -29,12 +31,17 @@ In this lab, you will learn about different data types, including `int`, `float`
 1. Now, after you're done guessing and discussing, let's put your theories to the test!
     - Write each line in the Repl.it **editor**, then press the `Run` button and understand why it is what it is.
     - If you don't understand something specific, try and ask your partner first :)
+    - Remember! , if there are outputs that you do not understand, don’t hesitate to ask your TAs or Instructors!
 
-> Tip: You need to include _all_ the print statements above for your test to pass.
+> Tip: You need to include _all_ the print statements above for your final submission.
 
 ##### Great job!
 
 ## Wrapping up:
+    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
+
+<!--
 
 Run the test.
 - If it passes:
@@ -43,6 +50,7 @@ Run the test.
 - If it fails:
     - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
     - If you have questions, ask a classmate, or call over an Instructor or TA!
+-->
 
 [![](https://programmer.group/images/article/1a680890c223e534389f27858b5bf33a.jpg)]()
 
