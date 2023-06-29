@@ -12,7 +12,7 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 
 ### 1) Warm Up!
 1. *Create* a new list and call it `classmates`, and include all of the classmates you see around you in that list!
-    - Example: `classmates = ["Loai", "Celina", "Lyel"]`
+    - Example: `classmates = ["Adan", "Iva", "Firas"]`
 
 2. Add your name to the list, using the `append()` function, then print out the list!
 
