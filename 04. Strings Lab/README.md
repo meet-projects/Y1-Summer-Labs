@@ -22,7 +22,7 @@ In this lab, you will learn how to use **strings**, as well as make sure you gra
     - Did anything change?
     
 3. Print "Hello" to your partner by including **their name** on a new line.
-    - For example `"Hello Claire"`. 
+    - For example `"Hello Emma"`. 
     - Show it to them!
 
 4. Now on a new line type `#print("Hello World")` and hit **run**.
