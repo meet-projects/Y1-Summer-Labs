@@ -104,6 +104,16 @@ You are a software engineer at **Instagram**, and your job is to organize the in
 - Please show your work to an Instructor or TA!
 - When you're done, make sure to submit the lab with the Submit button on the top right.
 
+
+## Bonus Problems 
+### Instagram Plus
+1. Replace the comments lists with a comments dictionary that includes the comment and who wrote it.
+2. Add 3 comments. 
+3. Display each value of your new dictionary, and make sure that when you print out the comments you follow this format:
+	` username: comment `
+	> Note: Do not show curly brackets {} when printing the comments.
+
+
 <!-- 
 
 ## Wrapping up:
