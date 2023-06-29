@@ -7,7 +7,7 @@ In this lab, you will learn about different data types, including `int`, `float`
 <img src="https://miro.medium.com/max/1000/1*aNMBIivJppLy2fMRVUSgHA.gif" width=250>
 
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
+> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab! It is called `01 - Intro to CS`
 
 
 ## Instructions:
