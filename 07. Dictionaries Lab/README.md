@@ -71,7 +71,7 @@ city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
 
 ### 3) Instagram Post
 
-You are an engineer at **Instagram**, and your job is to organize the instagram post structure. We want to store them in a dictionary!
+You are a software engineer at **Instagram**, and your job is to organize the instagram post structure. We want to store them in a dictionary!
 
 1. *Define* a new dictionary, call it `instagram_post`, It should have the following keys:
     **Key** | **Value**          
