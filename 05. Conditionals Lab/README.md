@@ -79,7 +79,7 @@ Run the test.
 -->
 ## Bonus Problems:
 
-### Daily Routine
+### 1.Daily Routine
 
 Homer's daily routine is:
 - 8-10 Wake up, brush teeth, then eat 10 donuts.
@@ -96,3 +96,7 @@ Homer's daily routine is:
     - Note: An example of how you might write your conditionals is: if the time is greater or equal to (>=) 8, or less than (<) 10, then Homer should "Wake up, brush teeth, then eat 10 donuts."
     
 3. Does it work properly? Test it out!
+
+
+
+
