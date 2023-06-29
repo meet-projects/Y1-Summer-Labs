@@ -68,7 +68,6 @@ city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
     - The mayor of Los Angeles
     - A dictionary with all information on Chicago
 
-> At this point your first 7 tests should pass!
 
 ### 3) Instagram Post
 
