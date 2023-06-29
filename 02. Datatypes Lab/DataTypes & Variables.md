@@ -89,10 +89,12 @@ print(num*3)
 
 ##### Great job on finishing the lab!
  
+
 ## Wrapping up:
-    - You can go on to try the bonus problems at the bottom of the lab. 
-    - Be sure you don't change any of the code you already wrote!
-    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
+- Please reach out to your TAs or Instructors if you have any questions!
+- When you're done, make sure to submit the lab with the Submit button on the top right.
+- Try to do the bonus part, but please make sure not to change or delete your previous code.
+
 
 <!--
 
