@@ -24,22 +24,21 @@ In this lab, you will learn how to us `Repl.it`. These will help you organize yo
     - The files
     - The editor
     - The run button
-    - The test tab
     - The submit button
     
-![The main repl.it page](https://gcdnb.pbrd.co/images/owmJFkBdPif6.png)
+![The main repl.it page](lab1_1.png)
 
 Let's take them one by one!
 
 # The Main Repl.it page
 
 1. The console
-    - The console is the black screen.
+    - The console is the black box.
     - The console lets you run python code line by line.
     - This is great because you see your output immediately!
     - Try pasting this code into the console and hitting `ENTER` to run it!
-        - `print("Hello Y1s!")`
-        Note: Use ctr shift V to paste your code to the console.
+        - `print("Hello World!")`
+        - Note: Use ctr shift V to paste your code to the console.
         
 2. The files
     - The console is great, but it only runs code once.
@@ -49,9 +48,10 @@ Let's take them one by one!
     - Click on `main.py` (it may already be selected).
     
 3. The editor
-    - The editor lets us write code in our files, then run it again and again.
+    - The editor is the white box.
+    -  The editor lets us write code in our files, then run it again and again.
     - Paste this code into the editor:
-        - `print("Hello world!")`
+        - `print("Hello Y1s!")`
         
 4. The run button
     - You can run the code in your `main.py` file by clicking the `Run` button at the top of the screen.
@@ -59,6 +59,7 @@ Let's take them one by one!
     - If you don't see `"Hello world!"`, ask another classmate for help.
         - Check in with a TA or Instructor if you still need help.
 
+<!--
 5. The test tab
     - Tests help us make sure our code is working correctly.
     - Click the checkmark on the left of the screen to open the tests tab.
@@ -66,12 +67,14 @@ Let's take them one by one!
     - If you copied the code exactly from step `3`--it should pass!
         - If the test doesn't pass, ask another classmate for help.
         
-        
+       
 ![The test tab](https://gcdnb.pbrd.co/images/uLZ6GGpKBv09.png)
+
+ -->
         
-6. The submit button
+5. The submit button
     - Once you've followed all the steps in a lab and the test passes, you can click the submit button.
-    - Only submit if you are *confident* you have finished your lab--if you have any questions, ask a TA!
+    - Only submit if you are *confident* you have finished your lab--if you have any questions, ask a TA or Instructor!
 
 ##### Great job on completing your first Lab!
 
@@ -83,8 +86,8 @@ If you have extra time, continue to the **Bonus Problems** *below*.
     - Now try deleting the new file.
 
 2. Edit your original code so it looks like this: `print("Goodbye world :(")`
-    - Run the test again. It should fail!
-    - Now change it back to `print("Hello world!")`, and run tests again--they should pass now!
+    - Run your code again. It will show an error!
+    - What do you think is the problem ? Try fixing it and run your code again!
 
 <img src="https://media.giphy.com/media/8m4R4pvViWtRzbloJ1/giphy.gif" width="500">
 
