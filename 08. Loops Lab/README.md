@@ -78,8 +78,7 @@ data = {
     
 
 [![](https://i.gifer.com/7tB1.gif)]()
-
-##### Great job!
+### Great job!
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
@@ -122,7 +121,7 @@ Run the test.
     You win!
     ```
 
-### FizzBuzz
+### 2.FizzBuzz
 Write code to print numbers from 1 to 100, where multiples of 3 are replaced with "fizz", multiples of 5 with "buzz", and multiples of both 3 and 5 with "fizzbuzz." 
 
 Example:
