@@ -99,9 +99,8 @@ Run the test.
 -->
 
 ## Bonus Problems:
-
-1. Finish any previous labs that aren't finished
-2. *Define* a variable called `partner_dict`.
+### 1. MEET Partner
+ *Define* a variable called `partner_dict`.
     - `partner_dict` should be a dictionary of questions and answers about another MEET student.
     - Using `input()` and `while` loops, write code that prints out each question, and asks the reader for an answer. The code should keep running until the reader gets all of the answers right!
     - Example of how it should look like:
@@ -122,4 +121,12 @@ Run the test.
     Correct Answer!
     You win!
     ```
+
+### FizzBuzz
+Write code to print numbers from 1 to 100, where multiples of 3 are replaced with "fizz", multiples of 5 with "buzz", and multiples of both 3 and 5 with "fizzbuzz." 
+
+Example:
+
+`1, 2, fizz, 4, buzz, fizz, 7, 8, fizz, buzz, 11, fizz, 13, 14, fizzbuzz, 16, 17, ...`
+
 
