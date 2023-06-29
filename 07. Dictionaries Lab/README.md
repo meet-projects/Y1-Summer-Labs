@@ -112,6 +112,7 @@ You are a software engineer at **Instagram**, and your job is to organize the in
 3. Display each value of your new dictionary, and make sure that when you print out the comments you follow this format:
 	
  ` username: comment `
+ 
 	> Note: Do not show curly brackets {} when printing the comments.
 
 
