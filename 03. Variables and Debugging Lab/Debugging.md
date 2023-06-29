@@ -56,13 +56,13 @@ Run the test.
 
 ### Great job on completing the Lab!
 
-### Bonus Problems: 
+## Bonus Problems: 
 
 - Read about Python DataTypes Conversion. Focus on str() and int().
 - How can you use those functions to fix the errors above?
 - Copy and paste errors 2 and 3 from the previous part, and try fixing them using str() and int().
 
-
+##### Great job on completing the bonus problems section!  
 
 > [![](https://i.pinimg.com/originals/d4/20/4d/d4204d385da2a67b114644def349713d.gif)]()
 
