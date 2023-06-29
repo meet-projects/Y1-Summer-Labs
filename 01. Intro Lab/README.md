@@ -12,7 +12,7 @@ In this lab, you will learn how to us `Repl.it`. These will help you organize yo
 2. Once you've created an account, find the `Teams` tab on the left.
     1. From here you should be able to find your group. Click on it!
     
-![Team Tabs](https://drive.google.com/file/d/1i7BNv6X5RCiqY7GZcmWz1M86fnDraKX7/view?usp=sharing)
+![Team Tabs](lab1_0.png)
 
 
 3. On the group page, you can see all your current labs.
