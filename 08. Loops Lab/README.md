@@ -23,9 +23,8 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 
 3. Grandma really doesn't want you to leave! When you shout BYE, she pretends not to hear you. 
     - Change your program so that you have to shout BYE three times before the program will end.
-    
-> At this point the first 4 tests should pass!
 
+    
 ### 2) Searching out closet
 
 Our closet is pretty messy. But we can write code that helps us find stuff in our closet using loops!
@@ -54,7 +53,6 @@ my_closet = [
 4. We can make our loop faster by breaking out of it as soon as we find our item!
     - Use `break` when finding `my_item` and stop the loop.
     
-> At this point the first 6 tests should pass!
 
 ### 3) Dictionary Printer!
 
@@ -78,7 +76,6 @@ data = {
     ```
     - Hint: Use loops!
     
-> At this point the first 7 tests should pass!
 
 [![](https://i.gifer.com/7tB1.gif)]()
 
