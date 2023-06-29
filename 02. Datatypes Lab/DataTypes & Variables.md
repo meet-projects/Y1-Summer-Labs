@@ -2,6 +2,7 @@
 
 ## Objective: 
 In this lab, you will learn about different data types, including `int`, `float`, `str`, and `bool`, and how to use `type()` to determine what data type a variable is, using **Python**. 
+Moreover, you will learn how to assign *values* to **variables**, how to change the *values* of a **variable**.
 
 
 <img src="https://miro.medium.com/max/1000/1*aNMBIivJppLy2fMRVUSgHA.gif" width=250>
