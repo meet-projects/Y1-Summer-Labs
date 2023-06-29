@@ -2,8 +2,6 @@
 
 ## Objective: 
 In this lab, you will learn how to use **strings**, as well as make sure you grasp the idea of **Input/Output**!
-Also, you will learn how to start writing conditions using conditionals and make programs that can take decisions!
-
 
 
 [![](https://thumbs.gfycat.com/CloseShabbyEelelephant-size_restricted.gif)]()
