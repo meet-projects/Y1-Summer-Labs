@@ -39,6 +39,8 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 ## Part 2 - Variables:
 
+
+
 ## Wrapping up:
     - You can go on to try the bonus problems at the bottom of the lab. 
     - Be sure you don't change any of the code you already wrote!
