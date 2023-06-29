@@ -114,10 +114,10 @@ turtle.goto(-100,-100)
     - **T**
 
 ### Part 2
-1. Roni, Ayoub, and Uri have won a competition of Kahoot! To honour that, let's draw them a *Crown* in turtle and go present it to them.
+Roni, Ayoub, and Uri have won a competition of Kahoot! To honour that, let's draw them a *Crown* in turtle and go present it to them.
 ![Image of Turtle Crown](https://us.123rf.com/450wm/aditii16/aditii162106/aditii16210600011/170518370-cute-king-turtle-mascot-character-holding-staff-cartoon-vector-icon-illustration-design-isolated-on-.jpg?ver=6)
 
 ### Part 3 
-1. Add a gif picture as a shape to your turtle.
+Add a gif picture as a shape to your turtle.
    > Hint: Use addshape()
  
