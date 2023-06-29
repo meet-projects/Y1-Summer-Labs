@@ -74,9 +74,10 @@ Run the test.
 [![](https://camo.githubusercontent.com/2f9feb41e6febba197c32171bba0924fe0b0123a/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d4844492d58694c697264382f546f614a736568535930492f414141414141414142736f2f5848584f555f71444b336b2f73313630302f506172726f742b46756e6e792b50696374757265735f312e6a7067)]()
 
 -->
-## Bonus Problems: 
-### Netflix Plus:
-    - Take your code from part 3 and add the following to it:
+## Bonus Problems:
+
+### Netflix Plus
+Take your code from part 3 and add the following to it:
         1. Turns out you watched movie 2, ask the user for a new movie and replace it with movie 2. 
         2. What if the user entered a movie that already exists in your movie list? 
         3. Check if the user's movie is **in** the movie list. If it is, print: "Sorry, the movie already exists." If not, add the movie to the list.
