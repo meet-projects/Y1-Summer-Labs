@@ -41,7 +41,6 @@ num_donuts = input('Enter number of donuts here: ')
     - Your code should tell Homer `"good job"` if he eats **less than half his maximum intake**
     - And `"get back on your diet"` when he **exceeds his maximum intake**.
     
-> At this point your first 4 tests should pass! If they don't, go back over the instructions to see if you missed something.
 
 
 ### 2) GO HOME!, Unless...  
