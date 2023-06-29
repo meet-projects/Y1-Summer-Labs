@@ -51,8 +51,6 @@ We will now use conditionals to see who get's to go home!
 
 2. Write conditional statements so your code prints `"[name], Go home!"`, unless the `name` is `"homer"`, in which case it prints `"Welcome home."`
 
-> At this point your first 6 tests should pass! If they don't, go back over the instructions to see if you missed something.
-
 3. [BONUS] Does it work if you put in these strings as the `name` argument?
     - `"homer"`
     - `"Homer"`
@@ -60,7 +58,6 @@ We will now use conditionals to see who get's to go home!
     - If it doesn't take the previous strings, update and fix your code so it accepts the name `"homer"` in any way written! 
         - **Hint:** Look up `string.lower()`, `string.upper()`, etc...
 
-> At this point all your tests should pass! If they don't, go back over the instructions to see if you missed something.
 
 [![](https://media.tenor.com/images/a1a7f2e6a0a7e99a019a8937af3935e7/tenor.gif)]()
 
