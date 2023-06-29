@@ -18,8 +18,6 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 
 3. Check with a neighbor to make sure your list is correct!
 
-> At this point your first test should pass! If it doesn't, go back over the instructions to see if you missed something.
-
 ### 2) Parking Valet!
 <img src="https://media2.giphy.com/media/26tk0T3cxwc4yFvK8/source.gif" align="right" hspace="10" width="300">
 
