@@ -10,7 +10,7 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 
 ## Instructions:
 
-### 1) Deaf Grandma
+### 1) Lovely Grandma
 <img src="https://s3.amazonaws.com/after-school-assets/deaf_grandma.jpg" width="400">
 
 1. Today we're spending time with our grandma. *Define* a variable `text`, which gets input from the user (with `input()`) that allows us to speak.
