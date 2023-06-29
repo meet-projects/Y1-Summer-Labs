@@ -19,14 +19,10 @@ In this lab, you will learn how to start writing working **functions**, as well 
 3. Let a neighbor try it out!
     - You can print the result of the function to see it work like this:
     ```python
-    print(excited("Waly"))
+    print(excited("Maggie"))
     ```
     
-> The first 2 tests should pass now!
-
 ### 2) GO HOME!
-
-Remember the **Go Home!** example we gave in the lecture?  
 
 1. *Define* a new function and call it `go_home`, it should take 1 argument which is `name`.
 
@@ -37,10 +33,8 @@ Remember the **Go Home!** example we gave in the lecture?
 3. Test our your code!
     - You can print the result of the function to see it work like this:
     ```python
-    print(go_home("Will", 6))
+    print(go_home("Vivien", 6))
     ```
-
-> The first 4 tests should pass now!
 
 
 ### 3) Restaurant Tip Calculator!
@@ -61,7 +55,6 @@ Remember the **Go Home!** example we gave in the lecture?
     - This is the total amount, divided by the number of people.
     - In our example above, if you call `tip_calc(250, 10, 5)` you should print `Per person: 55`.
     
-> All the tests should pass now!
 
 [![](https://thumbs.gfycat.com/ImpeccableInnocentHoiho-size_restricted.gif)]()
 
