@@ -1,6 +1,4 @@
-
 ## Turtle Lab:
-
 ## Objective: 
 In this lab, you will learn how to use **turtle** and explore its built-in **SUPERPOWERS!**
 
