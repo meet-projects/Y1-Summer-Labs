@@ -75,7 +75,7 @@ Run the test.
 
 
 ## Bonus Problems: 
-#### Netflix Plus:
+### Netflix Plus:
     - Take your code from part 3 and add the following to it:
         1. Turns out you watched movie 2, ask the user for a new movie and replace it with movie 2. 
         2. What if the user entered a movie that already exists in your movie list? 
