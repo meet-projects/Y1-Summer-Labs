@@ -47,7 +47,7 @@ sentence1 = input("Say something! ")
     - And `sentence2` was `"Loai, and I'm 15 years old!"`
     - It should print `"Hello, my name is Loai, and I'm 15 years old!"`
       
-5. Try printing this output in capital letters.
+5. Try printing this output in capital letters. (Hint: Use "your_string".upper())
    
 7. How many letters are in this sentence? print the length of the sentence using len().
 
