@@ -19,7 +19,7 @@ In this lab, you will learn how to us `Repl.it`. These will help you organize yo
     1. You should see one called `01 - Intro to CS`--click to start the lab.
 
 
-4. Now you should see the main repl.it page. There are 6 main parts of the page we'll cover:
+4. Now you should see the main repl.it page. There are 5 main parts of the page we'll cover:
     - The console
     - The files
     - The editor
