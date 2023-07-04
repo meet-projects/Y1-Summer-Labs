@@ -1,4 +1,4 @@
-# Intro to CS - Linux Lab
+# Intro to CS - Repl.it Lab
 
 ## Objective: 
 In this lab, you will learn how to us `Repl.it`. These will help you organize your work for this year and for the rest of your journey at MEET!
