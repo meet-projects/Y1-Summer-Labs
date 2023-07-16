@@ -85,7 +85,7 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 1. Try creating a new file in the file explorer--name it whatever you like, but remember to add `.py` at the end!
     - Now try deleting the new file.
 
-2. Edit your original code so it looks like this: `print("Goodbye! See You Next Session")`
+2. Edit your original code so it looks like this: `print("Goodbye! See You Next Session)`
     - Run your code again. It will show an error!
     - What do you think is the problem ? Try fixing it and run your code again!
 
