@@ -56,7 +56,7 @@ Let's take them one by one!
 4. The run button
     - You can run the code in your `main.py` file by clicking the `Run` button at the top of the screen.
     - Click it, then watch for the result of your code in the console.
-    - If you don't see `"Hello world!"`, ask another classmate for help.
+    - If you don't see `"Hello Y1s!"`, ask another classmate for help.
         - Check in with a TA or Instructor if you still need help.
 
 <!--
@@ -85,7 +85,7 @@ If you have extra time, continue to the **Bonus Problems** *below*.
 1. Try creating a new file in the file explorer--name it whatever you like, but remember to add `.py` at the end!
     - Now try deleting the new file.
 
-2. Edit your original code so it looks like this: `print("Goodbye world :(")`
+2. Edit your original code so it looks like this: `print("Goodbye! See You Next Session")`
     - Run your code again. It will show an error!
     - What do you think is the problem ? Try fixing it and run your code again!
 
