@@ -111,14 +111,14 @@ Run the test.
 7. Test that your code works for **ANY** name by trying a few *different* names.
     - You can even ask a neighbor to write out name suggestions to help you in testing!
   
-### 2) int() & raw_input(): 
+### 2) int(): 
 1. Using `input()`, Write a program that asks "What's your age?" and store the user's age in a **variable**. 
 
 2. Multiply the user's age by your age.
 
 3. Print out the result.
 
-4. Is this the result you expected? Try fixing it using one of the following functions: `raw_input` , `int()`
+4. Is this the result you expected? Try fixing it using one of the following function: `int()`
     - Remember you can ask your partner or CS team  for help if you have trouble 
 
 
