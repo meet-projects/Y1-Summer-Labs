@@ -41,7 +41,7 @@ In this lab, you will learn how to start writing working **functions**, as well 
 
 ### 2) Restaurant Tip Calculator!
 
-1. Define a new function and call it `tip_calc`. It should take 2 arguments:
+1. Define a new function and call it `tip_calc()`. It should take 2 arguments:
     - `bill` - The table's bill.
     - `percentage` - the percentage you'd like to tip (if you want to tip 10%, `percentage` should be `10`)
 
