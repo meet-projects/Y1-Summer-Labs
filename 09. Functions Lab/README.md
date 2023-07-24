@@ -54,8 +54,9 @@ In this lab, you will learn how to start writing working **functions**, as well 
     - The total is the tip, plus the original bill.
     - In our example above, if you call `tip_calc(250, 10, 5)` you should print `Total: 275`.
 
-5.Add a new argument to the function `tip_calc()` called `people`
-    - `people` - the number of people sitting at your table.
+4. Add a new argument to the function `tip_calc()` called `people`
+    -  `people` - the number of people sitting at your table.
+    
 
 6. In your function, return the amount each person needs to pay if you split the total equally.
     - This is the total amount, divided by the number of people.
