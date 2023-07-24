@@ -11,6 +11,8 @@ In this lab, you will learn how to start writing working **functions**, as well 
 
 ## Instructions:
 
+<!-- 
+
 ### 1) Excited @MEET!
 1. *Define* a new function and call it `excited`, it should take 1 argument which is `name`.
 
@@ -21,8 +23,8 @@ In this lab, you will learn how to start writing working **functions**, as well 
     ```python
     print(excited("Maggie"))
     ```
-    
-### 2) GO HOME!
+    -->
+### 1) GO HOME!
 
 1. *Define* a new function and call it `go_home`, it should take 1 argument which is `name`.
 
@@ -37,23 +39,28 @@ In this lab, you will learn how to start writing working **functions**, as well 
     ```
 
 
-### 3) Restaurant Tip Calculator!
+### 2) Restaurant Tip Calculator!
 
-1. Define a new function and call it `tip_calc`. It should take 3 arguments:
+1. Define a new function and call it `tip_calc`. It should take 2 arguments:
     - `bill` - The table's bill.
     - `percentage` - the percentage you'd like to tip (if you want to tip 10%, `percentage` should be `10`)
-    - `people` - the number of people at your table.
 
-2. The function should print how much you should tip!
+2. The function should calculate and print how much you should tip based on the bill & percentage!
     - For example, if the bill was `250`, and you want to tip `10%`, you could call `tip_calc(250, 10, 5)`, and you should print `Tip: 25`.
-    
+    - How would you calculate that ?
+    - Let's try to add it to the function!
+
 3. Add another print statement in your function that prints the total amount you need to pay.
     - The total is the tip, plus the original bill.
     - In our example above, if you call `tip_calc(250, 10, 5)` you should print `Total: 275`.
 
-5. Add another print statement in your function that prints the amount each person needs to pay if you split the total equally.
+5.Add a new argument to the function `tip_calc()` called `people`
+    - `people` - the number of people sitting at your table.
+
+6. In your function, return the amount each person needs to pay if you split the total equally.
     - This is the total amount, divided by the number of people.
-    - In our example above, if you call `tip_calc(250, 10, 5)` you should print `Per person: 55`.
+    - In our example above, if you call `tip_calc(250, 10, 5)` it should return `55`.
+
     
 
 [![](https://thumbs.gfycat.com/ImpeccableInnocentHoiho-size_restricted.gif)]()
