@@ -20,10 +20,10 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 
 2. Grandma decided she wants to keep talking to you and won't let you leave. Change your program so that it keeps running until you shout `"BYE"`.
     - _Hint_: You will probably want to use a `while` loop to keep the program running.
-
+<!-- 
 3. Grandma really doesn't want you to leave! When you shout BYE, she pretends not to hear you. 
     - Change your program so that you have to shout BYE three times before the program will end.
-
+-->
     
 ### 2) Searching out closet
 
