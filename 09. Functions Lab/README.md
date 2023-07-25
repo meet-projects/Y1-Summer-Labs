@@ -46,13 +46,13 @@ In this lab, you will learn how to start writing working **functions**, as well 
     - `percentage` - the percentage you'd like to tip (if you want to tip 10%, `percentage` should be `10`)
 
 2. The function should calculate and print how much you should tip based on the bill & percentage!
-    - For example, if the bill was `250`, and you want to tip `10%`, you could call `tip_calc(250, 10, 5)`, and you should print `Tip: 25`.
+    - For example, if the bill was `250`, and you want to tip `10%`, you could call `tip_calc(250, 10)`, and you should print `Tip: 25`.
     - How would you calculate that ?
     - Let's try to add it to the function!
 
 3. Add another print statement in your function that prints the total amount you need to pay.
     - The total is the tip, plus the original bill.
-    - In our example above, if you call `tip_calc(250, 10, 5)` you should print `Total: 275`.
+    - In our example above, if you call `tip_calc(250, 10)` you should print `Total: 275`.
 
 4. Add a new argument to the function `tip_calc()` called `people`
     -  `people` - the number of people sitting at your table.
