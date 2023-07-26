@@ -34,7 +34,6 @@
 3. Error Handling:
     - What happens when you write:
         - An invalid equation. (For example: `3 - 4 + `)
-        - A random string. (For example: `Potato` or `New York City`)
         - An unsupported symbol. (For example `,` or `@`)
         - Dividing by 0 (For example `5 / 0`)
     - Handle all of these resulting errors.
@@ -53,6 +52,8 @@
 1. Add the option to take more than two numbers! For example, computing an expression like 3 + 4 / 2 with three numbers, or being able to make an expression such as 3 + 4 with only two numbers. 
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
 3. Add a history of operations list/dictionary!
+4. More Error Handling! What if I enter a random string. (For example: `Potato` or `New York City`). Hint: Check out try and except.
+
 
 > Turtle is a Python library that enables users to create pictures and shapes by providing them with a virtual canvas. Here's MEET's [Introduction to Turtle](https://docs.google.com/presentation/d/12hUghofRqPTL3jsDazqqUrrr8-GfMe68-IFim9XTEDI/edit?usp=sharing) Lecture. You will need to learn Turtle for the rest of the challenges.
 4. Show the calculator results using turtle! 
