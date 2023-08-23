@@ -21,6 +21,7 @@
 - Building a great application requires **empathy**... put yourself in the shoes of the user while building it!
 
 ## Objectives:
+> Important: You need to finish all objectives to be done with minimum requirements. You do not have to do the objectives by order but you can't move to bonuses without finishing all minimum requirements and getting approval from your TA/Instructor. 
 1. The Basic 4: 
     - Create a calculator that processes at least the basic 4 symbols (Addition(+), Subtraction(-), Multiplication(*), and Division(/)) 
     - The calculator has to take as an **input** at least 2 numbers and 1 of the symbols in order to create an equation.
@@ -32,22 +33,24 @@
     - The calculator has to process exponents as well.
         - For example, if the user writes `2**3`, it should return `8` as the result.
         - Remember that `2**3` means 2 to the power of 3 or 2^3.
-3. Error Handling:
+     
+3. Run Continuously:
+    - The program must run **continuously** until the user decides to stop/exit the application.
+    - Think about a **user friendly** way how this can be implemented. 
+4. Error Handling:
     - What happens when you write:
         - An invalid equation. (For example: `3 - 4 + `)
         - An unsupported symbol. (For example `,` or `@`)
         - Dividing by 0 (For example `5 / 0`)
         - What if I enter a random string. (For example: `Potato` or `New York City`). Hint: `isdigit()`
+        - Your calculator should handle floats. (For example `5 / 2.4`)
 
-    - Handle all of these resulting errors.
+    - Handle all of these resulting errors and make sure to print a clear error message for each.
     - Make sure to cover all similar gaps in your application, to make sure it's as **user friendly** as possible!
-4. Menu:
+5. Menu:
     - Include a menu of operations/actions options that is displayed when your application starts running.
     - This menu should serve as instructions to the user, to know how to use your application!
-5. Run Continuously:
-    - The program must run **continuously** until the user decides to stop/exit the application.
-    - Think about a **user friendly** way how this can be implemented. 
-
+      
 
 ## Challenges: *(Extra)*
 *You can pick any/all of these if you like!* In other words, you don't have to do them in order.  
