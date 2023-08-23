@@ -23,7 +23,8 @@
 ## Objectives:
 1. The Basic 4: 
     - Create a calculator that processes at least the basic 4 symbols (Addition(+), Subtraction(-), Multiplication(*), and Division(/)) 
-    - The calculator has to take as an **input** at least 2 numbers and 1 of the symbols in order to create an equation. 
+    - The calculator has to take as an **input** at least 2 numbers and 1 of the symbols in order to create an equation.
+    - The input should be a one-line equation. for example `3 - 4` , instead of taking 3 separate inputs.
     - The calculator has to return the **value** of the **given equation**.
 2. Exponents:
     - An exponent refers to the **number of times** a number is **multiplied** by *itself*.
@@ -36,6 +37,8 @@
         - An invalid equation. (For example: `3 - 4 + `)
         - An unsupported symbol. (For example `,` or `@`)
         - Dividing by 0 (For example `5 / 0`)
+        - What if I enter a random string. (For example: `Potato` or `New York City`). Hint: `isdigit()`
+
     - Handle all of these resulting errors.
     - Make sure to cover all similar gaps in your application, to make sure it's as **user friendly** as possible!
 4. Menu:
@@ -52,7 +55,6 @@
 1. Add the option to take more than two numbers! For example, computing an expression like 3 + 4 / 2 with three numbers, or being able to make an expression such as 3 + 4 with only two numbers. 
 2. Take more than one symbol, and make sure that you calculate the right order of operations. 
 3. Add a history of operations list/dictionary!
-4. More Error Handling! What if I enter a random string. (For example: `Potato` or `New York City`). Hint: Check out try and except.
 
 
 > Turtle is a Python library that enables users to create pictures and shapes by providing them with a virtual canvas. Here's MEET's [Introduction to Turtle](https://docs.google.com/presentation/d/12hUghofRqPTL3jsDazqqUrrr8-GfMe68-IFim9XTEDI/edit?usp=sharing) Lecture. You will need to learn Turtle for the rest of the challenges.
