@@ -49,28 +49,6 @@ my_closet = [
 4. We can make our loop faster by breaking out of it as soon as we find our item!
     - Use `break` when finding `my_item` and stop the loop.
     
-
-### 3) Dictionary Printer!
-
-1. Copy and paste the following dictionary into the python editor:
-
-```
-data = {
-"Name": "The Meal",
-"Age":  "2 Weeks",
-"Gender": "Soup",
-"Size": "500ml",
-}
-```
-
-1. Write code to print the keys and the values next to each other
-    - It should look kind of like this (make sure you have at least 1 space between the key and the value on each line):
-    ```python
-    key_a    value_a
-    key_b    value_b
-    key_c    value_c
-    ```
-    - Hint: Use loops!
     
 
 [![](https://i.gifer.com/7tB1.gif)]()
@@ -94,7 +72,30 @@ Run the test.
 -->
 
 ## Bonus Problems:
-### 1. MEET Partner
+
+### 1. Dictionary Printer!
+
+1. Copy and paste the following dictionary into the python editor:
+
+```
+data = {
+"Name": "The Meal",
+"Age":  "2 Weeks",
+"Gender": "Soup",
+"Size": "500ml",
+}
+```
+
+1. Write code to print the keys and the values next to each other
+    - It should look kind of like this (make sure you have at least 1 space between the key and the value on each line):
+    ```python
+    key_a    value_a
+    key_b    value_b
+    key_c    value_c
+    ```
+    - Hint: Use loops!
+   
+### 2. MEET Partner
  *Define* a variable called `partner_dict`.
     - `partner_dict` should be a dictionary of questions and answers about another MEET student.
     - Using `input()` and `while` loops, write code that prints out each question, and asks the reader for an answer. The code should keep running until the reader gets all of the answers right!
@@ -117,7 +118,7 @@ Run the test.
     You win!
     ```
 
-### 2.FizzBuzz
+### 3.FizzBuzz
 Write code to print numbers from 1 to 100, where multiples of 3 are replaced with "fizz", multiples of 5 with "buzz", and multiples of both 3 and 5 with "fizzbuzz." 
 
 Example:
