@@ -36,13 +36,17 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 ## Wrapping up:
 
-Run the test.
-- If it passes:
-    - You can go on to try the bonus problems at the bottom of the lab. Be sure you don't change any of the code you already wrote!
-    - When you're done, make sure to submit the lab with the `Submit` button on the top right.
-- If it fails:
-    - Review the lab to see if you missed any steps. You need to follow the steps _exactly_ to pass.
-    - If you have questions, ask a classmate, or call over an Instructor or TA!
+Let's submit the lab!
+    - Once you've followed all the steps in a lab, go to the Master link.
+    - Click on the submission link for this lab.
+    - In the survey, copy your replit lab url, and copy it in the right place.
+    - Submit the survey!
+
+    if you have any questions, ask a classmate, TA or Instructor!
+
+
+You can go on to try the `bonus problems` at the bottom of the lab. Be sure you don't change any of the code you already wrote!
+   
 
 [![](https://programmer.group/images/article/1a680890c223e534389f27858b5bf33a.jpg)]()
 
