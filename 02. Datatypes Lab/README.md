@@ -30,7 +30,7 @@ In this lab, you will learn about different data types, including `int`, `float`
     - Write each line in the Repl.it **editor**, then press the `Run` button and understand why it is what it is.
     - If you don't understand something specific, try and ask your partner first :)
 
-> Tip: You need to include _all_ the print statements above for your test to pass.
+
 
 ##### Great job!
 
