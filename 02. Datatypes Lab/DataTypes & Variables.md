@@ -93,13 +93,14 @@ print(num*3)
  
 
 ## Wrapping up:
+
 Let's submit the lab!
 - Once you've followed all the steps in a lab, go to the Master link.
 - Click on the submission link for this lab.
 - In the survey, copy your replit lab url, and copy it in the right place.
 - Submit the survey!
 
-  if you have any questions, ask a classmate, TA or Instructor!
+        if you have any questions, ask a classmate, TA or Instructor!
 
 
 You can go on to try the `bonus problems` at the bottom of the lab. but please make sure not to change or delete your previous code.
