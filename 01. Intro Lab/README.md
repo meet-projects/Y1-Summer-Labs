@@ -39,10 +39,11 @@ Let's take them one by one!
     - The console is the black box.
     - The console lets you run python code line by line.
     - This is great because you see your output immediately!
+   <!--
     - Try pasting this code into the console and hitting `ENTER` to run it!
         - `print("Hello World!")`
         - Note: Use ctr shift V to paste your code to the console.
-        
+   -->     
 2. The files
     - The console is great, but it only runs code once.
     - If we want to save our code to run it again, we can put it in a `file`.
