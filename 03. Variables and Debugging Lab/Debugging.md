@@ -41,8 +41,15 @@ print(total)
 
 ## Wrapping up:
 - Please reach out to your TAs or Instructors if you have any questions!
-- When you're done, make sure to submit the lab with the Submit button on the top right.
+- When you're done, go to the Master link.
+- Click on the submission link for this lab.
+- In the survey, copy your replit lab url, and paste it in the right place.
+- Submit the survey!
 
+<!--
+- Please reach out to your TAs or Instructors if you have any questions!
+- When you're done, make sure to submit the lab with the Submit button on the top right.
+-->
 <!--
 Run the test.
 
