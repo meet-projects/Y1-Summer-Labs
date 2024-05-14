@@ -8,7 +8,7 @@ Moreover, you will learn how to assign *values* to **variables**, how to change 
 <img src="https://miro.medium.com/max/1000/1*aNMBIivJppLy2fMRVUSgHA.gif" width=250>
 
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab! It is called `02 - DataTypes & Variables`
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `DataTypes & Vars - Your Name`
 
 
 ## Instructions:
