@@ -56,8 +56,5 @@ You can go on to try the `bonus problems` at the bottom of the lab. Be sure you 
 2. If you have extra time, complete yesterday's lab(s).
 
 
-##### Great job on completing the bonus problems section!  
-
-###### Make sure the test passes, and that you submit the lab.
-
+#### Great job on completing the bonus problems section!  
 
