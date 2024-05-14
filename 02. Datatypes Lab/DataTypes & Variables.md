@@ -93,10 +93,16 @@ print(num*3)
  
 
 ## Wrapping up:
-- Please reach out to your TAs or Instructors if you have any questions!
-- When you're done, make sure to submit the lab with the Submit button on the top right.
-- Try to do the bonus part, but please make sure not to change or delete your previous code.
+Let's submit the lab!
+- Once you've followed all the steps in a lab, go to the Master link.
+- Click on the submission link for this lab.
+- In the survey, copy your replit lab url, and copy it in the right place.
+- Submit the survey!
 
+  if you have any questions, ask a classmate, TA or Instructor!
+
+
+You can go on to try the `bonus problems` at the bottom of the lab. but please make sure not to change or delete your previous code.
 
 <!--
 
