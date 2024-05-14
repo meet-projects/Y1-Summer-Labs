@@ -43,7 +43,7 @@ print(total)
 - Please reach out to your TAs or Instructors if you have any questions!
 - When you're done, go to the Master link.
 - Click on the submission link for this lab.
-- In the survey, copy your replit lab url, and paste it in the right place.
+- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
 <!--
