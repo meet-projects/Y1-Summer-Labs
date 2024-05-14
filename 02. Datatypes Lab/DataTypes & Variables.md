@@ -34,8 +34,8 @@ Moreover, you will learn how to assign *values* to **variables**, how to change 
     - If you don't understand something specific, try and ask your partner first :)
     - Remember! , if there are outputs that you do not understand, don’t hesitate to ask your TAs or Instructors!
 
-> Tip: You need to include _all_ the print statements above for your final submission.
 
+   
 ##### Great job!
 
 ## Part 2 - Variables:
@@ -64,6 +64,7 @@ b = a
 [![](https://lh6.googleusercontent.com/8_InDsh4L5c_np1x4e7zq5lA7YAzzQaV8AMrOL_aYsuKGssuODuCCur2KUHcgpA7AOIu7kaGl1pLN0p34KCqUi9mV5fPLYoBv9HYPhyrvsQKo3cm-pCHrs0yxC3_XaQPRSej0K0)]()
 
 5. Come up with a solution that fixes this issue, and switches the `a` and `b` values correctly!
+
 
 ---
 ### 2.2) Strings : 
