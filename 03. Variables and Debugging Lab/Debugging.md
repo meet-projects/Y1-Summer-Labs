@@ -10,14 +10,13 @@ In this lab, you will learn how to *recognize* **errors** in code and try to fix
 
 
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
-
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Debugging - Your Name`
 
 ## Instructions:
 
 ### Debugging Practice: 
 Below, you can find 3 mini programs that are written incorrectly.  
-We will provide what each program's intention is, and your job is to copy-paste it to your **Repl.it** and fix it!  
+We will provide what each program's intention is, and your job is to copy-paste it to your **Repl.it** editor and fix it!  
 
 1. Intention: Print out `"My name is student"`
 ```python
