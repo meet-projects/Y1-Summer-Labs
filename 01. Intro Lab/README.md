@@ -75,11 +75,15 @@ Let's take them one by one!
 ![The test tab](https://gcdnb.pbrd.co/images/uLZ6GGpKBv09.png)
 
  -->
- 5. The submit form
-    - Once you've followed all the steps in a lab, go to the Master link.
-    - Click on the submission link for this lab.
-    - In the survey, copy your replit lab url, and copy it in the right place. 
-    - Only submit if you are *confident* you have finished your lab--if you have any questions, ask a TA or Instructor!
+
+ 
+ # Submitting your work
+ 
+ ### The submit form
+- Once you've followed all the steps in a lab, go to the Master link.
+- Click on the submission link for this lab.
+- In the survey, copy your replit lab url, and copy it in the right place. 
+- Only submit if you are *confident* you have finished your lab--if you have any questions, ask a TA or Instructor!
 <!--
         
 5. The submit button
@@ -100,6 +104,7 @@ If you have extra time, continue to the **Bonus Problems** *below*.
     - What do you think is the problem ? Try fixing it and run your code again!
 
 <img src="https://media.giphy.com/media/8m4R4pvViWtRzbloJ1/giphy.gif" width="500">
+
 <!--
 # Intro to CS - Repl.it Lab
 
