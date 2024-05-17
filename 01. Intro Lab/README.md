@@ -8,7 +8,7 @@ In this lab, you will learn how to use `Repl.it`. These will help you organize y
 
 1. Make sure you have created a `Repl.it` account with the link provided by your instructors:
     1. Your username should include your firstname, first 2 letters of lastname, and year of graduation.
-       - For example: "kendazo26"
+       - For example: "KendaZo26"
     3. If you need help with this, ask a TA or Instructor!
 
 2. Once you've created an account, click on the `+ Create Repl` button on the left.
