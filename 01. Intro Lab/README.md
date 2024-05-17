@@ -16,7 +16,7 @@ In this lab, you will learn how to use `Repl.it`. These will help you organize y
     2. For Title, write "Intro to CS - First & Last name"
     3. Lastly, click again on the `+ Create Repl` button.
     
-![Team Tabs](Create_Repl.png)
+![Team Tabs](CreateRepl.png)
 
 <!--
 3. On the group page, you can see all your current labs.
@@ -29,7 +29,7 @@ In this lab, you will learn how to use `Repl.it`. These will help you organize y
     - The editor
     - The run button
     
-![The main repl.it page](lab1_1.png)
+![The main repl.it page](Lab01.png)
 
 Let's take them one by one!
 
