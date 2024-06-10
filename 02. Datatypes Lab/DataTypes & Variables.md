@@ -58,7 +58,8 @@ b = a
 3. What are the new values of `a` and `b`? 
     - Find out by printing the values using `print(a, b)`!
     
-4. What happened? why didn't it work?
+4. it is expected that the value of the variables will switch, meaning the new values are: a = 10 and b = 5 after the switching.
+   What happened? why didn't it work?
     - When we set `a = b`, the value in `a` changed to `10`. So both variables `a` and `b` have the value of `10`. Then, when we set `b = a`, the value of `a` was `10` so the value of `b` **did not change**.
 
 [![](https://lh6.googleusercontent.com/8_InDsh4L5c_np1x4e7zq5lA7YAzzQaV8AMrOL_aYsuKGssuODuCCur2KUHcgpA7AOIu7kaGl1pLN0p34KCqUi9mV5fPLYoBv9HYPhyrvsQKo3cm-pCHrs0yxC3_XaQPRSej0K0)]()
