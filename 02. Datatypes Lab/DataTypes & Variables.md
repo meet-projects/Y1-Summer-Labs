@@ -76,7 +76,7 @@ b = a
 four = '4'
 ```
 
-2. What happens when you additionally type:
+2. What happens when you additionally type: (Try to **run** your code)
 ```python
 print(four*3)
 ```
