@@ -79,8 +79,7 @@ Run the test.
 
 ### Netflix Plus
 Take your code from part 3 and add the following to it:
-1. Turns out you watched movie 2, ask the user for a new movie and replace it with movie 2. 
+1. Turns out you watched movie 2 (second movie), ask the user for a new movie and replace it with movie 2. 
 
-2. What if the user entered a movie that already exists in your movie list? 
-
-3. Check if the user's movie is **in** the movie list. If it is, print: "Sorry, the movie already exists." If not, add the movie to the list.
+2. What if the user entered a movie that already exists in your movie list?
+   - Check if the user's movie is **in** the movie list. If it is, print: "Sorry, the movie already exists." If not, add the movie to the list.
