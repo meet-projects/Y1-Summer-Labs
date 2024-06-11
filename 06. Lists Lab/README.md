@@ -12,7 +12,7 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 
 ### 1) Warm Up!
 1. *Create* a new list and call it `classmates`, and include all of the classmates you see around you in that list!
-    - Example: `classmates = ["Adan", "Iva", "Firas"]`
+    - Example: `classmates = ["Paulina", "Mustafa", "Firas"]`
 
 2. Add your name to the list, using the `append()` function, then print out the list!
 
@@ -30,6 +30,7 @@ You're working as a valet tonight at the **"Magic Palace"**! But, since you're a
 
 3. Write code to append the `car` to the `parked_cars` list!
     - And print `"Parked [car] in the garage!"`
+    - [car] = the value of your `car` variable
 
 4. Repeat this process 2 more times so you end up with 3 cars in your list.
 
