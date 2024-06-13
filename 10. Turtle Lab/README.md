@@ -16,13 +16,17 @@ turtle.mainloop() # make this the last line of your turtle code.
 ```
 **What do you see?**
 
-3. Now, change `'square'` to `'turtle'` in your code. You can do this by typing `turtle.shape('turtle')`.  Did anything change?
-
+3. Now, change `'square'` to `'turtle'` in your code. Did anything change?
+<!--
+You can do this by typing `turtle.shape('turtle')`.
+-->
 4. Now, type the following lines into your code. It should look like this:
 
-```python
+<!--
 import turtle # python needs this to use all of the turtle functions
 turtle.shape('turtle') # changes the shape to a turtle
+-->
+```python
 greeny = turtle.Turtle() # creates a new turtle and saves it in greeny variable.
 greeny.shape('square') # changes the shape of the 2nd turtle to a square
 greeny.goto(100,100) # moves square to x=100 and y=100
