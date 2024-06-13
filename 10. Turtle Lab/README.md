@@ -21,6 +21,7 @@ turtle.mainloop() # make this the last line of your turtle code.
 You can do this by typing `turtle.shape('turtle')`.
 -->
 4. Now, type the following lines into your code. It should look like this:
+   - remember to put the lines between `import turtle` and `turtle.mainloop()`
 
 <!--
 import turtle # python needs this to use all of the turtle functions
@@ -48,7 +49,7 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 
 3. Note that the **short lines** are `75 pixels` long, and the **long lines** are `150 pixels`. You can name your turtles however you'd like!
 
-> Hint: What do color(), pensize(), and shape() do?
+> Hint: What do color(), pensize(), tilt(), and shape() do?
 
 4. Call an Instructor/TA to check your completed task before moving on to the next part!
 
