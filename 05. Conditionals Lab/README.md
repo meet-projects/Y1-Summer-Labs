@@ -7,9 +7,10 @@ In this lab, you will learn how to start writing **conditions** using **conditio
 
 <img src="https://thumbs.gfycat.com/QualifiedAdolescentHind-size_restricted.gif">
 
-
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Conditionals - Your Name`
+<!--
 > Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab! 
-
+-->
 ## Instructions:
 
 ### 1) Homer Diet
