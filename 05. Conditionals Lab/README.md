@@ -49,7 +49,9 @@ We will now use conditionals to see who get's to go home!
 
 1. *Define* a new variable, `name`, that takes a person's name as an **input**.
 
-2. Write conditional statements so your code prints `"[name], Go home!"`, unless the `name` is `"homer"`, in which case it prints `"Welcome home."`
+2. *Define* a new variable, `fav_food`, that takes a person's favourite food as an **input**.
+
+3. Write conditional statements so your code prints `"[name], Go home!"`, unless the `name` is `"homer"` **and** the `fav_food` is `"donuts"`, in which case it prints `"Welcome home."`
 
 3. [BONUS] Does it work if you put in these strings as the `name` argument?
     - `"homer"`
@@ -59,11 +61,21 @@ We will now use conditionals to see who get's to go home!
         - **Hint:** Look up `string.lower()`, `string.upper()`, etc...
 
 
+<!-- alternative-->
+<!--
+1. *Define* a new variable, `name`, that takes a person's name as an **input**.
+
+2. Write conditional statements so your code prints `"[name], Go home!"`, unless the `name` is `"homer"`, in which case it prints `"Welcome home."`
+-->
+
 [![](https://media.tenor.com/images/a1a7f2e6a0a7e99a019a8937af3935e7/tenor.gif)]()
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, make sure to submit the lab with the Submit button on the top right.
+- When you're done, click on the submission link: 
+- Copy your replit lab url, and paste it in the right place in the survey.
+- Submit the survey!
+
 
 <!-- 
 
