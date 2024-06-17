@@ -5,7 +5,11 @@ In this lab, you will learn how to start writing **conditions** using **conditio
 
 
 
+
+<img src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/200w.gif?cid=6c09b952ezuvbqkxzi7rmb7c5e8vmy81s30pgcxl5fr5ticm&ep=v1_gifs_search&rid=200w.gif&ct=g">
+<!--
 <img src="https://thumbs.gfycat.com/QualifiedAdolescentHind-size_restricted.gif">
+-->
 
 > Before we start, navigate to Repl.it and `+ Create Repl` with the title `Conditionals - Your Name`
 <!--
