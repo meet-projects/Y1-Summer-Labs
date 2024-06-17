@@ -106,7 +106,7 @@ Homer's daily routine is:
 
 2. Plan a new set of conditionals so that your code print's Homer's task according to the daily routine plan of his!
     - For example: if `time=12`, your code would print `Donuts Lunch in the park.`
-    - Note: An example of how you might write your conditionals is: if the time is greater or equal to (>=) 8, or less than (<) 10, then Homer should "Wake up, brush teeth, then eat 10 donuts."
+    - Note: An example of how you might write your conditionals is: if the time is greater or equal to (>=) 8, and less than (<) 10, then Homer should "Wake up, brush teeth, then eat 10 donuts."
     
 3. Does it work properly? Test it out!
 
