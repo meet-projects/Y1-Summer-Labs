@@ -6,7 +6,7 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 <img src="lists.gif" width="400">
 
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Lists - Your Name`
 
 ## Instructions:
 
@@ -41,11 +41,12 @@ You're working as a valet tonight at the **"Magic Palace"**! But, since you're a
 7. Else, now that you know that the car is in the `parked_cars` list, your code should remove the `car_to_remove` from `parked_cars` list!
     - And print `"[car_to_remove] is out of the garage and ready for use!"`
 
+8. Finally, print how many cars are parked in the garage (using one of the list functions).
 
 
 ### 3) Netflix!
 
-<img src="https://s3.amazonaws.com/after-school-assets/netflix-queue.jpg" align="right" hspace="10" width="300">
+<img src="https://nofilmschool.com/media-library/film-netlifx.gif?id=34069820&width=210">
 
 Sometimes it's hard to keep up with your **Netflix *movie queue***. Sometimes, all you need is a Friday night to binge watch Friends.
 
@@ -61,7 +62,9 @@ We're going to use lists to manipulate our own movie queue.
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, make sure to submit the lab with the Submit button on the top right.
+- When you're done, click on the submission link: 
+- Copy your replit lab url, and paste it in the right place in the survey.
+- Submit the survey!
 
 <!-- 
 
