@@ -80,10 +80,9 @@ Let's take them one by one!
  # Submitting your work
  
  ### The submit form
-- Once you've followed all the steps in a lab, go to the Master link.
-- Click on the submission link for this lab.
-- In the survey, copy your replit lab url, and paste it in the right place. 
-- Only submit if you are *confident* you have finished your lab--if you have any questions, ask a TA or Instructor!
+- Once you've followed all the steps in a lab, click on the submission link:
+- Copy your replit lab url, and paste it in the right place in the survey. 
+- Submit the survey only if you are *confident* you have finished your lab--if you have any questions, ask a TA or Instructor!
 <!--
         
 5. The submit button
