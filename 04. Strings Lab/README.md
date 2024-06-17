@@ -3,12 +3,13 @@
 ## Objective: 
 In this lab, you will learn how to use **strings**, as well as make sure you grasp the idea of **Input/Output**!
 
+<img src= "https://rpf-futurelearn.s3.eu-west-1.amazonaws.com/Teach-Physical-Computing-5-11/Screenshots+%2B+photographs/1-3-IPO-Football.gif">
+<!--
+<img src="https://thumbs.gfycat.com/CloseShabbyEelelephant-size_restricted.gif">
+-->
 
-[![](https://thumbs.gfycat.com/CloseShabbyEelelephant-size_restricted.gif)]()
 
-
-
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Strings - Your Name`
 
 ---
 
@@ -70,7 +71,9 @@ s4 = " realise we are "
 -->
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, make sure to submit the lab with the Submit button on the top right.
+- When you're done, click on the submission link: 
+- Copy your replit lab url, and paste it in the right place in the survey.
+- Submit the survey!
 - Do the bonus section to experiment with more string FUNctions.
 
 <!-- 
