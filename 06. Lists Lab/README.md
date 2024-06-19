@@ -46,7 +46,7 @@ You're working as a valet tonight at the **"Magic Palace"**! But, since you're a
 
 ### 3) Netflix!
 
-<img src="https://nofilmschool.com/media-library/film-netlifx.gif?id=34069820&width=210">
+<img src="https://nofilmschool.com/media-library/film-netlifx.gif?id=34069820&width=210" hspace="10" width="400">
 
 Sometimes it's hard to keep up with your **Netflix *movie queue***. Sometimes, all you need is a Friday night to binge watch Friends.
 
