@@ -6,7 +6,7 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 <img src="https://www.system-concepts.com/wp-content/uploads/2020/02/excited-minions-gif-360x163.gif">
 
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Loops - Your Name`
 
 ## Instructions:
 
@@ -56,9 +56,16 @@ my_closet = [
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, make sure to submit the lab with the Submit button on the top right.
+- When you're done, click on the submission link: 
+- Copy your replit lab url, and paste it in the right place in the survey.
+- Submit the survey!
 
 <!-- 
+
+### Wrapping up:
+- Please show your work to an Instructor or TA!
+- When you're done, make sure to submit the lab with the Submit button on the top right.
+
 
 ## Wrapping up:
 
