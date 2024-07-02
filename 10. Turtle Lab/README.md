@@ -38,7 +38,9 @@ greeny.goto(100,100) # moves square to x=100 and y=100
     - Remember: use `penup()`, `pendown()`, `and goto(x,y)`
 
 
-- These are the **shapes** you can use:  
+- These are the **shapes** you can use:
+    - Note: if you have a black background color in this page, you may not be able to see the shapes. Please ask for help from a TA or Instructor.
+      
 ![Image of Turtle Shapes](https://github.com/meet-projects/Y1-Summer-Labs/blob/master/TurtleShapes.png)
 ---
 ### 2) Copy Cat: 
