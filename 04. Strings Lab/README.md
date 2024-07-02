@@ -98,11 +98,11 @@ Run the test.
    - Make sure to save the new fixed sentence in a new variable.
    - If you print the new variable, your sentence should look like this now: “Hello I’m a Y1 student and I am happy to be here!”
    
-3. In a new variable called `two_sen`, try to seperate the two sentences, one before and, one after and.
+3. In a new variable called `two_sen`, try to seperate the two sentences, one before **and**, one after **and**.
    
 4. Now, you can use one of the string functions to print the second sentence only.
    
-5. Finally, use one of the string functions to print “Y1 student” from the sentence above.
+5. Finally, use one of the string functions to print `“Y1 student”` from the sentence above.
 
 ### 2) Greetings: 
 
