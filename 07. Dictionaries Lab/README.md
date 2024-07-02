@@ -3,6 +3,7 @@
 ## Objective: 
 In this lab, you will learn how to start writing AND using **dictionaries**, and understand better on how we deal with data in computer science!
 
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Dictionaries - Your Name`
 
 
 <img src="https://static.wixstatic.com/media/bb4cc9_7636144fdaa54a84a77b6c59d25dd6f8~mv2.gif" width="300" align="right">
@@ -10,7 +11,6 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
 
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab! 
 
 ## Instructions:
 
@@ -26,7 +26,7 @@ In this lab, you will learn how to start writing AND using **dictionaries**, and
 
   **All of the ingredients and amounts should be strings.**
 
-2. Use `print` to print out the **amount of cheese** from `mac_and_cheese_recipe` that is needed!
+2. Use `print` to print out the **amount of shredded cheddar cheese** from `mac_and_cheese_recipe` that is needed!
 
 3. Use `print` to print out the whole dictionary!
 
@@ -55,7 +55,7 @@ city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
 						}
 		    }
 ```
-1. The `city_info` dictionary above is a series of nested dictionaries. What do you think you get if you printed::
+1. The `city_info` dictionary above is a series of nested dictionaries. After you copy the dictionary into your editor, what do you think you get if you printed:
     - `city_info["los_angeles"]` ?
     - `city_info["chicago"]["mayor"]` ?
 	
@@ -79,7 +79,7 @@ You are a software engineer at **Instagram**, and your job is to organize the in
     image_link | A link to the image (`string`).         
     caption | I bet you know what a caption at Instagram means!      
     likes | should be an integer, counting the number of people who liked the post. You can set it to `0` to begin with.   
-    comments | should be a `list` of strings of the comments.
+    comments | should be a `list` of strings of the comments. You can leave the list empty for now.
 
 <img src="https://gifimage.net/wp-content/uploads/2018/11/instagram-post-gif.gif" width="300" align="right">
     
@@ -91,19 +91,24 @@ You are a software engineer at **Instagram**, and your job is to organize the in
 
 4. *Define* a new variable, `new_caption`, containing a new caption for you post.
     - It should look like `new_caption = "My new caption!"`
-    - Write code to update `caption` accordingly in the `instagram_post` dictionary.
+    - Write code to **update** `caption` accordingly in the `instagram_post` dictionary.
     
 5. Print out your updated `instagram_post` dictionary!
 
-> All the test should pass at this point!
 
 
 ##### Great job!
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
+- When you're done, click on the submission link: 
+- Copy your replit lab url, and paste it in the right place in the survey.
+- Submit the survey!
+<!--
+### Wrapping up:
+- Please show your work to an Instructor or TA!
 - When you're done, make sure to submit the lab with the Submit button on the top right.
-
+-->
 
 ## Bonus Problems 
 ### Instagram Plus
