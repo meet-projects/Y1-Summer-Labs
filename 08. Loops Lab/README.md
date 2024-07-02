@@ -11,7 +11,7 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 ## Instructions:
 
 ### 1) Lovely Grandma
-<img src="https://s3.amazonaws.com/after-school-assets/deaf_grandma.jpg" width="400">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExem5xYTF1ZDlybjN1a2V4ZGQ4cjR3OWx1dWNsbnpydzAyOW92b3J2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9CUENbuod5zl8A/giphy.webp" width="400">
 
 1. Today we're spending time with our grandma. *Define* a variable `text`, which gets input from the user that allows us to speak. (Hint: `input()`)
     - If you shout something to grandma (type in all capital letters), she can hear you (or at least she thinks so) and yells back, `NO, THINGS WERE BETTER IN OUR DAYS!`.
