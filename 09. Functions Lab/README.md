@@ -4,9 +4,9 @@
 In this lab, you will learn how to start writing working **functions**, as well as use **inputs & outputs** a lot!
 
 
-[![](https://thumbs.gfycat.com/SevereUnnaturalAlbino-size_restricted.gif)]()
+[![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRteW4xN2RmbjdjcTlsbzR0YnRxN3F5dXA3N2wwcXgwNXVmOGkzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AZ9E5rrNWsacg/giphy.webp)]()
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Functions - Your Name`
 
 
 ## Instructions:
@@ -30,7 +30,7 @@ In this lab, you will learn how to start writing working **functions**, as well 
 
 2. The function should **return**: `"[name] go home!"`
     
-3. Add an argument to the function called `hours`, and update the function to **return**: `"[name] go home! But come back after [hours] hours."`
+3. Add an argument to the function called `hours_num`, and update the function to **return**: `"[name] go home! But come back after [hours_num] hours."`
 
 3. Test our your code!
     - You can print the result of the function to see it work like this:
@@ -57,18 +57,22 @@ In this lab, you will learn how to start writing working **functions**, as well 
 4. Add a new argument to the function `tip_calc()` called `people`
     -  `people` - the number of people sitting at your table.
     
+5. In your function, **return** the amount each person needs to pay if you split the total equally.
+    - In our example above, if you call `tip_calc(250, 10, 5)` it should **return** `55`.
+    - Save the **returned** value in a variable and print it.
 
-6. In your function, return the amount each person needs to pay if you split the total equally.
-    - This is the total amount, divided by the number of people.
-    - In our example above, if you call `tip_calc(250, 10, 5)` it should return `55`.
+<!--
+- This is the total amount, divided by the number of people.
+-->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmt5NHBuYWxyMzQwcThsbXo5dHZyZzVueG1oenh1OHNrMHAwNXU2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hJBx3uQ3YktywyEKPT/giphy.webp" align="right" hspace="10" width="300">
 
-    
 
-[![](https://thumbs.gfycat.com/ImpeccableInnocentHoiho-size_restricted.gif)]()
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, make sure to submit the lab with the Submit button on the top right.
+- When you're done, click on the submission link: 
+- Copy your replit lab url, and paste it in the right place in the survey.
+- Submit the survey!
 
 <!-- 
 ## Wrapping up:
