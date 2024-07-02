@@ -89,7 +89,22 @@ Run the test.
   --> 
 ## Bonus Problems:
 
-### 1) Greetings: 
+### 1) Strings Magical Functions: 
+
+1. Make a variable called **statement** and store the following string in the variable:
+`“Hello, I’m w Y1 student wnd I wm hwppy to be here!”`
+
+2. Using replace(), fix the wrong letters in the previous sentence.
+   - Make sure to save the new fixed sentence in a new variable.
+   - If you print the new variable, your sentence should look like this now: “Hello I’m a Y1 student and I am happy to be here!”
+   
+3. In a new variable called `two_sen`, try to seperate the two sentences, one before and, one after and.
+   
+4. Now, you can use one of the string functions to print the second sentence only.
+   
+5. Finally, use one of the string functions to print “Y1 student” from the sentence above.
+
+### 2) Greetings: 
 
 1. Using `input()`, Write a program that asks "What's your name?" and stores your name in a **variable**. Be sure to name your variable something that makes sense and is easy to remember, like: `name`.
 
@@ -114,7 +129,7 @@ Run the test.
 7. Test that your code works for **ANY** name by trying a few *different* names.
     - You can even ask a neighbor to write out name suggestions to help you in testing!
   
-### 2) int(): 
+### 3) int(): 
 1. Using `input()`, Write a program that asks "What's your age?" and store the user's age in a **variable**. 
 
 2. Multiply the user's age by your age.
