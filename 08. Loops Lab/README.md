@@ -44,7 +44,7 @@ my_closet = [
 3. Write code to go over each item in `my_closet` until it finds `my_item` you are searching for!
     - If the item is there, print `"I found my [item]"`.
     - If it's not there, your code should print `"I can't find my [item]"`.
-        - Hint: You might need an extra variable to keep track of whether you've found `my_item`.
+        - Hint: You might need an extra variable to keep track of whether you've found `my_item`, this variable can be named "item_found" or any name that makes sense to you. This variable will help you know whether or not youv'e found "my_item"/ 
 
 4. We can make our loop faster by breaking out of it as soon as we find our item!
     - Use `break` when finding `my_item` and stop the loop.
