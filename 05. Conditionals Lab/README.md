@@ -47,12 +47,13 @@ num_donuts = input('Enter number of donuts here: ')
 4. Write a new set of conditional statements, using `num_donuts` and `max_donut_intake` (leave your code above unchanged).
     - Your code should tell Homer `"good job"` if he eats **less than half his maximum intake**
     - And `"get back on your diet"` when he **exceeds his maximum intake**.
+    - if it is **anything in between**, tell him `"OK, Cool"`.
     
 
 
 ### 2) GO HOME!, Unless...  
 
-We will now use conditionals to see who get's to go home!
+We will now use conditionals to see who gets to go home!
 
 1. *Define* a new variable, `name`, that takes a person's name as an **input**.
 
