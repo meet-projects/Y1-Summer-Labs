@@ -60,6 +60,8 @@ In this lab, you will learn how to start writing working **functions**, as well 
 5. In your function, **return** the amount each person needs to pay if you split the total equally.
     - In our example above, if you call `tip_calc(250, 10, 5)` it should **return** `55`.
     - Save the **returned** value in a variable and print it.
+  
+6. Add a print statement that writes on the console: `"[name] go home! But come back after [hours] hours. Ohh, and don't forget to tip a Total of [tip_calculation] Dollars!"`
 
 <!--
 - This is the total amount, divided by the number of people.
