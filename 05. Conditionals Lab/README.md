@@ -80,7 +80,7 @@ We will now use conditionals to see who gets to go home!
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, click on the submission link: 
+- When you're done, click on the submission link: https://forms.gle/yo9BmR5FsesCSaeP7
 - Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
