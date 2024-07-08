@@ -41,7 +41,7 @@ print(total)
 
 ## Wrapping up:
 - Please reach out to your TAs or Instructors if you have any questions!
-- When you're done, click on the submission link: 
+- When you're done, click on the submission link: https://forms.gle/RyZxujThQs8nbPdT8
 - Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
