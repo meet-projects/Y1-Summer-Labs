@@ -56,7 +56,7 @@ my_closet = [
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, click on the submission link: 
+- When you're done, click on the submission link: https://forms.gle/miKuuTjeY58oJmmn9
 - Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
