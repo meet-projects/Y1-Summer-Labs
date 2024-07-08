@@ -96,7 +96,7 @@ print(num*3)
 ## Wrapping up:
 
 Let's submit the lab!
-- Once you've followed all the steps in a lab, click on the submission link: 
+- Once you've followed all the steps in a lab, click on the submission link: https://forms.gle/V9Ac57R2yyHWHLxaA
 - Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
