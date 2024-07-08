@@ -61,8 +61,10 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, make sure to submit the lab with the Submit button on the top right.
-
+- When you're done, click on the submission link: https://forms.gle/dsCehzjbqPteTTAj6
+- Copy your replit lab url, and paste it in the right place in the survey.
+- Submit the survey!
+  
 <!-- 
 
 ## Wrapping up:
