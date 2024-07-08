@@ -72,7 +72,7 @@ In this lab, you will learn how to start writing working **functions**, as well 
 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
-- When you're done, click on the submission link: 
+- When you're done, click on the submission link: https://forms.gle/rScCEskN7LRnNSJX7 
 - Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
