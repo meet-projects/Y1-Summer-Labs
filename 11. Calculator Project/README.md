@@ -1,7 +1,7 @@
 # Calculator Project - Y1 Summer 
 
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!  
+> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Calculator Project - Your Name`
 
 
 
@@ -72,6 +72,9 @@
 
 
 ## Submission
-When you're done, make sure to submit the lab with the `Submit` button on the top right. 
+- When you're done, click on the submission link: 
+- Copy your replit project url, and paste it in the right place in the survey.
+- Submit the survey!
 
+  
 Congrats on finishing your calculator!
