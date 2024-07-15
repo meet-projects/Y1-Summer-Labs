@@ -54,7 +54,7 @@ Your team can invent an entirely unique project/game, or make a new version of a
 
 
 ## Submission
-When you're done, make sure to submit the project with the `Submit` button on the top right. 
+When you're done, make sure to submit the project in the submission link: https://forms.gle/vF3f1rhesun586bH8
 
 Congrats on finishing your first ever journey at MEET! This is only the beginning; embrace yourselves for the skills and aspects you will grow at, in the coming years at MEET.  
 
