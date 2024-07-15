@@ -72,7 +72,7 @@
 
 
 ## Submission
-- When you're done, click on the submission link: 
+- When you're done, click on the submission link: https://forms.gle/DGFsV7poZdFja4DVA 
 - Copy your replit project url, and paste it in the right place in the survey.
 - Submit the survey!
 
