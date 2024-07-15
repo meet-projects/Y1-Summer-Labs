@@ -38,7 +38,7 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 Let's submit the lab!
     - Once you've followed all the steps in a lab, go to the Master link.
-    - Click on the submission link for this lab.
+    - Click on the submission link for this lab - https://docs.google.com/forms/d/e/1FAIpQLSdWugw5465ptLjm1xvk9d_SqT7eB4yBKO2YIq8Mxp-I3ciuLQ/viewform?usp=sf_link 
     - In the survey, copy your replit lab url, and copy it in the right place.
     - Submit the survey!
 
