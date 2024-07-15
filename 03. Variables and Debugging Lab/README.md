@@ -98,6 +98,14 @@ Run the test.
 - If it fails:
     - Review the lab to see if you missed any steps. You need to follow the steps exactly to pass.
     - If you have questions, ask a classmate, or call over an Instructor or TA!
+ 
+  Let's submit the lab!
+    - Once you've followed all the steps in a lab, go to the Master link.
+    - Click on the submission link for this lab - https://forms.gle/dcce3aMvjT61x7pcA  
+    - In the survey, copy your replit lab url, and copy it in the right place.
+    - Submit the survey!
+
+    if you have any questions, ask a classmate, TA or Instructor!
 
 
 ### Great job on completing the Lab!
