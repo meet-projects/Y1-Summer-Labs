@@ -15,11 +15,11 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
     - Example: `classmates = ["Paulina", "Mustafa", "Firas"]`
 
 2. Add your name to the list, using the `append()` function, then print out the list!
+<img src="https://media2.giphy.com/media/26tk0T3cxwc4yFvK8/source.gif" align="right" hspace="10" width="300">
 
 3. Check with a neighbor to make sure your list is correct!
 
 ### 2) Parking Valet!
-<img src="https://media2.giphy.com/media/26tk0T3cxwc4yFvK8/source.gif" align="right" hspace="10" width="300">
 
 You're working as a valet tonight at the **"Magic Palace"**! But, since you're a clever programmer, you decide to write a program that does your work for the night!  
 
