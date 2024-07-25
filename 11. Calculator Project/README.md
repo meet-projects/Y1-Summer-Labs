@@ -42,7 +42,7 @@
         - An invalid equation. (For example: `3 - 4 + `)
         - An unsupported symbol. (For example `,` or `@`)
         - Dividing by 0 (For example `5 / 0`)
-        - What if I enter a random string. (For example: `Potato` or `New York City`). 
+        - What if I enter a random string. (For example: `Potato` or `New York City`). `Hint: isdigit()` 
         - Your calculator should handle floats. (For example `5 / 2.4`)
 
     - Handle all of these resulting errors and make sure to print a clear error message for each.
