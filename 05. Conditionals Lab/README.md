@@ -11,10 +11,9 @@ In this lab, you will learn how to start writing **conditions** using **conditio
 <img src="https://thumbs.gfycat.com/QualifiedAdolescentHind-size_restricted.gif">
 -->
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Conditionals - Your Name`
-<!--
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab! 
--->
+> Before we start, create a new Python file using IDLE and save it as `YOUR-NAME_conditionals.py`
+
+
 ## Instructions:
 
 ### 1) Homer Diet
@@ -81,7 +80,6 @@ We will now use conditionals to see who gets to go home!
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
 - When you're done, click on the submission link: https://forms.gle/yo9BmR5FsesCSaeP7
-- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
 
