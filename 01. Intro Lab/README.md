@@ -1,196 +1,78 @@
 # Intro to CS - IDLE Lab
 
-## Objective: 
-In this lab, you will learn how to use IDLE. These will help you organize your work for this year and for the rest of your journey at MEET!
+## Objective
+In this lab, you will learn how to use **IDLE**, Python's built-in development environment. This will help you organize your work for this year and for the rest of your journey at MEET!
 
+---
 
-## Instructions:
+## Instructions
 
-1. Create a folder in your Desktop, and name it "Summer Labs"
+### 1. Create a Folder
+- Create a folder on your computer called **Summer Labs**.  
+- This is where you will save all your Python work throughout the program.
 
-3. Using the searching bar, open "IDLE".
-   - Ask a TA if you couldn't find it or need help.
-    
-![Team Tabs](CreateRepl.png)
+### 2. Open IDLE
+- Open **IDLE** (Python’s built-in editor).  
+- On most computers, you can find it by searching for “IDLE” in your Applications or Start Menu.
 
-<!--
-3. On the group page, you can see all your current labs.
-    1. You should see one called `01 - Intro to CS`--click to start the lab.
--->
+### 3. Write Your First Python Code
+- In the IDLE window, click **File > New File** to open a new editor window.  
+- Type the following code:
 
-3. Now you should see the main repl.it page. There are 4 main parts of the page we'll cover:
-    - The console
-    - The files
-    - The editor
-    - The run button
-    
-![The main repl.it page](Lab01.png)
+    ```python
+    print("Hello Y1s!")
+    ```
 
-Let's take them one by one!
+### 4. Save Your File
+- Click **File > Save As…**  
+- Save the file inside your **Summer Labs** folder.  
+- Name your file: `intro_lab.py`  
+  *(Make sure it ends with `.py`)*
 
-# The Main Repl.it page
+### 5. Run Your Code
+- Click **Run > Run Module** or press `F5`.  
+- You should see the following output in the Python Shell:
 
-1. The console
-    - The console is the black box.
-    - The console lets you run python code line by line.
-    - This is great because you see your output immediately!
-   <!--
-    - Try pasting this code into the console and hitting `ENTER` to run it!
-        - `print("Hello World!")`
-        - Note: Use ctr shift V to paste your code to the console.
-   -->     
-2. The files
-    - The console is great, but it only runs code once.
-    - If we want to save our code to run it again, we can put it in a `file`.
-    - The files are on the left of the screen. You should see a file called `main.py`.
-        - All `python` files end with `.py`
-    - Click on `main.py` (it may already be selected).
-    
-3. The editor
-    - The editor is the white box.
-    -  The editor lets us write code in our files, then run it again and again.
-    - Paste this code into the editor:
-        - `print("Hello Y1s!")`
-        
-4. The run button
-    - You can run the code in your `main.py` file by clicking the `Run` button at the top of the screen.
-    - Click it, then watch for the result of your code in the console.
-    - If you don't see `"Hello Y1s!"`, ask another classmate for help.
-        - Check in with a TA or Instructor if you still need help.
+    ```
+    Hello Y1s!
+    ```
 
-<!--
-5. The test tab
-    - Tests help us make sure our code is working correctly.
-    - Click the checkmark on the left of the screen to open the tests tab.
-    - Click the `Run tests` button to run tests on your code.
-    - If you copied the code exactly from step `3`--it should pass!
-        - If the test doesn't pass, ask another classmate for help.
-        
-       
-![The test tab](https://gcdnb.pbrd.co/images/uLZ6GGpKBv09.png)
+- If it doesn’t work, double-check your code. Ask a classmate or TA for help if needed.
 
- -->
+---
 
- 
- # Submitting your work
- 
- ### The submit form
-- Once you've followed all the steps in a lab, click on the submission link: https://forms.gle/MXjJVVhSneSTZDXj9
-- Copy your replit lab url, and paste it in the right place in the survey. 
-- Submit the survey only if you are *confident* you have finished your lab--if you have any questions, ask a TA or Instructor!
-<!--
-        
-5. The submit button
-    - Once you've followed all the steps in a lab and the test passes, you can click the submit button.
-    - Only submit if you are *confident* you have finished your lab--if you have any questions, ask a TA or Instructor!
--->
-##### Great job on completing your first Lab!
+## Submitting Your Work
 
-If you have extra time, continue to the **Bonus Problems** *below*.
+###  Submit Form
+- Once you're done, go to the submission form:  
+  [https://forms.gle/MXjJVVhSneSTZDXj9](https://forms.gle/MXjJVVhSneSTZDXj9)  
+- Upload a screenshot of your code and output, or paste the file path to your `.py` file.  
+- Submit the form **only if you are confident** that you finished the lab.  
+- If you’re unsure, ask a TA or Instructor before submitting.
 
-## Bonus Problems:
+---
 
-1. Try creating a new file in the file explorer--name it whatever you like, but remember to add `.py` at the end!
-    - Now try deleting the new file.
+##  Bonus Problems ✅
 
-2. Add this line to your code: `print("Goodbye! See You Next Session)`
-    - Run your code again. It will show an error!
-    - What do you think is the problem ? Try fixing it and run your code again!
+### 1. Create and Delete a New File
+- In your **Summer Labs** folder:  
+  - Open a new file in IDLE and name it `bonus1.py`.  
+  - Write anything inside it, save it, and then try deleting it.
+
+### 2. Debug a Syntax Error
+- In your original file, replace your code with this:
+
+    ```python
+    print("Goodbye! See You Next Session)
+    ```
+
+- Save and run the file.  
+- You’ll see an error! Can you figure out what’s wrong?  
+- Try fixing the error and running the code again.
+
+---
+
+ **Great job on completing your first lab!**  🎉🎉🎉
+If you have extra time, keep exploring IDLE and have fun coding!
 
 <img src="https://media.giphy.com/media/8m4R4pvViWtRzbloJ1/giphy.gif" width="500">
-
-<!--
-# Intro to CS - Repl.it Lab
-
-## Objective: 
-In this lab, you will learn how to us `Repl.it`. These will help you organize your work for this year and for the rest of your journey at MEET!
-
-
-## Instructions:
-
-1. Make sure you have created a `Repl.it` account with the link provided by your instructors:
-    1. If you need help with this, ask a TA or Instructor!
-
-2. Once you've created an account, find the `Teams` tab on the left.
-    1. From here you should be able to find your group. Click on it!
-    
-![Team Tabs](lab1_0.png)
-
-
-3. On the group page, you can see all your current labs.
-    1. You should see one called `01 - Intro to CS`--click to start the lab.
-
-
-4. Now you should see the main repl.it page. There are 5 main parts of the page we'll cover:
-    - The console
-    - The files
-    - The editor
-    - The run button
-    - The submit button
-    
-![The main repl.it page](lab1_1.png)
-
-Let's take them one by one!
-
-# The Main Repl.it page
-
-1. The console
-    - The console is the black box.
-    - The console lets you run python code line by line.
-    - This is great because you see your output immediately!
-    - Try pasting this code into the console and hitting `ENTER` to run it!
-        - `print("Hello World!")`
-        - Note: Use ctr shift V to paste your code to the console.
-        
-2. The files
-    - The console is great, but it only runs code once.
-    - If we want to save our code to run it again, we can put it in a `file`.
-    - The files are on the left of the screen. You should see a file called `main.py`.
-        - All `python` files end with `.py`
-    - Click on `main.py` (it may already be selected).
-    
-3. The editor
-    - The editor is the white box.
-    -  The editor lets us write code in our files, then run it again and again.
-    - Paste this code into the editor:
-        - `print("Hello Y1s!")`
-        
-4. The run button
-    - You can run the code in your `main.py` file by clicking the `Run` button at the top of the screen.
-    - Click it, then watch for the result of your code in the console.
-    - If you don't see `"Hello Y1s!"`, ask another classmate for help.
-        - Check in with a TA or Instructor if you still need help.
--->
-<!--
-5. The test tab
-    - Tests help us make sure our code is working correctly.
-    - Click the checkmark on the left of the screen to open the tests tab.
-    - Click the `Run tests` button to run tests on your code.
-    - If you copied the code exactly from step `3`--it should pass!
-        - If the test doesn't pass, ask another classmate for help.
-        
-       
-![The test tab](https://gcdnb.pbrd.co/images/uLZ6GGpKBv09.png)
-
- -->
-  <!--      
-5. The submit button
-    - Once you've followed all the steps in a lab and the test passes, you can click the submit button.
-    - Only submit if you are *confident* you have finished your lab--if you have any questions, ask a TA or Instructor!
-
-##### Great job on completing your first Lab!
-
-If you have extra time, continue to the **Bonus Problems** *below*.
-
-## Bonus Problems:
-
-1. Try creating a new file in the file explorer--name it whatever you like, but remember to add `.py` at the end!
-    - Now try deleting the new file.
-
-2. Edit your original code so it looks like this: `print("Goodbye! See You Next Session)`
-    - Run your code again. It will show an error!
-    - What do you think is the problem ? Try fixing it and run your code again!
-
-<img src="https://media.giphy.com/media/8m4R4pvViWtRzbloJ1/giphy.gif" width="500">
-
--->
