@@ -6,7 +6,7 @@ In this lab, you will learn how to start writing working **functions**, as well 
 
 [![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRteW4xN2RmbjdjcTlsbzR0YnRxN3F5dXA3N2wwcXgwNXVmOGkzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AZ9E5rrNWsacg/giphy.webp)]()
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Functions - Your Name`
+> Before we start, create a new Python file using IDLE and save it as `YOUR-NAME_functions.py`
 
 
 ## Instructions:
@@ -73,7 +73,6 @@ In this lab, you will learn how to start writing working **functions**, as well 
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
 - When you're done, click on the submission link: https://forms.gle/rScCEskN7LRnNSJX7 
-- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
 <!-- 
