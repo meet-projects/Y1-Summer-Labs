@@ -10,7 +10,6 @@ In this lab, you will learn how to assign *values* to **variables**, how to chan
 
 
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
 
 
 ## Instructions:
