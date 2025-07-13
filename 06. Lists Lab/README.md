@@ -6,7 +6,7 @@ In this lab, you will learn how to start writing AND using **lists**, to start a
 <img src="lists.gif" width="400">
 
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Lists - Your Name`
+> Before we start, create a new Python file using IDLE and save it as `YOUR-NAME_lists.py`
 
 ## Instructions:
 
@@ -63,7 +63,6 @@ We're going to use lists to manipulate our own movie queue.
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
 - When you're done, click on the submission link: https://forms.gle/QAbq9t31RAyH7iio7
-- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
 <!-- 
