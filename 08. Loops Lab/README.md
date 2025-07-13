@@ -6,7 +6,7 @@ In this lab, you will learn how to start writing and using **loops**! And apply 
 <img src="https://www.system-concepts.com/wp-content/uploads/2020/02/excited-minions-gif-360x163.gif">
 
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Loops - Your Name`
+> Before we start, create a new Python file using IDLE and save it as `YOUR-NAME_loops.py`
 
 ## Instructions:
 
@@ -57,7 +57,6 @@ my_closet = [
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
 - When you're done, click on the submission link: https://forms.gle/miKuuTjeY58oJmmn9
-- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
 <!-- 
