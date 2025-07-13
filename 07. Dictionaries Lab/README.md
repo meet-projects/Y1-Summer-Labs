@@ -3,7 +3,7 @@
 ## Objective: 
 In this lab, you will learn how to start writing AND using **dictionaries**, and understand better on how we deal with data in computer science!
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Dictionaries - Your Name`
+> Before we start, create a new Python file using IDLE and save it as `YOUR-NAME_dictionaries.py`
 
 
 <img src="https://static.wixstatic.com/media/bb4cc9_7636144fdaa54a84a77b6c59d25dd6f8~mv2.gif" width="300" align="right">
@@ -59,7 +59,6 @@ city_info = {		"new_york" : { "mayor" : "Bill DeBlasio",
     - `city_info["los_angeles"]` ?
     - `city_info["chicago"]["mayor"]` ?
 	
-    Copy and paste the nested dictionaries into your Repl.it.
     **Print these lines of code to see if you're right!**
 
 2. Write code to print each of these:
@@ -102,7 +101,6 @@ You are a software engineer at **Instagram**, and your job is to organize the in
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
 - When you're done, click on the submission link: https://forms.gle/qVPJWiGopgTEJPD19 
-- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 <!--
 ### Wrapping up:
