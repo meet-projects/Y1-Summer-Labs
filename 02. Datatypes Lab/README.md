@@ -7,7 +7,7 @@ In this lab, you will learn about different data types, including `int`, `float`
 <img src="https://miro.medium.com/max/1000/1*aNMBIivJppLy2fMRVUSgHA.gif" width=250>
 
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `DataTypes & Vars - Your Name`
+> Before we start, create a new Python file using IDLE and save it as `YOUR-NAME_DataTypes_Vars.py`
 
 
 ## Instructions:
