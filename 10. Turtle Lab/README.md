@@ -2,7 +2,7 @@
 ## Objective: 
 In this lab, you will learn how to use **turtle** and explore its built-in **SUPERPOWERS!**
 
-> Before we start, navigate to the Repl.it assignment associated with this lab in the Teams tab!
+> Before we start, create a new Python file using IDLE and save it as `YOUR-NAME_turtle.py`
 
 
 ### 1) Shape of the Turtle: 
@@ -62,7 +62,6 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
 - When you're done, click on the submission link: https://forms.gle/dsCehzjbqPteTTAj6
-- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
   
 <!-- 
@@ -82,7 +81,7 @@ greeny.goto(100,100) # moves square to x=100 and y=100
 1. Our goal is to make the picture below by the end of this part.  <br>
 ![Image of MEET spelled with Turtle](https://lh6.googleusercontent.com/FNxs9tykGwRH9nRERleBnkIXmXCCdTGkNxju2yebYvrtArkfjmLCQaXsJ7bcj9z4bGSjmC_abCzcrSInYjrj3b8tVzZyuqk3ftgGpk8D1hc03ia7J16ojcxd1M2zcDyHa9yEGYE)
 
-2. Copy the code below to **Repl.it**, if you feel like it's running too slow, feel free to use **idle3**, but make sure by the end of the lab to copy all of your code and save it into **Repl.it**!
+2. Copy the code below to IDLE:
 
 ```python
 import turtle 
@@ -105,7 +104,7 @@ turtle.pendown() # The exact opposite of penup()
 turtle.goto(x,y) # Go to the position x,y (but they should be in numbers instead)
 ```
 
-4. Draw the M using the `pendown()`, `goto(x,y)`, and `penup()` commands, as shown below.  Every time you finish a line, press the **"Run"** on **Repl.it** or **"F5"** button in **idle3** to run the code you wrote so far!
+4. Draw the M using the `pendown()`, `goto(x,y)`, and `penup()` commands, as shown below.  Every time you finish a line, press the **"Run"** or **"F5"** button in **idle3** to run the code you wrote so far!
 ```python
 turtle.penup() #Pick up the pen so it doesn’t draw
 turtle.goto(-200,-100) #Move the turtle to the position (-200, -100) on the screen
