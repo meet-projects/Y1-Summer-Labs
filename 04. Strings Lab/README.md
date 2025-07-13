@@ -9,7 +9,7 @@ In this lab, you will learn how to use **strings**, as well as make sure you gra
 -->
 
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Strings - Your Name`
+> Before we start, create a new Python file using IDLE and save it as `YOUR-NAME_strings.py`
 
 ---
 
@@ -58,7 +58,7 @@ sentence1 = input("Say something! ")
 <!--
 ### 3) Operators: 
 
-1. Copy paste this code into your **Repl.it** editor:
+1. Copy paste this code into your editor:
 ```python
 s1 = " together until we "
 s2 = " all the same."
@@ -72,7 +72,6 @@ s4 = " realise we are "
 ### Wrapping up:
 - Please show your work to an Instructor or TA!
 - When you're done, click on the submission link: https://forms.gle/qVVUmwfDuUavMA3g8
-- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 - Do the bonus section to experiment with more string FUNctions.
 
