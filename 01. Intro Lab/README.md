@@ -1,20 +1,15 @@
-# Intro to CS - Repl.it Lab
+# Intro to CS - IDLE Lab
 
 ## Objective: 
-In this lab, you will learn how to use `Repl.it`. These will help you organize your work for this year and for the rest of your journey at MEET!
+In this lab, you will learn how to use IDLE. These will help you organize your work for this year and for the rest of your journey at MEET!
 
 
 ## Instructions:
 
-1. Make sure you have created a `Repl.it` account with the link provided by your instructors:
-    1. Your username should include your firstname, first 2 letters of lastname, and year of graduation.
-       - For example: "KendaZo26"
-    3. If you need help with this, ask a TA or Instructor!
+1. Create a folder in your Desktop, and name it "Summer Labs"
 
-2. Once you've created an account, click on the `+ Create Repl` button on the left.
-   1. Now, choose `Python` as your Template!
-    2. For Title, write "Intro to CS - First & Last name"
-    3. Lastly, click again on the `+ Create Repl` button.
+3. Using the searching bar, open "IDLE".
+   - Ask a TA if you couldn't find it or need help.
     
 ![Team Tabs](CreateRepl.png)
 
