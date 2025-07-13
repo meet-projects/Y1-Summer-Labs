@@ -27,7 +27,7 @@ In this lab, you will learn about different data types, including `int`, `float`
 1. Go over each line with your partner, and try to guess what each line returns as an **output**... discuss what your guesses are!
 
 1. Now, after you're done guessing and discussing, let's put your theories to the test!
-    - Write each line in the Repl.it **editor**, then press the `Run` button and understand why it is what it is.
+    - Write each line in the **editor**, then press the `Run` button and understand why it is what it is.
     - If you don't understand something specific, try and ask your partner first :)
 
 
@@ -38,8 +38,7 @@ In this lab, you will learn about different data types, including `int`, `float`
 
 Let's submit the lab!
     - Once you've followed all the steps in a lab, go to the Master link.
-    - Click on the submission link for this lab - https://docs.google.com/forms/d/e/1FAIpQLSdWugw5465ptLjm1xvk9d_SqT7eB4yBKO2YIq8Mxp-I3ciuLQ/viewform?usp=sf_link 
-    - In the survey, copy your replit lab url, and copy it in the right place.
+    - Click on the submission link for this lab 
     - Submit the survey!
 
     if you have any questions, ask a classmate, TA or Instructor!
