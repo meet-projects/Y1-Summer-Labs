@@ -42,13 +42,15 @@ sentence1 = input("Say something! ")
 
 3. Create another **variable** and call it `sentence2`, that works just like `sentence1`.
 
-4. After the user gives input to the 2 variables (`sentence1` and `sentence2`), make it print both sentences in 1 line.
+4. After the user gives input to the 2 variables (`sentence1` and `sentence2`), make it print both sentences in 1 line.  </br>
+   (Hint: Refer back to the slides on connecting (or concatenating) strings)
+
     - Example: 
     - Let's say `sentence1` was `"Hello, my name is "`
     - And `sentence2` was `"Loai, and I'm 15 years old!"`
     - It should print `"Hello, my name is Loai, and I'm 15 years old!"`
       
-5. Try printing this output in capital letters. (Hint: Use "your_string".upper())
+6. Try printing this output in capital letters. (Hint: Use "your_string".upper())
    
 7. How many letters are in this sentence? print the length of the sentence using len().
 
