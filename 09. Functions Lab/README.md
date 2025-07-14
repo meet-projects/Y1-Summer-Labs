@@ -26,7 +26,8 @@ In this lab, you will learn how to start writing working **functions**, as well 
     -->
 ### 1) GO HOME!
 
-1. *Define* a new function and call it `go_home`, it should take 1 argument which is `name`.
+1. *Define* a new function and call it `go_home`, it should take 1 argument which is `name`. </br>
+(Hint: Check slides to see the 6 Ingredients of a function!)
 
 2. The function should **return**: `"[name] go home!"`
     
@@ -35,7 +36,7 @@ In this lab, you will learn how to start writing working **functions**, as well 
 3. Test our your code!
     - You can print the result of the function to see it work like this:
     ```python
-    print(go_home("Vivien", 6))
+    print(go_home("Leen", 6))
     ```
 
 
