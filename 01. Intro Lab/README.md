@@ -45,7 +45,7 @@ In this lab, you will learn how to use **IDLE**, Python's built-in development e
 
 ###  Submit Form
 - Once you're done, go to the submission form:  
-  [https://forms.gle/MXjJVVhSneSTZDXj9](https://forms.gle/MXjJVVhSneSTZDXj9)  
+  https://docs.google.com/forms/d/e/1FAIpQLSd4clINkBzIekgbJFS7KkQTWHZFvm7B1qMBHR3klHrIGG9Y7g/viewform 
 - Upload a screenshot of your code and output, or paste the file path to your `.py` file.  
 - Submit the form **only if you are confident** that you finished the lab.  
 - If you’re unsure, ask a TA or Instructor before submitting.
