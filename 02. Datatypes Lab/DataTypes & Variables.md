@@ -8,8 +8,7 @@ Moreover, you will learn how to assign *values* to **variables**, how to change 
 <img src="https://miro.medium.com/max/1000/1*aNMBIivJppLy2fMRVUSgHA.gif" width=250>
 
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `DataTypes & Vars - Your Name`
-
+Before we start, create a new Python file using IDLE and save it as YOUR-NAME_DataTypes_Vars.py
 
 ## Instructions:
 
@@ -30,7 +29,7 @@ Moreover, you will learn how to assign *values* to **variables**, how to change 
 1. Go over each line with your partner, and try to guess what each line returns as an **output**... discuss what your guesses are!
 
 1. Now, after you're done guessing and discussing, let's put your theories to the test!
-    - Write each line in the Repl.it **editor**, then press the `Run` button and understand why it is what it is.
+    - Write each line in IDLE, then press the `Run` button and understand why it is what it is.
     - If you don't understand something specific, try and ask your partner first :)
     - Remember! , if there are outputs that you do not understand, don’t hesitate to ask your TAs or Instructors!
 
@@ -83,7 +82,7 @@ print(four*3)
 3. Why did this happen?
     - Discuss this with your partner!
 
-4. Now, set a new variable called `num` and make it equal to the integer of your favorite number. Now, copy this code to your **Repl.it**:
+4. Now, set a new variable called `num` and make it equal to the integer of your favorite number. 
 ```python
 print(num*3)
 ```
@@ -96,8 +95,6 @@ print(num*3)
 ## Wrapping up:
 
 Let's submit the lab!
-- Once you've followed all the steps in a lab, click on the submission link: https://forms.gle/V9Ac57R2yyHWHLxaA
-- Copy your replit lab url, and paste it in the right place in the survey.
 - Submit the survey!
 
         if you have any questions, ask a classmate, TA or Instructor!
