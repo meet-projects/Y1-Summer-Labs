@@ -53,7 +53,7 @@ print(four*3)
 3. Why did this happen?
     - Discuss this with your partner!
 
-4. Now, set a new variable called `five` and make it equal to the integer `4`, and copy this code to your **Repl.it**:
+4. Now, set a new variable called `five` and make it equal to the integer `4`, and copy this code to your IDLE
 ```python
 five = 4
 
@@ -66,7 +66,7 @@ print(five*3)
 ---
 ### 3) Debugging Practice: 
 Below, you can find 3 mini programs that are written incorrectly.  
-We will provide what each program's intention is, and your job is to copy-paste it to your **Repl.it** and fix it!  
+We will provide what each program's intention is, and your job is to copy-paste it to your IDLE and fix it!  
 
 1. Intention: Print out `"My name is student"`
 ```python
@@ -100,9 +100,7 @@ Run the test.
  
   Let's submit the lab!
     - Once you've followed all the steps in a lab, go to the Master link.
-    - Click on the submission link for this lab - https://forms.gle/dcce3aMvjT61x7pcA  
-    - In the survey, copy your replit lab url, and copy it in the right place.
-    - Submit the survey!
+    - Click on the submission link for this lab.
 
     if you have any questions, ask a classmate, TA or Instructor!
 

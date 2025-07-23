@@ -10,13 +10,12 @@ In this lab, you will learn how to *recognize* **errors** in code and try to fix
 
 
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Debugging - Your Name`
 
 ## Instructions:
 
 ### Debugging Practice: 
 Below, you can find 3 mini programs that are written incorrectly.  
-We will provide what each program's intention is, and your job is to copy-paste it to your **Repl.it** editor and fix it!  
+We will provide what each program's intention is, and your job is to copy-paste it to your IDLE editor and fix it!  
 
 1. Intention: Print out `"My name is student"`
 ```python
@@ -41,9 +40,7 @@ print(total)
 
 ## Wrapping up:
 - Please reach out to your TAs or Instructors if you have any questions!
-- When you're done, click on the submission link: https://forms.gle/RyZxujThQs8nbPdT8
-- Copy your replit lab url, and paste it in the right place in the survey.
-- Submit the survey!
+- When you're done, Submit the Lab
 
 <!--
 - Please reach out to your TAs or Instructors if you have any questions!
