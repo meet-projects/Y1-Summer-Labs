@@ -3,7 +3,7 @@ h1. String Operations & Functions Cheatsheet
 h2. New Terms
 
 |_.New Term|_.Definition|_.Example|
-|Boolean Expression|A condition that evaluates to @True@ or @False@. Often this is a comparison between to values.|@7 > 2@, @4 == 5@ (the first expression becomes @True@, and the second expression becomes @False@.|
+|Boolean Expression|A condition that evaluates to @True@ or @False@. Often this is a comparison between two values.|@7 > 2@, @4 == 5@ (the first expression becomes @True@, and the second expression becomes @False@.|
 |Boolean Operators|Special characters that let us compare two values.|@==@ (equal), @!=@ (not equal), @<@ (less than), @>@ (greater than), @<=@ (less than or equal), @>=@ (greater than or equal)|
 |@if@ statement|A block of code that only runs if a condition is @True@|```if number > 10:
   print("I can't count that high with my fingers!")```|
