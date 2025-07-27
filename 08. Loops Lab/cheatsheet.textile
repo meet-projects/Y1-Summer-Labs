@@ -1,0 +1,54 @@
+h1. Loops Cheatsheet
+
+h2. New Terms
+
+|_.New Term|_.Definition|_.Example|
+|@for@ Loop|A loop that runs code a fixed number of times.|```my_letters = ["a", "b", "c"]
+for letter in my_letters:
+  print(my_letters)```|
+|@while@ Loop|A loop that runs code until a condition is met.|```my_number = 0
+while my_number < 5:
+  my_number += 1
+  print(my_number)```|
+|@break@|A keyword we can use to end a loop early.|```my_letters = ["a", "b", "c"]
+for letter in my_letters:
+  if letter == "b":
+    break
+  print(my_letters)``` This loop will print @"a"@, but python will break out of it when @letter@ is @"b"@, so @"b"@ and @"c"@ won't be printed.|
+
+h2. Code Examples
+
+|_.Code Example|_.Result|_.Description|
+|```dirty_socks = [“red”, “green”, “white”, “hamburger”]
+for sock in dirty_socks:
+  print(“Picked up my “ + sock + “ socks”)```|```Picked up my red socks
+Picked up my green socks
+Picked up my white socks
+Picked up my hamburger socks```|Looping through a list.|
+|```for i in range(5):
+  print(i)```|```0
+1
+2
+3
+4```|Looping through a range starting at @0@ and going up to (but not including!) @5@.|
+|```for i in range(0, 5):
+  print(i)```|```1
+2
+3
+4```|Looping through a range starting at @1@ and going up to (but not including!) @5@.|
+|```my_number = 0
+while my_number < 5:
+  my_number += 1
+  print(my_number)```|```1
+2
+3
+4
+5```|Starting with @my_number@ at @0@, we keeping adding @1@ to it and printing it out, until @my_number@ is greater than @5@.|
+|```dirty_socks = [“red”, “green”, “hamburger”, “yellow”, “blue”]
+for sock in dirty_socks:
+  if sock==“hamburger”:
+    print(“Found my “+ sock + “ socks”)
+    break
+  print("Picked up my " + sock + " socks")```|```Picked up my red socks
+Picked up my green socks
+Found my hamburger socks```|Looping through @dirty_socks@ until we get to @"hamburger"@, then we break out of our loop.|
