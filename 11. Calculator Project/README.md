@@ -70,7 +70,6 @@
 
 
 ## Submission
-- When you're done, click on the submission link: https://forms.gle/DGFsV7poZdFja4DVA 
 - Submit the survey!
 
   
