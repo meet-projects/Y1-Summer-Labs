@@ -1,8 +1,6 @@
 # Calculator Project - Y1 Summer 
 
 
-> Before we start, navigate to Repl.it and `+ Create Repl` with the title `Calculator Project - Your Name`
-
 
 
 <img src="https://art.pixilart.com/2241c06cc44adc2.gif" align="right" width=300>
@@ -73,7 +71,6 @@
 
 ## Submission
 - When you're done, click on the submission link: https://forms.gle/DGFsV7poZdFja4DVA 
-- Copy your replit project url, and paste it in the right place in the survey.
 - Submit the survey!
 
   
